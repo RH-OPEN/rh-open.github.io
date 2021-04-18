@@ -17,12 +17,12 @@ sort: 2
 
 - OPENのトレーニングコースをカタログから選んでください。
     - 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/600675b2b7b7397fb245945d)
-    - OPENトレーニングのおすすめコース一覧　→　[こちら](/assets/docs/OPEN Basic Step-up Guide.pdf)
+    - OPEN おすすめコース一覧　→　[こちら](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
 
 ```tip
 **これからOPENを始める皆様へ**
 
-OPENトレーニングは幅広い製品をカバーしている。どれから始めようか迷ってしまう方は、ぜひ[おすすめコース一覧]()から始めてみてください！
+OPENトレーニングは幅広い製品をカバーしている。どれから始めようか迷ってしまう方は、ぜひ[OPEN おすすめコース一覧](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)から始めてみてください！
 ```
 ```note
 OPENを使ったイベントなども開催されています。ぜひ[こちら](https://redhat-open.connpass.com/event/)でイベントも確認してみてください。
