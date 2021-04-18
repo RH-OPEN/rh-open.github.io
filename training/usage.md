@@ -15,9 +15,9 @@ sort: 2
     - （資料）OPEN操作ガイド　→　[こちら](https://view.highspot.com/viewer/5f92922d628ba20cbd934336)
 
 
-- OPENのトレーニングコースをカタログから選んでください。
-    - 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/600675b2b7b7397fb245945d)
-    - OPEN おすすめコース一覧　→　[こちら](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
+## OPEN コースカタログ
+- 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/600675b2b7b7397fb245945d)
+- OPEN おすすめコース一覧　→　[こちら](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
 
 ```tip
 **これからOPENを始める皆様へ**
