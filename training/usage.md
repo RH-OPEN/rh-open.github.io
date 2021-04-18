@@ -15,9 +15,19 @@ sort: 2
     - （資料）OPEN操作ガイド　→　[こちら](https://view.highspot.com/viewer/5f92922d628ba20cbd934336)
 
 
-レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/global/japan/partners)の最下段をご参照のうえ、お気軽にお問い合わせください
+- OPENのトレーニングコースをカタログから選んでください。
+    - 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/600675b2b7b7397fb245945d)
+    - OPENトレーニングのおすすめコース一覧　→　[こちら](/assets/docs/OPEN Basic Step-up Guide.pdf)
 
+```tip
+**これからOPENを始める皆様へ**
+
+OPENトレーニングは幅広い製品をカバーしている。どれから始めようか迷ってしまう方は、ぜひ[おすすめコース一覧]()から始めてみてください！
+```
 ```note
 OPENを使ったイベントなども開催されています。ぜひ[こちら](https://redhat-open.connpass.com/event/)でイベントも確認してみてください。
 ```
+
+レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/global/japan/partners)の最下段をご参照のうえ、お気軽にお問い合わせください
+
 
