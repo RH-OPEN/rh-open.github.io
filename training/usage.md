@@ -12,7 +12,7 @@ sort: 2
 ## OPEN の使用までのステップ
 - OPENのご利用方法については、下記の動画または、資料を参照してください。
     - （動画）OPENの利用方法ガイド　→　[こちら](https://youtu.be/Uo_DGYw7vJA)
-    - （資料）OPEN操作ガイド　→　[こちら](https://view.highspot.com/viewer/5f92922d628ba20cbd934336)
+    - （スライド）OPEN操作ガイド　→　[こちら](https://view.highspot.com/viewer/5f92922d628ba20cbd934336)
 
 
 ## OPEN コースカタログ

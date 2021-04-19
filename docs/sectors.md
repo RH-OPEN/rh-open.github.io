@@ -15,6 +15,10 @@ Red Hat の導入事例資料を業種別にまとめています。
 |3|[Red Hat Process Automation で保険業務を変革する](https://redhat-partner.highspot.com/items/5e418d3e429d7b1d77235380?lfrm=srp.17)|Red Hat® Process Automation は、保険会社がビジネスロジックをキャプチャーしてビジネスプロセスおよび意思決定を自動化するアプリケーションを開発するために役立ちます。その詳細をご覧ください。|
 |4|[銀行の IT インフラを新たなデジタルエンゲージメントに適応させる](https://redhat-partner.highspot.com/items/5d8cf5b5429d7b4358373d54?lfrm=srp.41)|銀行サービスに対して顧客が抱く、既存および新規の要望両方に対応していくために、どのようにデジタルエンゲージメントに取り組み、設計すべきかを解説します。|
 
+```note
+金融業界様が直面する課題を解決するための様々な情報を多数掲載しています。ぜひ[こちら](https://redhat.lookbookhq.com/l/rh-fsi-hub)もご参照ください。
+```
+
 ## 通信
 
 | No.          | タイトル          | 概要 |
