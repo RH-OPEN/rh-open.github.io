@@ -16,7 +16,7 @@ sort: 2
 
 
 ## OPEN コースカタログ
-- 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/600675b2b7b7397fb245945d)
+- 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/6085fec76a3b1133133eb39f)
 - OPEN おすすめコース一覧　→　[こちら](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
 
 ```tip
