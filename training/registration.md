@@ -12,8 +12,8 @@ sort: 1
 
 ## OPEN の登録までのステップ
 - Red Hat ID取得、およびOPEN ID登録はこちらの動画を参照してください。
-    - （動画）Red Hat ID作成・OPEN ID登録　→　[こちら](https://view.highspot.com/viewer/60011a60a2e3a92b53ef1ccd)　
-    - （資料）RED HAT オープントレーニングシステム アクセスおよび登録方法　→　[こちら](https://youtu.be/gUrKMyhHgnY)　
+    - （動画）Red Hat ID作成・OPEN ID登録　→　[こちら](https://youtu.be/gUrKMyhHgnY)
+    - （資料）RED HAT オープントレーニングシステム アクセスおよび登録方法　→　[こちら](https://view.highspot.com/viewer/60011a60a2e3a92b53ef1ccd)　
 
 ## その他
 - Red Hat ID作成・OPEN ID登録先のURL　→　[こちら](https://connect.redhat.com/)
