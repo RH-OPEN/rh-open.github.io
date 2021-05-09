@@ -7,12 +7,12 @@ sort: 2
 Red Hatの製品情報などポートフォリオ全体に関する資料をまとめています。
 
 
-## Red Hat 製品全体
+## 全体（サブスクリプション等）
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
 |1|[Red Hat Enterprise Linux サブスクリプションガイド](https://redhat-partner.highspot.com/items/5940c02bf216763a68730b44?lfrm=srp.3)|Red Hat Enterprise Linux サブスクリプションガイドでは、適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。|
-|1|[OpenShift Subscription and Sizing Guide](https://redhat-partner.highspot.com/items/5978ae4cf216760280387bc2#1)|OpenShiftのサブスクリプションモデルの詳細と、環境のサイジングに関する背景を説明したスライドです。(英語)|
+|2|[OpenShift Subscription and Sizing Guide](https://redhat-partner.highspot.com/items/5978ae4cf216760280387bc2#1)|OpenShiftのサブスクリプションモデルの詳細と、環境のサイジングに関する背景を説明したスライドです。(英語)|
 
 ## OpenShift (OpenShift Container Platform:OCP)
 
