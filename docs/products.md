@@ -45,8 +45,7 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
-|1|[Red Hat Decision Manager (RHDM) 紹介動画](https://www.youtube.com/watch?v=ooX04ab-7go&list=PL4IvAXW0drR20WVybcHwm8nns-RrQ5wWX)|レッドハットが提供するビジネスルールエンジン、RHDMの主な特徴をご紹介します。
-コンテンツは下記です。|
+|1|[Red Hat Decision Manager (RHDM) 紹介動画](https://www.youtube.com/watch?v=ooX04ab-7go&list=PL4IvAXW0drR20WVybcHwm8nns-RrQ5wWX)|レッドハットが提供するビジネスルールエンジン、RHDMの主な特徴をご紹介します。|
 
 ## Red Hat Integration (Fuse, 3scale, AMQ, Kafka)
 
