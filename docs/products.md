@@ -13,6 +13,7 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 | --------------- | -------------- | ---- |
 |1|[Red Hat Enterprise Linux サブスクリプションガイド](https://redhat-partner.highspot.com/items/5940c02bf216763a68730b44?lfrm=srp.3)|Red Hat Enterprise Linux サブスクリプションガイドでは、適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。|
 |2|[OpenShift Subscription and Sizing Guide](https://redhat-partner.highspot.com/items/5978ae4cf216760280387bc2#1)|OpenShiftのサブスクリプションモデルの詳細と、環境のサイジングに関する背景を説明したスライドです。(英語)|
+|3|[Red Hat OpenShift サイジングおよびサブスクリプション・ガイド](https://www.redhat.com/ja/resources/OpenShift-subscription-sizing-guide-detail)|この資料では、Red Hat OpenShift Container Platform、Red Hat OpenShift Dedicated などの 製品のサブスクリプションモデルについて説明します。また、OpenShift 環境のサイズを見積もるための簡単な手順を紹介します。(日本語)|
 
 ## OpenShift (OpenShift Container Platform:OCP)
 
@@ -20,6 +21,8 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 | --------------- | -------------- | ---- |
 |1|[Red Hat OpenShift Container Platform](https://redhat-partner.highspot.com/items/5a5fdc99f216763ba1725911?lfrm=srp.73)|Red Hat OpenShift は、革新的なアプリケーションの作成と移行を行う企業が、卓越したエクスペリエンスを顧客に提供するための支援を提供します。その詳細をご確認ください。|
 |2|[Red Hat OpenShift4入門 Enterprise Kubernetesへのファーストステップ](https://redhat-partner.highspot.com/items/5e6a7a32429d7b62846c3b58?lfrm=srp.0)|Red Hat OpenShiftの概要と、インストール、運用管理、アプリケーションの実行、クラスタの設定と管理などの基礎を、この1冊で学べます。コンテナオーケストレーションツールのトップシェア製品、OpenShiftでEnterprise Kubernetesへの第一歩を踏み出しましょう|
+|3|[Advance your business with AI/ML](https://www.redhat.com/rhdc/managed-files/cl-openshift-for-ai-ml-customer-e-book-f28561-202104-en.pdf)|Discover how organizations speed AI/ML adoption with Red Hat OpenShift|
+
 
 ## OpenShift Data Foundation (旧名称 OpenShift Container Storage:OCS)
 
@@ -42,7 +45,8 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
-|1|Coming soon||
+|1|[Red Hat Decision Manager (RHDM) 紹介動画](https://www.youtube.com/watch?v=ooX04ab-7go&list=PL4IvAXW0drR20WVybcHwm8nns-RrQ5wWX)|レッドハットが提供するビジネスルールエンジン、RHDMの主な特徴をご紹介します。
+コンテンツは下記です。|
 
 ## Red Hat Integration (Fuse, 3scale, AMQ, Kafka)
 
@@ -71,6 +75,7 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 |1|[RHEL資料おきば](https://moriwaka.github.io/)|RHELに関するビギナー向け資料から、RHEL8の紹介、個別機能、セキュリティに関する資料のまとめサイトです。|
 |2|[Red Hat Enterprise Linux 8 ご紹介](https://redhat-partner.highspot.com/items/5d162a9d429d7b2d9300ddf7?lfrm=srp.43)|Red Hat Enterprise Linux 8 の概要を知りたい人むけに、RHEL8 リリースノート Overviewをおおむねカバーする程度の情報と関連リンクをまとめた資料です。|
 |3|[Red Hat Enterprise Linux for SAP Solutions](https://redhat-partner.highspot.com/items/5aa1ef99f216761ee83ca786?lfrm=srp.34#1)|Red Hat のソフトウェアスタックで IT インフラストラクチャを標準化すると、SAP 環境を最適化しながら、将来に向けて備えることができます。 |
+|4|[Red Hat’s comprehensive UBI eBook ](https://connect.redhat.com/en/partner-resources/red-hat-ubi-ebook)||
 
 ## その他
 
