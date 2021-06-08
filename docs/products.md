@@ -21,7 +21,7 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 | --------------- | -------------- | ---- |
 |1|[Red Hat OpenShift Container Platform](https://redhat-partner.highspot.com/items/5a5fdc99f216763ba1725911?lfrm=srp.73)|Red Hat OpenShift は、革新的なアプリケーションの作成と移行を行う企業が、卓越したエクスペリエンスを顧客に提供するための支援を提供します。その詳細をご確認ください。|
 |2|[Red Hat OpenShift4入門 Enterprise Kubernetesへのファーストステップ](https://redhat-partner.highspot.com/items/5e6a7a32429d7b62846c3b58?lfrm=srp.0)|Red Hat OpenShiftの概要と、インストール、運用管理、アプリケーションの実行、クラスタの設定と管理などの基礎を、この1冊で学べます。コンテナオーケストレーションツールのトップシェア製品、OpenShiftでEnterprise Kubernetesへの第一歩を踏み出しましょう|
-|3|[Advance your business with AI/ML](https://www.redhat.com/rhdc/managed-files/cl-openshift-for-ai-ml-customer-e-book-f28561-202104-en.pdf)|Discover how organizations speed AI/ML adoption with Red Hat OpenShift|
+|3|[Red Hat OpenShift とKubernetes、その違いとは？](https://www.redhat.com/rhdc/managed-files/cl-openshift-and-kubernetes-ebook-f25170wg-202010-a4-ja.pdf)|OpenShift とKubernetes の違いについての質問についてのご説明をまとめた資料です。|
 
 
 ## OpenShift Data Foundation (旧名称 OpenShift Container Storage:OCS)
