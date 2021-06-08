@@ -29,6 +29,11 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 | --------------- | -------------- | ---- |
 |1|[はじめてみよう!ルール駆動開発](https://redhat-partner.highspot.com/items/601973f060e9cc32f3e489bd?lfrm=srp.0)|レガシーシステムのモダナイズに有効な「ルール駆動開発」を紹介する漫画です。|
 
+## AI・機械学習
+
+| No.          | タイトル          | 概要 |
+|1|[Advance your business with AI/ML](https://www.redhat.com/rhdc/managed-files/cl-openshift-for-ai-ml-customer-e-book-f28561-202104-en.pdf)|Discover how organizations speed AI/ML adoption with Red Hat OpenShift|
+
 ## セキュリティ
 
 | No.          | タイトル          | 概要 |
