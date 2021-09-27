@@ -10,9 +10,9 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
-|1|[2021 年版世界のテクノロジー展望：Red Hat レポート](https://redhat-partner.highspot.com/items/604bd328f7794d662291fc21?lfrm=srp.2)|各種業界の IT リーダーが 2021 年に最重視している目標と課題とは？その詳細をご覧ください。|
+|1|[2021 年版世界のテクノロジー展望：Red Hat レポート](https://redhat-partner.highspot.com/items/6048e1b6998ae45731ced6fc?lfrm=srp.0)|各種業界の IT リーダーが 2021 年に最重視している目標と課題とは？その詳細をご覧ください。|
 |2|[オープンソースのちからで実現するデジタル・トランスフォーメーション](https://redhat-partner.highspot.com/items/5c184248429d7b55b3a9f207?lfrm=srp.28#1)|オープンソースの原則でチーム、テクノロジー、プロセスを結びつけましょう。|
-|3|[デジタル・トランスフォーメーションの成功に欠かせない 5 つの要素](https://redhat-partner.highspot.com/items/5fdd00fd6a3b11252ed72fd4?lfrm=srp.33#1)|デジタル・トランスフォーメーション・プロジェクトの結果を高める 5 つの要素をご紹介します。|
+|3|[デジタル・トランスフォーメーションの成功に欠かせない 5 つの要素](https://redhat-partner.highspot.com/items/5fdb92af60e9cc2416a828cc?lfrm=srp.0)|デジタル・トランスフォーメーション・プロジェクトの結果を高める 5 つの要素をご紹介します。|
 |4|[デジタル・トランスフォーメーションの失敗を回避する](https://redhat-partner.highspot.com/items/5f7cd16f60e9cc426981dde7?lfrm=srp.47#1)|成功するデジタル・トランスフォーメーションが持つ要素と、テクノロジーへの投資を確実に成功させる方法について説明します。|
 
 ## クラウドネイティブ/ハイブリッド・マルチクラウド
@@ -20,8 +20,8 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
 |1|[コンテナおよび Kubernetes セキュリティへの階層型アプローチ](https://redhat-partner.highspot.com/items/5b281ce7f21676191353ac02?lfrm=srp.11#1)|コンテナおよび Kubernetes のセキュリティに対する階層型アプローチを実装するために必要な知識を紹介します。詳細はダウンロードしてご確認ください。|
-|2|[クラウドネイティブとハイブリッドクラウドの融合：戦略ガイド](https://redhat-partner.highspot.com/items/5fb82bcd8117174b1cd93758?lfrm=srp.26#1)|信頼性、生産性、変化のためのアプリケーション環境を構築する方法を学びます。|
-|3|[クラウドでコンテナを導入すべき 8 つの理由](https://redhat-partner.highspot.com/items/602adfdf6a3b112bc0baa336?lfrm=srp.11#1)|Microsoft Azure Red Hat OpenShift を使用してクラウドでコンテナを導入する 8 つのメリットについてご紹介します。|
+|2|[クラウドネイティブとハイブリッドクラウドの融合：戦略ガイド](https://redhat-partner.highspot.com/items/5fb57ee160e9cc1e57ea3ed0?lfrm=srp.0)|信頼性、生産性、変化のためのアプリケーション環境を構築する方法を学びます。|
+|3|[クラウドでコンテナを導入すべき 8 つの理由](https://redhat-partner.highspot.com/items/60256c32998ae44269afc3da?lfrm=srp.0)|Microsoft Azure Red Hat OpenShift を使用してクラウドでコンテナを導入する 8 つのメリットについてご紹介します。|
 
 ## レガシーシステム・モダナイゼーション
 
@@ -53,8 +53,9 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
 |1|[先進的なツールとテクニックで Linux 環境を管理する](https://redhat-partner.highspot.com/items/60087aa9bf6c94371080e0f0?lfrm=srp.3)|Red Hat によるこの e ブックでは、Linux システム管理ツールとベストプラクティスを使用して、費用対効果の高い大規模環境を構築およびサポートする方法を学びます。|
-|2|[IT 基盤を強化するための 6 つの方法](https://redhat-partner.highspot.com/items/5fe246ba811717220ed28af9?lfrm=srp.32#1)|中堅組織 (ミッドマーケット) は安定性、柔軟性、セキュリティをどのように向上できるか|
+|2|[IT 基盤を強化するための 6 つの方法](https://redhat-partner.highspot.com/items/5fe0c10560e9cc15c83ca4de?lfrm=srp.0)|中堅組織 (ミッドマーケット) は安定性、柔軟性、セキュリティをどのように向上できるか|
 |3|[Red Hat で可能性を拓く](https://redhat-partner.highspot.com/items/5ff8ce2ebf6c94491e83f6be?lfrm=srp.0)|どのようにすれば、中堅組織の IT 環境が持つ力と可能性を再定義できるでしょうか。|
+|4|[より優れたアプリケーションを開発してデプロイするための 6 つの方法](https://redhat-partner.highspot.com/items/5fe0d87fbf6c940c6578ceb3?lfrm=srp.1)|中堅組織 (ミッドマーケット) は品質、スピード、安定性をどのように向上できるか|
 
 ## 組織変革・人材育成
 
