@@ -8,7 +8,6 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 
 
 |                    名前                    |                            説明                             | テナント  | タイプ  |  項目タイプ  | カタログ内に表示 |                カタログ                |          作成日          |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 3Scale API Security with OIDC            | 3Scale API Security with OIDC                             | RHPDS | Item | generic | True     | Application Services Demo          | 07/03/18 16:40:38 EDT |
 | 3scale OpenShift Service Mesh Demo       | OCP4 3SAM OSSM DEMO                                       | RHPDS | Item | generic | True     | Application Services Demo          | 07/01/21 06:32:01 EDT |
 | AAP2 Linux Automation Workshop (L)       | AAP2 Linux Automation Workshop (L)                        | RHPDS | Item | generic | True     | Management and Automation Workshop | 09/25/21 18:32:24 EDT |
