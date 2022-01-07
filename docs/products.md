@@ -74,7 +74,9 @@ Red Hatの製品情報などポートフォリオ全体に関する資料をま�
 |1|[RHEL資料おきば](https://moriwaka.github.io/)|RHELに関するビギナー向け資料から、RHEL8の紹介、個別機能、セキュリティに関する資料のまとめサイトです。|
 |2|[Red Hat Enterprise Linux 8 ご紹介](https://redhat-partner.highspot.com/items/5d162a9d429d7b2d9300ddf7?lfrm=srp.43)|Red Hat Enterprise Linux 8 の概要を知りたい人むけに、RHEL8 リリースノート Overviewをおおむねカバーする程度の情報と関連リンクをまとめた資料です。|
 |3|[Red Hat Enterprise Linux for SAP Solutions](https://redhat-partner.highspot.com/items/5aa1ef99f216761ee83ca786?lfrm=srp.34#1)|Red Hat のソフトウェアスタックで IT インフラストラクチャを標準化すると、SAP 環境を最適化しながら、将来に向けて備えることができます。 |
-|4|[Red Hat’s comprehensive UBI eBook ](https://connect.redhat.com/en/partner-resources/red-hat-ubi-ebook)||
+|4|[SAP ワークロードに Red Hat を選ぶ 10 の理由](https://redhat-partner.highspot.com/items/60f0497fe430166258ffd5a1)|SAP ワークロードのエンドツーエンドのビジネスプロセスを、実行、開発、単純化、拡張するために、Red Hat を選ぶ 10 の理由をご覧ください。|
+|5|[Red Hat’s comprehensive UBI eBook ](https://connect.redhat.com/en/partner-resources/red-hat-ubi-ebook)||
+|6|[先進的なツールとテクニックで Linux 環境を管理する](https://redhat-partner.highspot.com/items/60087aa9bf6c94371080e0f0)|Red Hat によるこの e ブックでは、Linux システム管理ツールとベストプラクティスを使用して、費用対効果の高い大規模環境を構築およびサポートする方法を学びます。|
 
 ## その他
 
