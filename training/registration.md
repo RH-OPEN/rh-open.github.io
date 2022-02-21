@@ -13,7 +13,7 @@ sort: 1
 ## Red Hat Partner Training Portalの登録までのステップ
 - Red Hat ID取得、Red Hat Partner Training Portal ID登録はこちらの動画を参照してください。
     - （動画）Red Hat ID作成 ・ Red Hat Partner Training Portal ID登録　→　[こちら](https://youtu.be/gUrKMyhHgnY)
-    - （資料）Red Hat Partner Training Portalアクセスおよび登録方法　→　[こちら](https://redhat.highspot.com/items/618073b93c44df77851bf441?lfrm=irel.0#1)　
+    - （資料）Red Hat Partner Training Portalアクセスおよび登録方法　→　[こちら](https://redhat-partner.highspot.com/items/618562be086989fff1efef24#1)　
 
 ※アクセスできない方は、以下のお問い合わせからご連絡お願いします。
 
