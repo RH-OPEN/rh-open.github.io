@@ -290,16 +290,16 @@ sort: 3
       What's new in OpenShift 4.9-4.10
     </td>
     <td>
-      <a href="https://docs.google.com/presentation/d/1dr_JFiz5wO9chz9RDWuYVeNfFf1IoPL5/edit?usp=sharing&ouid=116214710648103817049&rtpof=true&sd=true">Link</a>
+      <a href="https://www.redhat.com/en/whats-new-red-hat-openshift">Link</a>
     </td>
     <td>
-      Red Hat OpenShift 4.10における更新内容を説明したプレゼンテーション資料です。
+      Red Hat OpenShift 4.10における更新内容を説明したプレゼンテーション資料と動画です。
     </td>
     <td>
       Version 4.10
     </td>
     <td>
-      2022/05/30
+      2022/06/02
     </td>
   </tr>
 </table>

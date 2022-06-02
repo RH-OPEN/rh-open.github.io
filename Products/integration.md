@@ -20,10 +20,10 @@ sort: 4
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Agile API Integration 紹介資料
+      Red Hat 6ntegration 紹介資料
     </td>
     <td><!--  リンク先  -->
-      <a href="https://redhat.dam.aprimo.com/dam/contentitems/15caf9187e3446f5ab0aadfe017e603b">Link</a>
+      <a href="https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#5">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Agile Integrationの解決するビジネス課題と製品の概要を紹介するプレゼンテーション資料です。
@@ -32,7 +32,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/02
     </td>
   </tr>
 
@@ -278,25 +278,7 @@ sort: 4
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-    Red Hat Integration - 技術概要
-    </td>
-    <td><!--  リンク先  -->
-     <a href="https://redhat.dam.aprimo.com/dam/contentitems/493b08d729754d5b9bcfadfe017e54a8">Link</a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について製品のアーキテクチャを記載したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/02
     </td>
   </tr>
 
