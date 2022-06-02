@@ -216,7 +216,7 @@ sort: 3
       OPENSHIFT CONTAINER PLATFORM クラスターでサポートされるプラットフォーム
     </td>
     <td>
-      <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+      <a href="https://access.redhat.com/documentation/ja-jp/openshift_container_platform/4.10/html/installing/supported-platforms-for-openshift-clusters_ocp-installation-overview">Link</a>
     </td>
     <td>
       Red Hat OpenShiftの稼働をサポートするプラットフォーム条件を明示します。
@@ -287,16 +287,16 @@ sort: 3
 
   <tr>
     <td>
-      What's new in OpenShift 4.9-4.10
+      What's new in OpenShift
     </td>
     <td>
       <a href="https://www.redhat.com/en/whats-new-red-hat-openshift">Link</a>
     </td>
     <td>
-      Red Hat OpenShift 4.10における更新内容を説明したプレゼンテーション資料と動画です。
+      Red Hat OpenShiftの更新について、各バージョンにおける更新事項
     </td>
     <td>
-      Version 4.10
+      -
     </td>
     <td>
       2022/06/02

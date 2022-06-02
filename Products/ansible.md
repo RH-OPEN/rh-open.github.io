@@ -73,24 +73,6 @@ sort: 2
     </td>
   </tr>
 
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Ansible Automation Platform でイノベーションを加速する 3 つの方法
-    </td>
-    <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/5f932c886a3b1148dd300c74?lfrm=srp.43#1">Link</a>
-    </td>
-    <td><!--  概要  -->
-      中規模組織がプロセスを改善し、デジタル関連の取り組みを実施するうえで、Red Hat Ansible Automation Platform がどのように役立つかをご紹介します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -151,7 +133,7 @@ sort: 2
       Red Hat Ansible Automation Platform controller Licensing, Updates, and Support
     </td>
     <td><!--  リンク先  -->
-      <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
+      <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#">Link</a>
     </td>
     <td><!--  概要  -->
     Red Hat Ansible Automation Platformのライセンスについて種別と適用方法を説明します。
@@ -169,7 +151,7 @@ sort: 2
       How are "managed nodes" defined as part of the Red Hat Ansible Automation Platform offering?
     </td>
     <td><!--  リンク先  -->
-      <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
+      <a href="https://access.redhat.com/articles/3331481">Link</a>
     </td>
     <td><!--  概要  -->
       ネットワーク分離環境におけるRed Hat Ansible Automation Platformのライセンスカウント方法について説明します。
