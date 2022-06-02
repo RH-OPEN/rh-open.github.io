@@ -20,10 +20,10 @@ sort: 4
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat 6ntegration 紹介資料
+      Red Hat Integration 紹介資料
     </td>
     <td><!--  リンク先  -->
-      <a href="https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#5">Link</a>
+      <a href="https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#1">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Agile Integrationの解決するビジネス課題と製品の概要を紹介するプレゼンテーション資料です。
@@ -186,7 +186,7 @@ sort: 4
       Red Hat Fuse でサポートされる構成
     </td>
     <td><!--  リンク先  -->
-      <a href="https://access.redhat.com/ja/articles/5950091">Link</a>
+      <a href="https://access.redhat.com/ja/articles/522893">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Fuseのサポート可能な構成を明示します。

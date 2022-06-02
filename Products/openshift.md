@@ -236,6 +236,10 @@ sort: 3
 
 <table>
 
+<tr>
+  <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+</tr>
+
   <tr>
     <td>
       OpenShift 4 Technical Deep Dive
@@ -252,10 +256,6 @@ sort: 3
     <td>
       2022/05/30
     </td>
-  </tr>
-
-  <tr>
-    <th>ドキュメント名</th> <th>リンク先</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
