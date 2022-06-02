@@ -198,7 +198,7 @@ sort: 3
       Red Hat OpenShift Ecosystem
     </td>
     <td>
-      <a href="https://www.redhat.com/rhdc/managed-files/cl-openshift-4-datasheet-f16726wg-201905-a4-ja.pdf">Link</a>
+      <a href="https://catalog.redhat.com/platform/red-hat-openshift/software">Link</a>
     </td>
     <td>
       Red Hat OpenShiftとの互換性が確認されたソフトウェア、及びクラウドサービスのリストを提供します。
