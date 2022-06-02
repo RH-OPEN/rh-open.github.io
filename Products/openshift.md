@@ -293,7 +293,7 @@ sort: 3
       <a href="https://www.redhat.com/en/whats-new-red-hat-openshift">Link</a>
     </td>
     <td>
-      Red Hat OpenShiftの更新について、各バージョンにおける更新事項
+      Red Hat OpenShiftの更新について、各バージョンにおける更新情報をまとめたプレゼンテーション資料の掲載サイトです。
     </td>
     <td>
       -
