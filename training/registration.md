@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 ---
 
 # Red Hat Partner Training Portalの登録方法
@@ -27,5 +27,3 @@ sort: 1
 
 ## お問い合わせ
 レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/global/japan/partners)の最下段をご参照のうえ、お気軽にお問い合わせください
-
-

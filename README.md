@@ -2,5 +2,4 @@
 
 [Red Hat Partner One-Stop](https://rh-open.github.io/) ページ は、Red Hat パートナーの皆様のイネーブルメントを効率的にご支援するためのワンストップサイトです。
 
-- Red Hat Partner Training Portal（トレーニングコンテンツ）への登録・利用方法
-- Red Hat 提供の資料やレポートのリンク集（[Red Hat Parter Content Hub](https://redhat-partner.highspot.com/)）
+{% include list.liquid all=true %}
