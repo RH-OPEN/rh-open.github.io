@@ -11,9 +11,9 @@ sort: 2
 
 
 ## Red Hat Partner Training Portalの登録までのステップ
-- Red Hat ID取得、Red Hat Partner Training Portal ID登録はこちらの動画を参照してください。
-    - （動画）Red Hat ID作成 ・ Red Hat Partner Training Portal ID登録　→　[こちら](https://youtu.be/gUrKMyhHgnY)
-    - （資料）Red Hat Partner Training Portalアクセスおよび登録方法　→　[こちら](https://redhat-partner.highspot.com/items/618562be086989fff1efef24#1)　
+- Red Hat ID取得、Red Hat Partner Training Portal ID登録はこちらの資料を参照してください。
+
+    - （スライド）[Partner CONNECT 登録ガイド(既存パートナー)](https://speakerdeck.com/rhpej/partner-connect-deng-lu-kaito-ji-cun-hatona)
 
 ※アクセスできない方は、以下のお問い合わせからご連絡お願いします。
 
