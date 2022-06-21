@@ -59,6 +59,12 @@ Interactive Learning Portalとは、ブラウザ上でOpenShift、Red Hat Enterp
 
 Red Hat製品デモシステムでは、パートナー様が、ご自身のお客様へすぐにRed Hat製品を体験いただきたい場合に利用できる、フルスクリプトのワークショップデモ環境です。コンテンツはレッドハットの技術者によって作成・提供されており、様々な製品・ユースケースをベースにしたデモを実施することができます。
 
+## Managed OpenShift ワークショップコンテンツ
+
+座学資料とハンズオンコースを提供しています。各パブリッククラウドのアカウントをお持ちであれば、こちらのコースを自習することもできます。
+
+・[Red Hat OpenShift Service on AWS (ROSA) Workshops](https://h-kojima.github.io/rosa-workshop/)
+
 ### 利用ガイド
 
 ・[Red Hat Product Demo System](https://connect.redhat.com/en/training/product-demo-system)
