@@ -14,11 +14,12 @@ Red Hatではパートナー様のRed Hat製品習得促進のため、以下の
 
 ## Red Hat Partner Training Portal（旧名OPEN）
 
-RedHat Partner Training Portalとは、パートナー様のみ利用できるハンズオン型トレーニングの無償コンテンツです。パートナープログラムの一つで、e-learningとオンラインによるラボを提供しています。
+RedHat Partner Training Portalとは、パートナー様のみ利用できるハンズオン型トレーニングの無償コンテンツです。
+
+パートナープログラムの一つで、e-learningとオンラインによるラボを提供しています。
 
 ### 利用ガイド
 ・[Red Hat IDの取得 + RedHat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)
-
 
 ・[RedHat Partner Training Portalの利用方法](https://rh-open.github.io/training/usage.html)
 
@@ -27,9 +28,51 @@ RedHat Partner Training Portalとは、パートナー様のみ利用できる�
 
 ・[おすすめコースリスト](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
 
+## Red Hat Product Demo System （RHPDS）
+
+Red Hat製品デモシステムでは、パートナー様がご自身のお客様へすぐにRed Hat製品を体験いただきたい場合に利用できる、フルスクリプトのワークショップデモ環境です。
+
+コンテンツはレッドハットの技術者によって作成・提供されており、様々な製品・ユースケースをベースにしたデモを実施することができます。
+
+### 利用ガイド
+
+・[Red Hat Product Demo System](https://connect.redhat.com/en/training/product-demo-system)
+
+## Red Hat Developer(旧名Interactive Learning Portal)
+Red Hat Developerは、Red Hat OpenShiftを上でアプリケーション開発を行うための各種情報とハンズオンラボを提供しています。
+ハンズオンラボはブラウザ上での提供となり、ご利用にあたりアカウント登録やログイン操作は不要です。
+
+### 提供コンテンツ
+
+・[OpenShift: Interactive Learning Portal](https://learn.openshift.com/)
+
+## Red Hat Enterprise Linux Skills Workshops
+
+Red Hat Enterprise Linuxのハンズオン型トレーニングの無償コンテンツです。アカウント登録やログイン操作は不要です。
+ブラウザ経由で、ユースケースに応じた様々なハンズオンラボを実施することができます。
+
+### 提供コンテンツ
+・[Red Hat Enterprise Linux Skills Workshops（英語オリジナル）](https://lab.redhat.com/)
+
+・[Red Hat Enterprise Linux 8（日本語版）](https://sites.google.com/view/explore-rhel8)
+
+※ 日本語版コンテンツは英語版より少し遅れて提供されます。最新版での学習が必要な場合は、英語オリジナルサイトをご利用ください。
+
+## Managed OpenShift ワークショップコンテンツ
+
+上述のRHPDSを利用したManaged Openshiftのワークショップとして、座学資料とハンズオンコースを提供しています。
+各パブリッククラウドのアカウントをお持ちであれば、こちらのコースを自習することもできます。
+
+・[Red Hat OpenShift Service on AWS (ROSA) Workshops](https://h-kojima.github.io/rosa-workshop/)
+
+### 利用ガイド
+
+・[Red Hat Product Demo System](https://connect.redhat.com/en/training/product-demo-system)
+
 ## Customer Success Training （CST）
 
 LinuxやOpenShiftのトレーニングだけでなく、DevOps の認定資格まで、ビジネス目標に沿った実技形式のトレーニングと実践的な認定パスを提供しています。
+有償のトレーニングサービスとなるため、ご利用についてはRed Hatの営業までお問合せください。
 
 ### 利用ガイド
 
@@ -40,31 +83,3 @@ LinuxやOpenShiftのトレーニングだけでなく、DevOps の認定資格�
 ### 提供コンテンツ
 
 ・[すべてのトレーニングコースと試験](https://www.redhat.com/ja/services/training/all-courses-exams)
-
-## Interactive Learning Portal
-
-Interactive Learning Portalとは、ブラウザ上でOpenShift、Red Hat Enterprise Linux 8に関するハンズオンが実行できるセルフトレーニングサービスです。 (Katacodaを利用しています)
-
-### 提供コンテンツ
-
-・[OpenShift: Interactive Learning Portal](https://learn.openshift.com/)
-
-・[Red Hat Enterprise Linux 8: Interactive Learning（英語オリジナル）](https://lab.redhat.com/)
-
-・[Red Hat Enterprise Linux 8（日本語版）](https://sites.google.com/view/explore-rhel8)
-
-※ 日本語版コンテンツは英語版より少し遅れて提供されます。最新版での学習が必要な場合は、英語オリジナルサイトをご利用ください。
-
-## Red Hat Product Demo System （RHPDS）
-
-Red Hat製品デモシステムでは、パートナー様が、ご自身のお客様へすぐにRed Hat製品を体験いただきたい場合に利用できる、フルスクリプトのワークショップデモ環境です。コンテンツはレッドハットの技術者によって作成・提供されており、様々な製品・ユースケースをベースにしたデモを実施することができます。
-
-## Managed OpenShift ワークショップコンテンツ
-
-座学資料とハンズオンコースを提供しています。各パブリッククラウドのアカウントをお持ちであれば、こちらのコースを自習することもできます。
-
-・[Red Hat OpenShift Service on AWS (ROSA) Workshops](https://h-kojima.github.io/rosa-workshop/)
-
-### 利用ガイド
-
-・[Red Hat Product Demo System](https://connect.redhat.com/en/training/product-demo-system)
