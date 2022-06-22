@@ -178,7 +178,7 @@ sort: 2
       Red Hat Ansible Automation Platform のライフサイクル
     </td>
     <td><!--  リンク先  -->
-      <a href="https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html#node-counting-in-licenses">Link</a>
+      <a href="https://access.redhat.com/ja/support/policy/updates/ansible-automation-platform">Link</a>
     </td>
     <td><!--  概要  -->
       Red Hat Ansible Automation Platformの製品ライフサイクルポリシー、及びサポート終了日を明示します。
