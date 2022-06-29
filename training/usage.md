@@ -11,7 +11,7 @@ sort: 3
 
 ## Red Hat Partner Training Portalの使用までのステップ
 - Red Hat Partner Training Portalのご利用方法については、下記の動画または、資料を参照してください。
-    - （動画）[Red Hat Partner Training Portalの利用方法ガイド]([https://youtu.be/Uo_DGYw7vJA](https://cdnapisec.kaltura.com/html5/html5lib/v2.96.2/mwEmbedFrame.php/p/2300461/uiconf_id/42569541/entry_id/1_b0ror3ux?wid=_2300461&iframeembed=true&playerId=kaltura_player_1615864134&entry_id=1_b0ror3ux))
+    - （動画）[Red Hat Partner Training Portalの利用方法ガイド](https://cdnapisec.kaltura.com/html5/html5lib/v2.96.2/mwEmbedFrame.php/p/2300461/uiconf_id/42569541/entry_id/1_b0ror3ux?wid=_2300461&iframeembed=true&playerId=kaltura_player_1615864134&entry_id=1_b0ror3ux)
     - （スライド）[Red Hat Partner Training Portalユーザーガイド](https://redhat-partner.highspot.com/items/618562be086989fff1efef24#1)
 
 
