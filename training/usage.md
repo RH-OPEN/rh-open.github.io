@@ -16,7 +16,7 @@ sort: 3
 
 
 ## Red Hat Partner Training Portalコースカタログ
-- 全トレーニングコースのカタログ　→　[こちら](https://view.highspot.com/viewer/6085fec76a3b1133133eb39f)
+- 全トレーニングコースのカタログ　→　[こちら](https://connect.redhat.com/en/training/course-catalog)
 - Red Hat Partner Training Portalおすすめコース一覧　→　[こちら](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
 
 ```tip
