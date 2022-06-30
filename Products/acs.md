@@ -154,7 +154,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetes Support Policyの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
+      Red Hat Advanced Cluster Security for KubernetesのCentralサーバの動作をサポートするプラットフォーム、およびRHACSによる管理をサポートするプラットフォームのリストを提供します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -189,10 +189,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-    Red Hat Advanced Cluster Security for Kubernetesの技術概要とVersion 3.8における新機能の紹介とハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
+    Red Hat Advanced Cluster Security for Kubernetesのハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
-      Version 3.8
+      -
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
