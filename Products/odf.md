@@ -1,13 +1,12 @@
 ---
-sort: 4
+sort: 7
 ---
 
-# Red Hat Integration
+# Red Hat OpenShift Data Foundation
 
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Integration-A-Standard-RGB.png?raw=true" alt="integration_logo" title="Integration">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-OpenShift-Data_Foundation-A-Standard-RGB.png?raw=true" alt="odf_logo" title="odf">
 
-
-[Red Hat® Integration](https://www.redhat.com/ja/products/integration) は、ハイブリッド・インフラストラクチャ全体でアプリケーションとデータを接続するための統合およびメッセージング・テクノロジーの包括的なツールです。アジャイルで分散型のコンテナ化された API 中心のソリューションで、サービス構成とオーケストレーション、アプリケーションの接続性とデータ変換、リアルタイムのメッセージストリーミング、変更データの取得、そして API 管理を提供します。これらはすべてクラウドネイティブのプラットフォームおよびツールチェーンと結合して、最新のアプリケーション開発の全領域をサポートします。
+[Red Hat OpenShift Data Foundation](https://www.redhat.com/ja/technologies/cloud-computing/openshift-container-storage) (旧 Red Hat OpenShift Container Storage) は、コンテナ用ソフトウェア・デファインド・ストレージです。Red Hat OpenShift のデータおよびストレージサービス・プラットフォームとして設計された Red Hat OpenShift Data Foundation は、クラウド全体でアプリケーションを迅速かつ効率的に開発し、デプロイするのに役立ちます。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
@@ -35,32 +34,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ### 01-01. 製品概要
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat Integration 紹介資料
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Agile Integrationの解決するビジネス課題と製品の概要を紹介するプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/02
-    </td>
   </tr>
 
   <tr>
@@ -70,23 +45,23 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://youtu.be/3ydCD0wckOI
+        https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Agile API Integration (3Scale, Fuse) 紹介動画
+        Red Hat OpenShift Data Foundation(ODF)の紹介動画
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Agile API Integration (3Scale, Fuse) の製品概要の紹介動画です。
+      Red Hat OpenShift Data Foundationの紹介動画です。
+      OpenShiftにおけるストレージの課題や、ODFがその課題に対しどのように解決を行うかを紹介しています。
     </td>
     <td><!--  対象バージョン  -->
-      Version 8.x
+      -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/30
     </td>
   </tr>
-
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -124,7 +99,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ### 01-03. 提供形態
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
@@ -135,21 +110,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62910c7c052a903cff453167
+        https://app.highspot.com/items/62bb6903f6821dc9cfea5945
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Integration サブスクリプション説明資料
+        Red Hat OpenShift Data Foundation サブスクリプション説明資料
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Integration のサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
-      下記の製品マニュアルの補助資料としてご利用いただけます。
+      Red Hat OpenShift Data Foundationのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/30
     </td>
   </tr>
 
@@ -160,20 +134,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/rhdc/managed-files/mi-application-services-subscription-guide-detail-f29167pr-202107-en.pdf
+        https://access.redhat.com/articles/6932811
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Agile Integration サブスクリプションガイド
+        OpenShift Data Foundation Subscription Guide
       </a>
     </td>
     <td><!--  概要  -->
-　   Red Hat Agile Integration の適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。
+      Red Hat OpenShift Data Foundationのサブスクリプションモデルの説明およびサブスクリプションの種類と種別を見積もるための手順を紹介します。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/30
     </td>
   </tr>
 
@@ -182,7 +156,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ### 01-04. ライフサイクル
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
@@ -192,21 +166,21 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td>
       <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/support/policy/updates/jboss_notes
+      <a href="  
+        https://access.redhat.com/ja/support/policy/updates/openshift#odf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Application Services 製品のアップデートとサポートポリシー
+        Red Hat OpenShift Container Platform のライフサイクルポリシー
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Integrationを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+      Red Hat OpenShift Data Foundationを含むOpenShift関連製品のライフサイクルポリシー、及びサポート終了日を明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/30
     </td>
   </tr>
 
@@ -216,7 +190,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ### 01-05. 互換性情報
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
@@ -227,116 +201,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://access.redhat.com/ja/articles/5950091
+        https://access.redhat.com/articles/4731161
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat 3scale API Management のサポート対象構成
+        Red Hat OpenShift Data Foundation(previously known as OpenShift Container Storage) Supportability and Interoperability Guide
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat 3scale API Managementのサポート可能な構成を明示します。
+      Red Hat OpenShift Data Foundationの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/articles/522893
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat Fuse でサポートされる構成
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Fuseのサポート可能な構成を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/articles/6664961
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat AMQ Streams でサポートされる構成
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat AMQ Streamsのサポート可能な構成を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/articles/5213991
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat AMQ Broker 7 でサポートされる構成
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat AMQ Broker 7 のサポート可能な構成を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 7
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/6644751
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat Interconnect Supported Configurations
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Interconnectのサポート可能な構成を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/30
     </td>
   </tr>
 
@@ -347,31 +225,31 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ### 02-01. アーキテクチャ
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
     <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
     </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Integration 製品概要
+        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
+      Red Hat OpenShift Data Foundationのアーキテクチャの詳細の学習、および製品のハンズオンラボを実施できるRed Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/06/02
+      2022/06/30
     </td>
   </tr>
 
@@ -379,12 +257,42 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ### 02-02. 更新情報
 
-<!--  なし -->
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="  
+        https://app.highspot.com/items/62bca0806456038f7b7f5e17
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
+      </a>
+    </td>
+    <td><!--  概要  -->
+      英語にて提供されている資料<a href="https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12">What's New in Red Hat OpenShift Data Foundation 4.8</a>の日本語機械翻訳版です。
+      Red Hat OpenShift Data Foundationの機能紹介、およびVersion 4.8における更新内容を記載したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 4.8
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+
+</table>
 
 ## 03. 学習リソース
 
 <table>
-  <tr>
+  <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
@@ -395,20 +303,20 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629104c10266493b97d07cac
+        https://app.highspot.com/items/62bb54dbdbe71d45e4fe9696
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Integration ラーニングパス
+        Red Hat OpenShift Data Foundation ラーニングパス
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+      Red Hat Partner Training Portalを使用し、Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/06/30
     </td>
   </tr>
 

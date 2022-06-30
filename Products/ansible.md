@@ -21,8 +21,16 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/27
+最終更新日：2022/06/30
 </b>
+
+<!--
+コピペ用
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
+-->
 
 ## 01. 製品説明資料
 
@@ -30,15 +38,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://bit.ly/3JXmYCF
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
       </a>
@@ -56,11 +67,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://www.youtube.com/watch?v=sHuGxzpONpw&list=PL4IvAXW0drR20WVybcHwm8nns-RrQ5wWX&index=1&t=6s
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat が考える自動化2.0の世界観と実現のポイント
       </a>
@@ -81,15 +95,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
       </a>
@@ -110,15 +127,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/62910ed437fefb35422c3dcd
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform サブスクリプション説明資料
       </a>
@@ -135,12 +155,15 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
   </tr>
 
-  <tr><!-- 行2 -->
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform controller Licensing, Updates, and Support
       </a>
@@ -157,11 +180,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/articles/3331481
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         How are "managed nodes" defined as part of the Red Hat Ansible Automation Platform offering?
       </a>
@@ -183,15 +209,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/ja/support/policy/updates/ansible-automation-platform
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform のライフサイクル
       </a>
@@ -214,15 +243,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://access.redhat.com/documentation/en-us/reference_architectures/2021/html-single/deploying_ansible_automation_platform_2.1/index
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform のリファレンスアーキテクチャ
       </a>
@@ -246,20 +278,22 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://bit.ly/3JXmYCF
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
       </a>
     </td>
-
     <td><!--  概要  -->
       Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
       Version2.1における製品アーキテクチャの説明が記載されています。
@@ -278,15 +312,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://bit.ly/3JXmYCF
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
       </a>
@@ -309,15 +346,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://app.highspot.com/items/629106dcf96784553406af86
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Anshible Automation Platform ラーニングパス
       </a>
@@ -334,11 +374,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/5bee108f429d7b2a286c3b14?lfrm=srp.1
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansibleスキルパス
       </a>
@@ -361,15 +404,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
   </tr>
 
   <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
+    </td>
     <td>
       <!--  リンク先  -->
       <a href="
         https://redhat.lookbookhq.com/c/jow0lohgy08?x=8XYa3o&lx=t84IoG
-      ">
+     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』
       </a>
