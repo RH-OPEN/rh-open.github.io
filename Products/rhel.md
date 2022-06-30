@@ -93,7 +93,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.1#1
+          https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.1
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
