@@ -109,7 +109,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        [https://app.highspot.com/items/62910ed437fefb35422c3dcd](https://app.highspot.com/items/62be03d0fbe6d39054ac011e)
+        https://app.highspot.com/items/62be03d0fbe6d39054ac011e
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
@@ -276,11 +276,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629106dcf96784553406af86
+        https://app.highspot.com/items/629106dcf96784553406af86](https://app.highspot.com/items/62be0394276892b10b042f55
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        【ContentHubアップロード後修正】
-
         Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
       </a>
     </td>
