@@ -276,7 +276,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629106dcf96784553406af86](https://app.highspot.com/items/62be0394276892b10b042f55
+        https://redhat-partner.highspot.com/items/62bb54db3b178be6be3c9fd9
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
