@@ -97,7 +97,35 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ### 01-03. 提供形態
 
--
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        [https://app.highspot.com/items/62910ed437fefb35422c3dcd](https://app.highspot.com/items/62be03d0fbe6d39054ac011e)
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Security for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>
 
 ### 01-04. ライフサイクル
 
@@ -236,4 +264,34 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ## 03. 学習リソース
 
--
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/629106dcf96784553406af86
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        【ContentHubアップロード後修正】
+
+        Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Partner Training Portalを使用し、Red Hat ACSを学習いただくための学習教材をロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>
