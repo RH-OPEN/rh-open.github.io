@@ -102,15 +102,63 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td>
       <!--  リンク先  -->
-      <a href="
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        JAPAN CUSTOMER SUCCESS SLIDES DECK
+      </a>
+    </td>
+    <td><!--  概要  -->
+      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://www.redhat.com/ja/success-stories
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat お客様導入事例
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイト
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
         https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-     " target="_blank" rel="noreferrer noopener">
+      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         CUSTOMER SUCCESS SLIDES DECK
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat製品の事例を集約したプレゼンテーション資料です。
+      ワールドワイドにおけるRed Hat製品の事例を集約したプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -119,6 +167,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/06/30
     </td>
   </tr>
+
 </table>
 
 ### 01-03. 提供形態

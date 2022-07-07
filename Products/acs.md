@@ -136,19 +136,67 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        JAPAN CUSTOMER SUCCESS SLIDES DECK
+      </a>
+    </td>
+    <td><!--  概要  -->
+      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
       <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/node/5822721
-     " target="_blank" rel="noreferrer noopener">
+      <a href="        
+        https://www.redhat.com/ja/success-stories
+      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Security for Kubernetes Support Policy
+        Red Hat お客様導入事例
       </a>
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシーを明示します。"Life Cycle"章をご確認ください
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイト
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/07/07
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        CUSTOMER SUCCESS SLIDES DECK
+      </a>
+    </td>
+    <td><!--  概要  -->
+      ワールドワイドにおけるRed Hat製品の事例を集約したプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
