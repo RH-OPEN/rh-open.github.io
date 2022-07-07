@@ -72,7 +72,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
 
   <tr>
-
     <td><!--  icon  -->
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
     </td>
@@ -94,7 +93,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  記載確認日  -->
       2022/07/07
     </td>
+    </tr>
 
+  <tr>
     <td><!--  icon  -->
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
@@ -116,7 +117,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  記載確認日  -->
       2022/07/07
     </td>
+  </tr>
 
+  <tr>
     <td><!--  icon  -->
       <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
     </td>
