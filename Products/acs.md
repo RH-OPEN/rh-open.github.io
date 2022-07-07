@@ -76,70 +76,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td>
       <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        CUSTOMER SUCCESS SLIDES DECK
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-</table>
-
-### 01-03. 提供形態
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/62be03d0fbe6d39054ac011e
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-</table>
-
-### 01-04. ライフサイクル
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
       <a href="        
         https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
       " target="_blank" rel="noreferrer noopener">
@@ -197,6 +133,70 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       ワールドワイドにおけるRed Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+
+</table>
+
+### 01-03. 提供形態
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/62be03d0fbe6d39054ac011e
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Security for Kubernetesのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/06/30
+    </td>
+  </tr>
+</table>
+
+### 01-04. ライフサイクル
+
+<tr><!-- 行1（見出し）-->
+  <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+</tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/node/5822721
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes Support Policy
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Security for Kubernetesのライフサイクルポリシーを明示します。"Life Cycle"章をご確認ください
     </td>
     <td><!--  対象バージョン  -->
       -
