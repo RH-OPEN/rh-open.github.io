@@ -11,6 +11,18 @@ sort: 3
 
   <tr>
     <td><!--  イベント名/リンク  -->
+      <a href="https://tracks.redhat.com/l/ohcweek2022">Open Hybrid Cloud Week 2022</a>
+    </td>
+    <td><!--  開催日 -->
+      2022/6/14, 15
+    </td>
+    <td><!--  概要 -->
+      業界リーダー企業のデジタル変革をめぐる鼎談から新しいLinux運用・OpenShift最新事例など技術情報までをお届けするOpen Hybrid Cloud Weekのセミナー動画です。
+    </td>
+  </tr>
+  
+  <tr>
+    <td><!--  イベント名/リンク  -->
       <a href="https://redhat-forum.jp/summit/">Red Hat Summit 2022</a>
     </td>
     <td><!--  開催日 -->
