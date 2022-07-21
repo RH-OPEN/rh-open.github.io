@@ -119,30 +119,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
   </tr>
 
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://redhat-partner.highspot.com/items/6215778d4446c96ef769c2ad?lfrm=srp.0
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        CUSTOMER SUCCESS SLIDES DECK
-      </a>
-    </td>
-    <td><!--  概要  -->
-      ワールドワイドにおけるRed Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-
 </table>
 
 ### 01-03. 提供形態
