@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/30
+最終更新日：2022/08/04
 </b>
 
 <!--
@@ -312,6 +312,55 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/05/30
     </td>
   </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://catalog.redhat.com/hardware/search?p=1&c_version=Red%20Hat%20OpenShift%20Container%20Platform%204
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Certified hardware for Red Hat OpenShift Container Platform 4
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift 4 の稼働についてRed Hatの認定を行ったハードウェアの一覧を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 4.x
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/3
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://docs.openshift.com/container-platform/4.10/welcome/oke_about.html#feature-summary
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Feature summary
+      </a>
+    </td>
+    <td><!--  概要  -->
+      OpenShift Kubernetes Engine および OpenShift Container Platform における機能の有効性をまとめたものです。該当する場合、機能を有効にする Operator の名前も含まれています。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 4.10
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/3
+    </td>
+  </tr>
+
 </table>
 
 ## 02. 製品技術資料

@@ -21,7 +21,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/30
+最終更新日：2022/08/04
 </b>
 
 <!--
@@ -422,6 +422,33 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
   </tr>
 
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/explore/ansible/trailmap
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Ansible トレイルマップ
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Ansibleを使用してタスク・運用作業の自動化を実施するためのスキルについて、Ansibleの基礎からプレイブックの書き方、Ansibleの適応領域の見極め方、自動化のサービス化までステップバイステップで学べるトレイルマップサイトです。
+
+      ※ サイト内でハンズオンコンテンツへのリンクが掲載されていますが、使用されているサービス（Katacoda）の縮小に伴い一部コンテンツは実施不可となっています。
+      Partner Training Portalの提供する環境などを併用して学習を実施頂けますと幸いです。
+
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/04
+    </td>
+  </tr>
 
 </table>
 

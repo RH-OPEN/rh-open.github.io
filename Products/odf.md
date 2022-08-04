@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/30
+最終更新日：2022/08/04
 </b>
 
 <!--
@@ -240,6 +240,30 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/labs/ocsst/
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        ODF Sizer
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Data Foundationの構成を見積もるためのサイジングツールです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/08/03
     </td>
   </tr>
 
