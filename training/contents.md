@@ -6,7 +6,7 @@ sort: 1
 
 Red Hatではパートナー様のRed Hat製品習得促進のため、情報提供用のサイトやトレーニングコンテンツを提供しております。
 
-[こちら](https://github.com/RH-OPEN/rh-open.github.io/blob/9cff22180adbd11181c96950cc32a6e61379e60a/training/about-redhat-partner-connect.pdf)にRed Hatからパートナー様に提供しているコンテンツの説明を記載しておりますので、まずはこちらをご確認ください。
+[こちら](https://github.com/RH-OPEN/rh-open.github.io/blob/main/training/about-redhat-partner-connect.pdf)にRed Hatからパートナー様に提供しているコンテンツの説明を記載しておりますので、まずはこちらをご確認ください。
 
 ```note
 ご利用方法などについての質問は、Red Hat担当営業にお問合せいただくか、下記のお問合せフォームよりご連絡下さい。
