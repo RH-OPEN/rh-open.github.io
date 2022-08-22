@@ -13,7 +13,7 @@ Red Hatではパートナー様のRed Hat製品習得促進のため、情報提
 
 [お問合せフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
 
-また、レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/global/japan/partners)の最下段をご参照のうえ、お気軽にお問い合わせください。
+また、レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/partners)の最下段をご参照のうえ、お気軽にお問い合わせください。
 ```
 
 ## Red Hat Partner Training Portal（旧名OPEN）

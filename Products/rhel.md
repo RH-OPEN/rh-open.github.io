@@ -175,7 +175,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/ja/resources/red-hat-enterprise-linux-subscription-guide
+        https://redhat-partner.highspot.com/items/5940c02bf216763a68730b44?lfrm=srp.0#1
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Enterprise Linux サブスクリプションガイド
