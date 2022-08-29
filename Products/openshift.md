@@ -380,30 +380,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5d8531e5429d7b1a7c702222?lfrm=srp.1#1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        OpenShift 4 Technical Deep Dive
-      </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShiftのアーキテクチャを説明した、テクニカルディープダイブ資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  記載確認日  -->
-      2022/05/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
         https://redhat-partner.highspot.com/items/5e6a7a32429d7b62846c3b58?lfrm=srp.0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->

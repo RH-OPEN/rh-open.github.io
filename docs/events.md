@@ -70,18 +70,4 @@ sort: 3
     </td>
   </tr>
 
-  <tr>
-    <td><!--  イベント名/リンク  -->
-      Red Hat Forum APAC ハイライトセミナー 2020.Oct
-    </td>
-    <td><!--  開催日 -->
-      2020/11/20
-    </td>
-    <td><!--  概要 -->
-      OpenShift、Ansible、RHEL をなぜ導入し、どのようなメリットが得られたのか、特別対談、エンドユーザ様のプレゼンテーションを通じて、DXを実現するオープンソース活用をまとめたイベントです。
-
-      ※ イベントサイトは公開終了済みです。講演資料は<a href="https://redhat.lookbookhq.com/l/redhatforum2020)">こちら</a>。
-    </td>
-  </tr>
-
 </table>
