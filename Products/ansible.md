@@ -21,7 +21,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/08/04
+最終更新日：2022/09/01
 </b>
 
 <!--
@@ -39,6 +39,31 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
   <tr><!-- 行1（見出し）-->
     <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/630645a1fadce55d6ec52c06
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        ABU | Red Hat Ansible Automation Platform Technical Deck ~日本語機械翻訳版~
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platform 2.2の製品紹介プレゼンテーション資料です。
+      お客様課題をAnsible Automation Platform(AAP)がどのように解決するかに加え、AAP2.2の製品アーキテクチャの説明が記載されています。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.2
+    </td>
+    <td><!--  記載確認日  -->
+      2022/09/01
+    </td>
   </tr>
 
   <tr>
@@ -313,6 +338,31 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
+        https://app.highspot.com/items/630645a1fadce55d6ec52c06
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        ABU | Red Hat Ansible Automation Platform Technical Deck ~日本語機械翻訳版~
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platform 2.2の製品紹介プレゼンテーション資料です。
+      お客様課題をAnsible Automation Platform(AAP)がどのように解決するかに加え、AAP2.2の製品アーキテクチャの説明が記載されています。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.2
+    </td>
+    <td><!--  記載確認日  -->
+      2022/09/01
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
         https://bit.ly/3JXmYCF
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
@@ -342,26 +392,25 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
     </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://bit.ly/3JXmYCF
+        https://www.redhat.com/en/resources/whats-new-ansible-automation-platform-2-2-checklist
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
+        What's new in Red Hat Ansible Automation Platform 2.2
       </a>
     </td>
     <td><!--  概要  -->
-    Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
-    Version2.1における更新内容が記載されています。
+    Red Hat Ansible Automation Platform 2.2の更新情報を明記したCheck Listです。
     </td>
     <td><!--  対象バージョン  -->
-      Version 2.1
+      Version 2.2
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/09/01
     </td>
   </tr>
 
@@ -447,6 +496,32 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  記載確認日  -->
       2022/08/04
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  icon  -->
+      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://aap2.demoredhat.com/README.ja.html
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform Workshops
+      </a>
+    </td>
+    <td><!--  概要  -->
+      [Red Hat Product Demo System](https://rh-open.github.io/training/contents.html#red-hat-product-demo-system-rhpds)を使用した、Workshopページです。
+      Ansibleの様々なユースケース（Linux管理、Windows管理、Network管理、など）におけるWorkshopのシナリオが提供されます。
+      RHPDSをご利用頂くことでご自身でデモ環境を構築し、Workshopの内容を実施頂くことが可能です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  記載確認日  -->
+      2022/09/01
     </td>
   </tr>
 
