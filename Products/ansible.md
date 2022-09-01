@@ -513,7 +513,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  概要  -->
-      [Red Hat Product Demo System](https://rh-open.github.io/training/contents.html#red-hat-product-demo-system-rhpds)を使用した、Workshopページです。
+      <a href="https://rh-open.github.io/training/contents.html#red-hat-product-demo-system-rhpds" target="_blank" rel="noreferrer noopener">
+      Red Hat Product Demo System</a>を使用した、Workshopページです。
       Ansibleの様々なユースケース（Linux管理、Windows管理、Network管理、など）におけるWorkshopのシナリオが提供されます。
       RHPDSをご利用頂くことでご自身でデモ環境を構築し、Workshopの内容を実施頂くことが可能です。
     </td>
