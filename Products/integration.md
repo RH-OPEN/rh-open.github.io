@@ -22,35 +22,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 最終更新日：2022/06/30
 </b>
 
-<!--
-コピペ用
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
--->
-
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat Integration 紹介資料
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Agile Integrationの解決するビジネス課題と製品の概要を紹介するプレゼンテーション資料です。
@@ -58,14 +41,28 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#1
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/02
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
+    <td><!--  ドキュメント名  -->
+        Red Hat Agile API Integration (3Scale, Fuse) 紹介動画
+    </td>
+    <td><!--  概要  -->
+      Red Hat Agile API Integration (3Scale, Fuse) の製品概要の紹介動画です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 8.x
     </td>
     <td>
       <!--  リンク先  -->
@@ -73,14 +70,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://youtu.be/3ydCD0wckOI
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Agile API Integration (3Scale, Fuse) 紹介動画
+        動画
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Agile API Integration (3Scale, Fuse) の製品概要の紹介動画です。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 8.x
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -93,21 +84,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         JAPAN CUSTOMER SUCCESS SLIDES DECK
-      </a>
     </td>
     <td><!--  概要  -->
       日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -115,14 +97,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/07/07
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        Red Hat お客様導入事例
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -130,14 +127,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://www.redhat.com/ja/success-stories
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat お客様導入事例
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/07/07
@@ -150,21 +141,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/62910c7c052a903cff453167
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat Integration サブスクリプション説明資料
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Integration のサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
@@ -173,29 +155,36 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/62910c7c052a903cff453167
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/rhdc/managed-files/mi-application-services-subscription-guide-detail-f29167pr-202107-en.pdf
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat Agile Integration サブスクリプションガイド
-      </a>
     </td>
     <td><!--  概要  -->
 　   Red Hat Agile Integration の適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/rhdc/managed-files/mi-application-services-subscription-guide-detail-f29167pr-202107-en.pdf
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -210,12 +199,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+      Red Hat Application Fundations サブスクリプション説明資料
+    </td>
+    <td><!--  概要  -->
+      Red Hat Middleware製品の新しいサブスクリプション形態であるRed Hat Application Foundationsについて、サブスクリプションの説明とお見積り時の「おおよその考え方の指針」をご提示するものです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -223,14 +218,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/62fe49a325be24408cf5e7e3
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Application Fundations サブスクリプション説明資料
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Middleware製品の新しいサブスクリプション形態であるRed Hat Application Foundationsについて、サブスクリプションの説明とお見積り時の「おおよその考え方の指針」をご提示するものです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/08/04
@@ -243,12 +232,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+      Red Hat Application Services 製品のアップデートとサポートポリシー
+    </td>
+    <td><!--  概要  -->
+      Red Hat Integrationを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -256,14 +251,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://access.redhat.com/ja/support/policy/updates/jboss_notes
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Application Services 製品のアップデートとサポートポリシー
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Integrationを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -277,21 +266,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/articles/5950091
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat 3scale API Management のサポート対象構成
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat 3scale API Managementのサポート可能な構成を明示します。
@@ -299,23 +279,22 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/5950091
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/articles/522893
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat Fuse でサポートされる構成
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Fuseのサポート可能な構成を明示します。
@@ -323,23 +302,23 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/522893
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/articles/6664961
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat AMQ Streams でサポートされる構成
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat AMQ Streamsのサポート可能な構成を明示します。
@@ -347,23 +326,23 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/6664961
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/ja/articles/5213991
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat AMQ Broker 7 でサポートされる構成
-      </a>
+    <td><!--  ドキュメント名  -->
+      Red Hat AMQ Broker 7 でサポートされる構成
     </td>
     <td><!--  概要  -->
       Red Hat AMQ Broker 7 のサポート可能な構成を明示します。
@@ -371,14 +350,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       Version 7
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/5213991
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/05/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+      Red Hat Interconnect Supported Configurations
+    </td>
+    <td><!--  概要  -->
+      Red Hat Interconnectのサポート可能な構成を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -386,14 +380,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://access.redhat.com/articles/6644751
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Interconnect Supported Configurations
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Interconnectのサポート可能な構成を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30
@@ -408,12 +396,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+      Red Hat Integration 製品概要
+    </td>
+    <td><!--  概要  -->
+      Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -421,14 +415,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Integration 製品概要
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/06/02
@@ -445,12 +433,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr>
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+      Red Hat Integration ラーニングパス
+    </td>
+    <td><!--  概要  -->
+      Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -458,14 +452,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://app.highspot.com/items/629104c10266493b97d07cac
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat Integration ラーニングパス
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/05/30

@@ -21,35 +21,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 最終更新日：2022/08/04
 </b>
 
-<!--
-コピペ用
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
--->
-
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/video.png?raw=true" alt="video" title="video">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Red Hat OpenShift Data Foundation(ODF)の紹介動画
-      </a>
+    <td><!--  ドキュメント名  -->
+      Red Hat OpenShift Data Foundation(ODF)の紹介動画
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationの紹介動画です。
@@ -57,6 +40,15 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.youtube.com/watch?v=JiigIwraDmE&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=6&t=567s
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -68,21 +60,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
-      </a>
+    <td><!--  ドキュメント名  -->
+      JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  概要  -->
       日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
@@ -90,14 +73,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/07/07
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        Red Hat お客様導入事例
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -105,14 +103,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://www.redhat.com/ja/success-stories
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat お客様導入事例
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/07/07
@@ -125,21 +117,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/62bb6903f6821dc9cfea5945
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift Data Foundation サブスクリプション説明資料
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationのサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
@@ -147,14 +130,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/62bb6903f6821dc9cfea5945
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
+    <td><!--  ドキュメント名  -->
+        OpenShift Data Foundation Subscription Guide
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Data Foundationのサブスクリプションモデルの説明およびサブスクリプションの種類と種別を見積もるための手順を紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -162,14 +160,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://access.redhat.com/articles/6932811
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        OpenShift Data Foundation Subscription Guide
+        PDF
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのサブスクリプションモデルの説明およびサブスクリプションの種類と種別を見積もるための手順を紹介します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -182,12 +174,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift Container Platform のライフサイクルポリシー
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Data Foundationを含むOpenShift関連製品のライフサイクルポリシー、及びサポート終了日を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -195,14 +193,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://access.redhat.com/ja/support/policy/updates/openshift#odf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Container Platform のライフサイクルポリシー
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationを含むOpenShift関連製品のライフサイクルポリシー、及びサポート終了日を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -216,21 +208,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/4731161
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift Data Foundation(previously known as OpenShift Container Storage) Supportability and Interoperability Guide
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift Data Foundationの動作をサポートするHypervisor、クラウドプラットフォームのリストを提供します。
@@ -238,14 +221,28 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td><!--  対象バージョン  -->
       -
     </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/articles/4731161
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
     <td><!--  記載確認日  -->
       2022/06/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/website.png?raw=true" alt="website" title="website">
+    <td><!--  ドキュメント名  -->
+        ODF Sizer
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Data Foundationの構成を見積もるためのサイジングツールです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -253,14 +250,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://access.redhat.com/labs/ocsst/
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        ODF Sizer
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationの構成を見積もるためのサイジングツールです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/08/03
@@ -275,12 +266,18 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/training.png?raw=true" alt="training" title="training">
+    <td><!--  ドキュメント名  -->
+        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Data Foundationのアーキテクチャの詳細の学習、および製品のハンズオンラボを実施できるRed Hat Partner Training Portalのコンテンツです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -288,14 +285,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
+        Link
       </a>
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのアーキテクチャの詳細の学習、および製品のハンズオンラボを実施できるRed Hat Partner Training Portalのコンテンツです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -308,21 +299,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="  
-        https://app.highspot.com/items/62bca0806456038f7b7f5e17
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
-      </a>
     </td>
     <td><!--  概要  -->
       英語にて提供されている資料<a href="https://redhat-partner.highspot.com/items/610c03126672da2b59167ff9?lfrm=srp.12">What's New in Red Hat OpenShift Data Foundation 4.8</a>の日本語機械翻訳版です。
@@ -330,6 +312,15 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  対象バージョン  -->
       Version 4.8
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="  
+        https://app.highspot.com/items/62bca0806456038f7b7f5e17
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
@@ -342,27 +333,26 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th> </th><th>ドキュメント名</th><th>概要</th><th>対象バージョン</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
-    <td><!--  icon  -->
-      <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/icons/document.png?raw=true" alt="docs" title="docs">
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://app.highspot.com/items/62bb54dbdbe71d45e4fe9696
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
+    <td><!--  ドキュメント名  -->
         Red Hat OpenShift Data Foundation ラーニングパス
-      </a>
     </td>
     <td><!--  概要  -->
       Red Hat Partner Training Portalを使用し、Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
+    </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/62bb54dbdbe71d45e4fe9696
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
     </td>
     <td><!--  記載確認日  -->
       2022/06/30
