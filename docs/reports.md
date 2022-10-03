@@ -47,7 +47,7 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
-|1|[Red Hatの運用高度化ソリューション](https://redhat-partner.highspot.com/items/5f297954998ae44674d51447?lfrm=srp.19#1)|AnsibleとRed Hat Middlewareを活用したさらなる運用の自動化・効率化の提案資料です。※ 資料中で記載されているProcess Automation製品（Decision Manager、Process Automation Manager）については、2022/7よりRed HatからIBM社に製品が移管されたため、現在Red Hat製品としては提供されておりません。AnsibleおよびIntegrationのユースケースとしてご参照ください。|
+|1|[Red Hatの運用高度化ソリューション](https://redhat-partner.highspot.com/items/621d14720f3bdb006210767c?lfrm=srp.0)|AnsibleとRed Hat Middlewareを活用したさらなる運用の自動化・効率化の提案資料です。※ 資料中で記載されているProcess Automation製品（Decision Manager、Process Automation Manager）については、2022/7よりRed HatからIBM社に製品が移管されたため、現在Red Hat製品としては提供されておりません。AnsibleおよびIntegrationのユースケースとしてご参照ください。|
 |2|[エンタープライズオープンソースのオートメーションがイノベーションを推進](https://redhat-partner.highspot.com/items/5f31c4b9998ae46758979f55?lfrm=srp.62#1)|企業がさらなる俊敏性を追及するにつれ、自動化は今まで以上に必要になっています。インフラストラクチャ戦略の意思決定者の意見を見てみましょう。|
 |3|[組織を自動化する：人材とプロセスの統合](https://redhat-partner.highspot.com/items/5a2aecaff216762e8ea56f6e?lfrm=srp.76#1)|インフラストラクチャ、ネットワーク、およびその他の重要な IT サービスに自動化を使用する方法を紹介します。Red Hat Ansible などのプラットフォームで IT を変革する方法をご確認ください。|
 
@@ -79,5 +79,5 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 
 | No.          | タイトル          | 概要 |
 | --------------- | -------------- | ---- |
-|1|[Red Hat Customer Success Slide Deck](https://redhat-partner.highspot.com/items/5d30a672429d7b21715b76f1?lfrm=srp.0#1)|Red Hat事例集です。国内・国外企業様の事例をご紹介しています。|
+|1|[JAPAN CUSTOMER SUCCESS SLIDES DECK](https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e)|日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。|
 |2|[Red Hat Customer Success Story](https://www.redhat.com/ja/explore/customer-success-story)|レッドハットが提供するソリューションを活用した国内事例をご紹介します。導入の目的と、課題解決のストーリーから、企業が解決すべき課題の答えが見つかるはずです。|
