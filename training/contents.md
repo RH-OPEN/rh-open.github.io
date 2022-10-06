@@ -8,7 +8,7 @@ Red Hatではパートナー様のRed Hat製品習得促進のため、情報提
 
 本ページでは、複数提供されるこれらのコンテンツの紹介と利用方法についてガイドを記載いたします。
 
-``tip
+```tip
 下記の資料にてRed Hatからパートナー様に提供している主なトレーニングコンテンツの説明を記載しておりますので、まずはこちらをご確認ください。
 
 [Red Hat Partner Training Portalのご紹介](https://github.com/RH-OPEN/rh-open.github.io/blob/main/training/about-redhat-partner-connect.pdf)
