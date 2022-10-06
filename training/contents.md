@@ -6,7 +6,9 @@ sort: 1
 
 Red Hatではパートナー様のRed Hat製品習得促進のため、情報提供用のサイトやトレーニングコンテンツを提供しております。
 
-[こちら](https://github.com/RH-OPEN/rh-open.github.io/blob/main/training/about-redhat-partner-connect.pdf)にRed Hatからパートナー様に提供しているコンテンツの説明を記載しておりますので、まずはこちらをご確認ください。
+下記の資料にてRed Hatからパートナー様に提供している主なトレーニングコンテンツの説明を記載しておりますので、まずはこちらをご確認ください。
+
+[Red Hat Partner Training Portalのご紹介](https://github.com/RH-OPEN/rh-open.github.io/blob/main/training/about-redhat-partner-connect.pdf)
 
 ```note
 ご利用方法などについての質問は、Red Hat担当営業にお問合せいただくか、下記のお問合せフォームよりご連絡下さい。
@@ -16,7 +18,9 @@ Red Hatではパートナー様のRed Hat製品習得促進のため、情報提
 また、レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/partners)の最下段をご参照のうえ、お気軽にお問い合わせください。
 ```
 
-## Red Hat Partner Training Portal（旧名OPEN）
+*最終更新： 2022/10/6*
+
+## Red Hat Partner Training Portal 
 
 RedHat Partner Training Portalは、パートナー様のみ利用できるハンズオン型トレーニングの無償コンテンツです。
 
@@ -38,7 +42,21 @@ RedHat Partner Training Portalは、パートナー様のみ利用できるハ�
 
 ・[おすすめコースリスト](https://rh-open.github.io/assets/docs/OPEN%20Basic%20Step-up%20Guide.pdf)
 
-## Red Hat Product Demo System （RHPDS）
+##  Red Hat Partner Enablement Japan 
+
+Red Hat Partner Enablement Japanは、パートナー様へのRed Hat製品のEnablementを目的として運営を行なっている[connpass](https://connpass.com/dashboard/)上のグループです。
+定期的にPartner Training Portalのコンテンツを使用した製品ワークショップを開催しているほか、製品に関する情報提供のセミナーを実施しています。
+パートナー様であれば参加は無料となっておりますので、是非Connpassにてグループに登録頂き、ご興味のあるイベントにご参加頂ければと存じます。
+
+開催しているワークショップの一覧は下記の"利用ガイド & 提供コンテンツ"に記載しております。また、Connpass上でのイベントの参加が難しいパートナー様や、1社での集合研修をご希望のパートナー様向けにはワークショップの個別開催も承っております。こちらについてのガイドも"利用ガイド & 提供コンテンツ"に記載しておりますので、ワークショップ開催のご要望を頂ける場合は本資料をご確認の上、弊社担当営業までご連絡ください。
+
+### アクセス
+・[Red Hat Partner Enablement Japan](https://redhat-open.connpass.com/)
+
+### 利用ガイド & 提供コンテンツ
+・[Partner Training Portalワークショップのご紹介](https://redhat-partner.highspot.com/items/633d8fc5b6886411c1579c9f?lfrm=srp.0)
+
+##  Red Hat Product Demo System （RHPDS） 
 
 [Red Hat Product Demo System](https://connect.redhat.com/en/training/product-demo-system) は、パートナー様がご自身のお客様へすぐにRed Hat製品を体験いただきたい場合に利用できる、フルスクリプトのワークショップデモ環境です。
 コンテンツはレッドハットの技術者によって作成・提供されており、様々な製品・ユースケースをベースにしたデモを実施することができます。
@@ -48,7 +66,7 @@ RedHat Partner Training Portalは、パートナー様のみ利用できるハ�
 ### アクセス
 ・[Red Hat Product Demo System](https://rhpds.redhat.com/service/explorer)
 
-## Red Hat Developer(旧名Interactive Learning Portal)
+##  Red Hat Developer(旧名Interactive Learning Portal) 
 Red Hat Developerは、Red Hat OpenShiftを上でアプリケーション開発を行うための各種情報とハンズオンラボを提供しています。
 ハンズオンラボはブラウザ上での提供となり、ご利用にあたりアカウント登録やログイン操作は不要です。
 
@@ -56,7 +74,7 @@ Red Hat Developerは、Red Hat OpenShiftを上でアプリケーション開発�
 
 ・[OpenShift: Interactive Learning Portal](https://learn.openshift.com/)
 
-## Red Hat Enterprise Linux Skills Workshops
+##  Red Hat Enterprise Linux Skills Workshops 
 
 Red Hat Enterprise Linuxのハンズオン型トレーニングの無償コンテンツで、ブラウザ経由でユースケースに応じた様々なハンズオンラボを実施することができます。
 ご利用にあたりアカウント登録やログイン操作は不要です。
@@ -68,9 +86,9 @@ Red Hat Enterprise Linuxのハンズオン型トレーニングの無償コン�
 
 ※ 日本語版コンテンツは英語版より少し遅れて提供されます。最新版での学習が必要な場合は、英語オリジナルサイトをご利用ください。
 
-## Managed OpenShift ワークショップコンテンツ
+##  Managed OpenShift ワークショップコンテンツ 
 
-上述のRHPDSを利用したManaged Openshiftのワークショップとして、座学資料とハンズオンコースを提供しています。
+Red Hatとパブリッククラウドベンダーが共同で提供するManaged Openshiftのワークショップとして、座学資料とハンズオンコースを提供しています。
 各パブリッククラウドのアカウントをお持ちであれば、こちらのコースを自習することもできます。
 
 ### アクセス
@@ -80,7 +98,7 @@ Red Hat Enterprise Linuxのハンズオン型トレーニングの無償コン�
 
 ・[Red Hat Product Demo System](https://connect.redhat.com/en/training/product-demo-system)
 
-## Customer Success Training （CST）
+## Customer Success Training （CST） 
 
 LinuxやOpenShiftのトレーニングだけでなく、DevOps の認定資格まで、ビジネス目標に沿った実技形式のトレーニングと実践的な認定パスを提供しています。
 有償のトレーニングサービスとなるため、ご利用についてはRed Hatの営業までお問合せください。
