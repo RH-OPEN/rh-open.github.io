@@ -218,7 +218,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://www.redhat.com/en/resources/red-hat-enterprise-linux-subscription-guide
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td><!--  記載確認日  -->
