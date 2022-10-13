@@ -1,19 +1,12 @@
 ---
-sort: 4
+sort: 5
 ---
 
-# Red Hat Integration
+# Red Hat Application Foundations
 
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Integration-A-Standard-RGB.png?raw=true" alt="integration_logo" title="Integration">
+<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/9b31deb67466ce5afcc190cd1e93d30667cd4f69/Products/images/Logo-Red_Hat-Application_Foundations-B-Standard-RGB.png?raw=true" alt="integration_logo" title="Integration">
 
-
-[Red Hat® Integration](https://www.redhat.com/ja/products/integration) は、ハイブリッド・インフラストラクチャ全体でアプリケーションとデータを接続するための統合およびメッセージング・テクノロジーの包括的なツールです。アジャイルで分散型のコンテナ化された API 中心のソリューションで、サービス構成とオーケストレーション、アプリケーションの接続性とデータ変換、リアルタイムのメッセージストリーミング、変更データの取得、そして API 管理を提供します。これらはすべてクラウドネイティブのプラットフォームおよびツールチェーンと結合して、最新のアプリケーション開発の全領域をサポートします。
-
-```tip
-Red Hat Integrationについては、新規サブスクリプション体系であるRed Hat Application Foundations(RHAF)への移行が予定されており、将来的にはIntegrationは終売となります。
-そのため、本One Stopでの情報更新についてはApplication Foundationsのページに対して主に実施する予定です。
-新規情報についてはApplication Foundationのページをご覧ください。
-```
+[Red Hat Application Foundations](https://www.redhat.com/en/products/application-foundations) は、ソフトウェアを開発し近代化するための包括的なコンポーネント群を組織に提供します。Application Foundations のテクノロジーは、セキュリティを考慮したアプリケーションの構築、デプロイ、運用を支援するために設計されており、ハイブリッドクラウド全体でスケールの大きいアプリケーションを実現します。Red Hat Application Foundations は、オンプレミスまたはクラウドで実行されるアプリケーションで使用でき、Red Hat OpenShift® と組み合わせることで、アプリケーションのライフサイクル全体にわたって実行を効率化するプラットフォームを作成します。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
@@ -25,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/30
+最終更新日：2022/10/13
 </b>
 
 ## 01. 製品説明資料
@@ -39,51 +32,32 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Integration 紹介資料
+        新アプリサービス基盤 Red Hat Application Foundations の概要
     </td>
     <td><!--  概要  -->
-      Red Hat Agile Integrationの解決するビジネス課題と製品の概要を紹介するプレゼンテーション資料です。
+      パートナー様向けに、Red Hat Application Foundationsの概要と価値、およびサブスクリプションに含まれるコンポーネントについてご説明します。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.7#1
+        https://app.highspot.com/items/633ef83ba16a25a8d9e2f562
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/02
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Agile API Integration (3Scale, Fuse) 紹介動画
-    </td>
-    <td><!--  概要  -->
-      Red Hat Agile API Integration (3Scale, Fuse) の製品概要の紹介動画です。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 8.x
-    </td>
-    <td>
-      <!--  リンク先  -->
       <a href="
-        https://youtu.be/3ydCD0wckOI
+        https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
-
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -113,7 +87,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/13
     </td>
   </tr>
 
@@ -137,7 +111,37 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/13
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Application Foundations ご提案いただきたいユースケース
+    </td>
+    <td><!--  概要  -->
+      パートナー様向けに、Red Hat Application Foundationsの価値の出せるユースケースをご紹介いたします。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#33
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <a href="        
+        https://app.highspot.com/items/6340603e4a1560fe0fb10ead
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>      
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/13
     </td>
   </tr>
 
@@ -149,54 +153,58 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
-
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Integration サブスクリプション説明資料
+      Red Hat Application Fundations サブスクリプション説明資料
     </td>
     <td><!--  概要  -->
-      Red Hat Integration のサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
-      下記の製品マニュアルの補助資料としてご利用いただけます。
+      Red Hat Application Foundationsについて、サブスクリプションの説明とお見積り時の「おおよその考え方の指針」をご提示するものです。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--  リンク先  -->
+    <td>
+      <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62910c7c052a903cff453167
+        https://app.highspot.com/items/62fe49a325be24408cf5e7e3
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
-
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Agile Integration サブスクリプションガイド
+      Red Hat Application Fundations 価格体系について
     </td>
     <td><!--  概要  -->
-　   Red Hat Agile Integration の適切なサブスクリプションを選び、管理し、最大限に活用する方法を説明します。
+      上記の「Red Hat Application Fundations サブスクリプション説明資料」の内容に加え、具体的なRed Hat Application Foundationsの見積もりケースについてご説明します。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--  リンク先  -->
+    <td>
+      <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/rhdc/managed-files/mi-application-services-subscription-guide-detail-f29167pr-202107-en.pdf
-     " target="_blank" rel="noreferrer noopener">
+        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#26
+    " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
+      <a href="
+        https://app.highspot.com/items/634060b9b2caa3bcce0828e0
+    " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
-
 </table>
 
 ### 01-04. ライフサイクル
@@ -208,10 +216,41 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
+      Red Hat Application Foundations各製品のライフサイクル
+    </td>
+    <td><!--  概要  -->
+      Red Hat Application Foundationsに包含されるコンポーネントのライフサイクルの考え方・確認方法についてご説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#22
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <a href="
+        https://redhat-partner.highspot.com/items/634060b7b2caa327baff6bff
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/05/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
       Red Hat Application Services 製品のアップデートとサポートポリシー
     </td>
     <td><!--  概要  -->
-      Red Hat Integrationを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+      Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+      ※ リンク先で英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -226,7 +265,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
 
@@ -259,7 +298,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
 
@@ -283,7 +322,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
 
@@ -307,7 +346,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
 
@@ -331,7 +370,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
 
@@ -355,7 +394,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
     </td>
   </tr>
 
@@ -375,7 +414,8 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       Red Hat Integration 製品概要
     </td>
     <td><!--  概要  -->
-      Red Hat Integrationに含まれる製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
+      Red Hat Application Foundationsに含まれるインテグレーション製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
+      ※ 資料としてはIntagration用のものとなっていますが、包含される個別製品としてはIntegrationとRHAFで差異はございません。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -386,11 +426,35 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/02
+      2022/10/13
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Runtimes 製品概要
+    </td>
+    <td><!--  概要  -->
+      Red Hat Application Foundationsに含まれるランタイム製品群について概要を記載したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://youtu.be/uPjVL_O2X40
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/13
     </td>
   </tr>
 
@@ -413,6 +477,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  概要  -->
       Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+      ※ 資料としてはIntagration用のものとなっていますが、包含される個別製品のラーニングパスとしてはIntegrationとRHAFで差異はございません。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -427,7 +492,46 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/13
+    </td>
+  </tr>
+
+</table>
+
+## 0４. その他
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Application Foundations FAQ
+    </td>
+    <td><!--  概要  -->
+      Red Hat Partner Application Foundationsについてよく頂くご質問と回答をご紹介いたします。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/633ef83ba16a25a8d9e2f562#40
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <a href="
+        https://app.highspot.com/items/6340607e9e8b57e6c60e03c9
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/13
     </td>
   </tr>
 
