@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/26
+最終更新日：2022/10/14
 </b>
 
 ## 01. 製品説明資料
@@ -50,7 +50,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/27
+      2022/10/14
     </td>
   </tr>
 
@@ -65,7 +65,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       -
     </td>
     <td>
-
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/621d3f956cad68138e4c4450?lfrm=srp.0
@@ -73,7 +72,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         PDF
       </a>
-
       <!--  リンク先  -->
       <a href="
         https://redhat-partner.highspot.com/items/623b56535df9ff2a70c09fa9?lfrm=srp.1
@@ -81,10 +79,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         動画
       </a>
-
     </td>
     <td><!--  記載確認日  -->
-      2022/06/27
+      2022/10/14
     </td>
   </tr>
 
@@ -108,9 +105,34 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Linux でイノベーションと運用効率を拡大
+    </td>
+    <td><!--  概要  -->
+      他のLinuxディストリビューションに比較し、Red Hat® Enterprise Linux がお客様の組織にもたらす価値と、Red Hatのお客様に期待していただける素晴らしいエクスペリエンスについて説明したeブックです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/expand-innovation-and-efficiency-with-linux-ebook
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/14
+    </td>
+  </tr>
+
 </table>
 
 ### 01-02. ソリューション・製品事例
@@ -140,7 +162,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/14
     </td>
   </tr>
 
@@ -164,7 +186,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/14
     </td>
   </tr>
 
@@ -198,16 +220,40 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
 
   <tr>
     <td><!--  ドキュメント名  -->
+        Red Hat Enterprise Linux サブスクリプションガイド
+    </td>
+    <td><!--  概要  -->
+    Red Hat Enterprise Linuxのサブスクリプションについて、種別や選定方法を詳細に説明したガイドです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/red-hat-enterprise-linux-subscription-guide
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/14
+    </td>
+  </tr>
+  <tr>
+    <td><!--  ドキュメント名  -->
         Red Hat Enterprise Linux subscription guide
     </td>
     <td><!--  概要  -->
-    Red Hat Enterprise Linuxのサブスクリプションについて、種別や選定方法を詳細に説明したサイトです。
+    上述のサブスクリプションガイドの翻訳元となる、英語版のサイトです。
+    内容は基本的に同一でございますが、日本語版のサブスクリプションガイドに比較しこちらの方が更新が迅速に行われますので、必要に応じご参照ください。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -222,7 +268,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/09/01
+      2022/10/14
     </td>
   </tr>
 
@@ -246,7 +292,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 </table>
@@ -276,7 +322,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         PDF
       </a>
-
       <!--  リンク先  -->
       <a href="
         https://www.youtube.com/watch?v=oguXuDMk3TA
@@ -284,10 +329,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         <!--  ドキュメント名  -->
         動画
       </a>
-
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -311,7 +355,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -345,7 +389,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -370,7 +414,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/09/01
+      2022/10/14
     </td>
   </tr>
 
@@ -405,13 +449,17 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
 </table>
 
 ### 02-02. 更新情報
+
+製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
+
+詳細な更新情報については、[Red Hat Enterprise Linux製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux) より、対象のバージョンのリリースノートをご確認ください。
 
 <table>
   <tr>
@@ -438,7 +486,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -471,7 +519,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -495,7 +543,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -528,7 +576,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -552,7 +600,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -576,7 +624,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -600,7 +648,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 

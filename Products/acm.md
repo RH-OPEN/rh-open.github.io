@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/30
+最終更新日：2022/10/14
 </b>
 
 ## 01. 製品説明資料
@@ -73,7 +73,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <a href="https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e" target="_blank" rel="noreferrer noopener">PDF</a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/14
     </td>
   </tr>
 
@@ -91,7 +91,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       <a href="https://www.redhat.com/ja/success-stories" target="_blank" rel="noreferrer noopener">Link</a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/14
     </td>
   </tr>
 
@@ -122,7 +122,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td> <!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
 </table>
@@ -153,7 +153,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
 </table>
@@ -165,6 +165,30 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
+
+  <tr>
+    <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.6 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.6でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.6
+    </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/6663461
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/14
+    </td>
+  </tr>
+  
   <tr>
     <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.5 Support Matrix
@@ -184,9 +208,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
+
   <tr>
     <td>
       <!--  タイトル  -->
@@ -207,53 +232,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
-  <tr>
-    <td><!--  タイトル  -->
-        Red Hat Advanced Cluster Management for Kubernetes 2.3 Support Matrix
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.3でサポートされる管理対象クラスタとHubのサポート環境を示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.3
-    </td>
-    <td><!--  資料  -->
-      <a href="
-        https://access.redhat.com/articles/5900521
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-  <tr>
-    <td><!--  タイトル  -->
-        Red Hat Advanced Cluster Management for Kubernetes 2.2 Support Matrix
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.2でサポートされる管理対象クラスタとHubのサポート環境を示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.2
-    </td>
-    <td><!--  資料  -->
-      <a href="
-        https://access.redhat.com/articles/5799561
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
+
 </table>
 
 ## 02. 製品技術資料
@@ -285,12 +267,16 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
 </table>
 
 ### 02-02. 更新情報
+
+製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
+
+詳細な更新情報については、 [Red Hat Advanced Cluster Management for Kubernetes製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_advanced_cluster_management_for_kubernetes) より、対象のバージョンのリリースノートをご確認ください。
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -315,52 +301,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-  <tr>
-    <td><!--  タイトル  -->
-      What's New in Advanced Cluster Management 2.3 Q3 CY21
-    </td>
-    <td><!--  概要  -->
-      Advanced Cluster Management 2.3における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.3
-    </td>
-    <td><!--  資料  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44516837
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
-  <tr>
-    <td><!--  タイトル  -->
-      What's New in Red Hat Advanced Cluster Management 2.2
-    </td>
-    <td><!--  概要  -->
-      Advanced Cluster Management 2.2における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.2
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44165705
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
 </table>
@@ -391,7 +332,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/14
     </td>
   </tr>
 </table>

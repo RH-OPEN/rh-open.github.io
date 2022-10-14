@@ -21,7 +21,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/09/01
+最終更新日：2022/10/14
 </b>
 
 ## 01. 製品説明資料
@@ -53,7 +53,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/09/01
+      2022/10/14
     </td>
   </tr>
 
@@ -78,7 +78,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -102,7 +102,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 </table>
@@ -112,6 +112,29 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        AAP -Ansible for ServiceNow
+    </td>
+    <td><!--  概要  -->
+      Ansible Automation PlatformとServiceNowの連携をおこなったユースケースと、Red Hat Ansible Certified Content Collection for ServiceNow Solutionについて説明するプレゼンテーションデッキです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/60830675bf6c9420e2c05076?lfrm=srp.2
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/14
+    </td>
   </tr>
 
   <tr>
@@ -134,7 +157,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/14
     </td>
   </tr>
 
@@ -157,7 +180,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/10/14
     </td>
   </tr>
 
@@ -191,7 +214,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -215,7 +238,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -224,7 +247,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         How are "managed nodes" defined as part of the Red Hat Ansible Automation Platform offering?
     </td>
     <td><!--  概要  -->
-      ネットワーク分離環境におけるRed Hat Ansible Automation Platformのライセンスカウント方法について説明します。
+      間接的に管理される対象ノードに対する Red Hat Ansible Automation Platformのライセンスカウント方法について、ネットワークを例にとって説明します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -239,7 +262,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -272,7 +295,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -306,7 +329,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
 
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -341,7 +364,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/09/01
+      2022/10/14
     </td>
   </tr>
 
@@ -366,13 +389,17 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
 </table>
 
 ### 02-02. 更新情報
+
+製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
+
+詳細な更新情報については、 [Red Hat Ansible Automation Platform製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform) より、対象のバージョンのリリースノートをご確認ください。
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -399,7 +426,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/09/01
+      2022/10/14
     </td>
   </tr>
 
@@ -454,7 +481,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
@@ -480,7 +507,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/08/04
+      2022/10/14
     </td>
   </tr>
 
@@ -503,11 +530,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://aap2.demoredhat.com/README.ja.html
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/09/01
+      2022/10/14
     </td>
   </tr>
 
@@ -540,7 +567,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/10/14
     </td>
   </tr>
 
