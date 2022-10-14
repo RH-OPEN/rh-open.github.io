@@ -6,7 +6,7 @@ sort: 1
 
 <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-Enterprise_Linux-A-Standard-RGB.png?raw=true" alt="rhel_logo" title="RHEL">
 
-[Red Hat Enterprise Linux](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) は、数百のクラウドと数千のハードウェアベンダーおよびソフトウェアベンダーで認定された、世界有数のエンタープライズ向け Linux プラットフォームです。Red Hat Enterprise Linux は、エッジコンピューティングや SAP ワークロードなどの特定のユースケースに対応するために購入されることもありますが、すべてのサブスクリプションに次のような核となるメリットがあります。
+[Red Hat Enterprise Linux](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) は、数百のクラウドと数千のハードウェアベンダーおよびソフトウェアベンダーで認定された、世界有数のエンタープライズ向け Linux プラットフォームです。Red Hat Enterprise Linux は、エッジコンピューティングや SAP ワークロードなどの特定のユースケースに対応するために購入されることもありますが、すべてのサブスクリプションに核となるメリットがあります。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
@@ -125,7 +125,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
         https://www.redhat.com/ja/resources/expand-innovation-and-efficiency-with-linux-ebook
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        動画
+        PDF
       </a>
     </td>
     <td><!--  記載確認日  -->

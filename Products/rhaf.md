@@ -9,7 +9,7 @@ sort: 5
 [Red Hat Application Foundations](https://www.redhat.com/en/products/application-foundations) は、ソフトウェアを開発し近代化するための包括的なコンポーネント群を組織に提供します。Application Foundations のテクノロジーは、セキュリティを考慮したアプリケーションの構築、デプロイ、運用を支援するために設計されており、ハイブリッドクラウド全体でスケールの大きいアプリケーションを実現します。Red Hat Application Foundations は、オンプレミスまたはクラウドで実行されるアプリケーションで使用でき、Red Hat OpenShift® と組み合わせることで、アプリケーションのライフサイクル全体にわたって実行を効率化するプラットフォームを作成します。
 
 ```tip
-Red Hat Application FoundationはRed Hat Integrationの実質的な後継製品であり、包含される個別製品は基本的に同一ですが、サブスクリプション体系の変更や一部旧製品のサポート削除が行われております。
+Red Hat Application Foundation(RHAF)はRed Hat Integrationの実質的な後継製品であり、包含される個別製品は基本的に同一ですが、サブスクリプション体系の変更や一部旧製品のサポート削除が行われております。
 IntegrationとRHAFの差異については、本ページ製品概要に掲載しております[新アプリサービス基盤 Red Hat Application Foundations の概要](https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0)をご参照ください。
 
 また、本ページでは一部"Red Hat Integration"の製品資料を掲載しておりますが、前述の通り包含される個別製品は基本的に同一のため、RHAFの資料としてお読み頂いて問題ございません。
@@ -25,7 +25,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/13
+最終更新日：2022/10/14
 </b>
 
 ## 01. 製品説明資料
