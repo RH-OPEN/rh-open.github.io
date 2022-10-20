@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/14
+最終更新日：2022/10/20
 </b>
 
 ## 01. 製品説明資料
@@ -464,6 +464,30 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Enterpries Linux 9 What's New
+    </td>
+    <td><!--  概要  -->
+      RHEL9.0および8.6におけるハイレベルな更新情報をお伝えするプレゼンテーション資料です。英語で提供される同名資料の日本語機械翻訳版となっています。 
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 8.6, & 9
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://redhat-partner.highspot.com/items/634d9158cf17a37a199065ed?lfrm=srp.2
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/20
+    </td>
   </tr>
 
   <tr>
