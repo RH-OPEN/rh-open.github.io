@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/14
+最終更新日：2022/10/31
 </b>
 
 ## 01. 製品説明資料
@@ -253,6 +253,31 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td>
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Platform Plus - Open Hybrid CloudをカタチにするOpenShiftの次の挑戦
+    </td>
+    <td><!--  概要  -->
+      企業におけるHybrid Cloudの採用状況とRed HatのOpen Hybrid Cloud戦略を解説し、この戦略を実現する製品としてのRed Hat OpenShift Platform Plusの紹介を行ったプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://speakerdeck.com/shkitayama/red-hat-openshift-platform-plus-red-hat-summit-connect-2022
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/10/31
+    </td>
   </tr>
 
   <tr>
