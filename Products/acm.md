@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/14
+最終更新日：2022/10/31
 </b>
 
 ## 01. 製品説明資料
@@ -31,7 +31,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
   </tr>
   <tr>
     <td><!--  タイトル  -->
-        マルチKubernetesクラスタ統合管理を実現するソリューションACM(Red Hat Advanced Cluster Management for Kubernetes)
+        Red Hat Advanced Cluster Management for Kubernetesのご紹介
     </td>
     <td><!--  概要  -->
       Red Hat ACMの製品概要と機能紹介を行なったプレゼンテーション資料です。
@@ -41,13 +41,13 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       -
     </td>
     <td><!--  資料  -->
-      <a href="https://redhat-partner.highspot.com/items/62bb641b284119c26afb1418?lfrm=srp.1" target="_blank" rel="noreferrer noopener">
+      <a href="https://app.highspot.com/items/635bd177933e96c00bb71497" target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/10/31
     </td>
   </tr>
 </table>
