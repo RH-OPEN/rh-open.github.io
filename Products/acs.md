@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/06/30
+最終更新日：2022/11/14
 </b>
 
 ## 01. 製品説明資料
@@ -50,7 +50,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/11/14
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/11/14
     </td>
   </tr>
 
@@ -106,7 +106,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/07/07
+      2022/11/14
     </td>
   </tr>
 
@@ -138,7 +138,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/11/14
     </td>
   </tr>
 </table>
@@ -171,7 +171,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/11/14
     </td>
   </tr>
 
@@ -187,24 +187,24 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Security for Kubernetes Support Policy
+        Red Hat Advanced Cluster Security for Kubernetes サポートポリシー
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for KubernetesのCentralサーバの動作をサポートするプラットフォーム、およびRHACSによる管理をサポートするプラットフォームのリストを提供します。
+      Red Hat Advanced Cluster Security for KubernetesのCentralサーバの動作をサポートするプラットフォーム、およびRHACSによる管理をサポートするプラットフォームのリストを提供します。"サポート対象のブラウザー"および”Red Hat Advanced Cluster Security for Kubernetes でサポートされるプラットフォーム”章をご確認ください。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://access.redhat.com/node/5822721
+        https://access.redhat.com/ja/node/6983614
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/11/14
     </td>
   </tr>
 
@@ -240,7 +240,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
 
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/11/14
     </td>
   </tr>
 
@@ -248,35 +248,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ### 02-02. 更新情報
 
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
 
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Security for Kubernetes 3.69
-    </td>
-    <td><!--  概要  -->
-    Red Hat Advanced Cluster Security for Kubernetes 3.69の更新情報を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 3.69
-    </td>
-    <td><!--  リンク先  -->
-      <a href="
-        https://docs.openshift.com/acs/3.69/release_notes/369-release-notes.html
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/06/30
-    </td>
-  </tr>
+製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-</table>
+詳細な更新情報については、[Red Hat Advanced Cluster Security for Kubernetes製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_advanced_cluster_security_for_kubernetes) より、対象のバージョンのリリースノートをご確認ください。
 
 ## 03. 学習リソース
 
@@ -305,7 +280,41 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/06/30
+      2022/11/14
     </td>
   </tr>
+</table>
+
+
+## 0４. その他
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OCB: StackRox Overview and Demo
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster for Kubernetesのデモ動画です。英語かつ旧製品名称（StackRox）でのご紹介となりますので、画面イメージをクイックに確認したい際にご利用ください。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://youtu.be/Fu62ztu_xFc
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/14
+    </td>
+  </tr>
+
 </table>

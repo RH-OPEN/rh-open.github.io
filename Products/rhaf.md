@@ -10,7 +10,7 @@ sort: 5
 
 ```tip
 Red Hat Application Foundation(RHAF)はRed Hat Integrationの実質的な後継製品であり、包含される個別製品は基本的に同一ですが、サブスクリプション体系の変更や一部旧製品のサポート削除が行われております。
-IntegrationとRHAFの差異については、本ページ製品概要に掲載しております[新アプリサービス基盤 Red Hat Application Foundations の概要](https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0)をご参照ください。
+IntegrationとRHAFの差異については、本ページ製品概要に掲載しております["新アプリサービス基盤 Red Hat Application Foundations の概要"](https://redhat-partner.highspot.com/items/634060baa16a25a571285aa0)をご参照ください。
 
 また、本ページでは一部"Red Hat Integration"の製品資料を掲載しておりますが、前述の通り包含される個別製品は基本的に同一のため、RHAFの資料としてお読み頂いて問題ございません。
 ```
@@ -25,7 +25,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/14
+最終更新日：2022/11/14
 </b>
 
 ## 01. 製品説明資料
@@ -62,7 +62,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 </table>
@@ -72,54 +72,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
-    </td>
-    <td><!--  概要  -->
-      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/10/13
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat お客様導入事例
-    </td>
-    <td><!--  概要  -->
-      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://www.redhat.com/ja/success-stories
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/10/13
-    </td>
   </tr>
 
   <tr>
@@ -148,7 +100,55 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>      
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        JAPAN CUSTOMER SUCCESS SLIDES DECK
+    </td>
+    <td><!--  概要  -->
+      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/14
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat お客様導入事例
+    </td>
+    <td><!--  概要  -->
+      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://www.redhat.com/ja/success-stories
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/14
     </td>
   </tr>
 
@@ -180,7 +180,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
   <tr>
@@ -209,7 +209,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 </table>
@@ -226,7 +226,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       Red Hat Application Foundations各製品のライフサイクル
     </td>
     <td><!--  概要  -->
-      Red Hat Application Foundationsに包含されるコンポーネントのライフサイクルの考え方・確認方法についてご説明します。
+      Red Hat Application Foundationsに包含されるコンポーネントのライフサイクルの考え方・確認方法についてご説明します。※ページ冒頭に単体名称の記載がないコンポーネントについては、ページ内「Red Hat Integration」欄に記載されています。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -247,7 +247,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2022/11/14
     </td>
   </tr>
 
@@ -273,7 +273,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
@@ -306,7 +306,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
@@ -330,7 +330,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
@@ -354,7 +354,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
@@ -378,34 +378,9 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Interconnect Supported Configurations
-    </td>
-    <td><!--  概要  -->
-      Red Hat Interconnectのサポート可能な構成を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/6644751
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/10/13
-    </td>
-  </tr>
-
 </table>
 
 ## 02. 製品技術資料
@@ -437,7 +412,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
@@ -461,7 +436,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
@@ -471,7 +446,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、[Red Hat OpenShift Integration製品マニュアル](https://access.redhat.com/documentation/en-us/red_hat_integration) より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、[Red Hat Integration製品マニュアル](https://access.redhat.com/documentation/en-us/red_hat_integration) より、対象のバージョンのリリースノートをご確認ください。
 
 
 ## 03. 学習リソース
@@ -501,7 +476,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
@@ -540,7 +515,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/13
+      2022/11/14
     </td>
   </tr>
 
