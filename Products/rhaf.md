@@ -106,6 +106,30 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
+        Cloud Native Data Integration
+    </td>
+    <td><!--  概要  -->
+      クラウドネイティブな開発を実践する上でのお客様の課題を説明し、この課題を解決するCloud Native Data Integrationの手法とユースケースをご紹介するプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://app.highspot.com/items/63726243ea6b10e4b28f7e28
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>  
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/16
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         JAPAN CUSTOMER SUCCESS SLIDES DECK
     </td>
     <td><!--  概要  -->
@@ -394,10 +418,11 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Integration 製品概要
+      Red Hat Application Foundations - 製品概要
     </td>
     <td><!--  概要  -->
-      Red Hat Application Foundationsに含まれるインテグレーション製品群(Fuse, 3Scale, AMQ) について概要を記載したプレゼンテーション資料です。
+      Red Hat Application Foundationsについて、製品のハイレベルな紹介を行ったプレゼンテーション資料です。
+      特にRed Hat OpenShiftと組み合わせて使用した場合のビジネス的価値を中心にご紹介しています。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -405,14 +430,38 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/6065d0a7998ae4317f393f18?lfrm=srp.2
+        https://app.highspot.com/items/637262806d2911bc77784481
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2022/11/16
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Application Foundations - 技術概要
+    </td>
+    <td><!--  概要  -->
+      Red Hat Application Foundationsについて、RHAFの技術的な位置付けと、RHAFに含まれる各コンポーネントの技術的な説明を行ったプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/6372624450ffb9e317616a7b
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/16
     </td>
   </tr>
 
@@ -458,10 +507,10 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Integration ラーニングパス
+      Red Hat Application Foundationsトレイルマップ
     </td>
     <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
+      Red Hat Partner Training Portalで提供される学習コンテンツより、Red Hat Application Foundationsの推奨学習コースをロール別にご確認いただけます。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -469,14 +518,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629104c10266493b97d07cac
+        https://app.highspot.com/items/6372627fcb2948ea7fefadeb
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/14
+      2022/11/16
     </td>
   </tr>
 

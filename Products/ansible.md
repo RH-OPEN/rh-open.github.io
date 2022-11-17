@@ -21,7 +21,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/14
+最終更新日：2022/11/16
 </b>
 
 ## 01. 製品説明資料
@@ -105,6 +105,55 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       2022/10/14
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Ansibleハイブリッドクラウドの自動化 ビジネスチャンスとユースケース
+    </td>
+    <td><!--  概要  -->
+      本書は同名資料の日本語機械翻訳版です。Ansible Hybrid Cloud Automationの紹介プレゼンテーションです。30分以内の初回ディスカッション用として、ハイブリッドクラウド自動化の動向、Ansibleハイブリッドクラウド自動化とは何か、Ansibleはこれらの問題にどのように対処するのかを高いレベルで解説しています。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/63726190091a5dde5ee04d37
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/16
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform競合比較
+    </td>
+    <td><!--  概要  -->
+      本書は、同名資料の日本語機械翻訳版です。Red Hat Ansible Automation Platformの競合状況を強調し、いくつかの競合他社を選択して詳細を説明し、主要な弱点と強みをリストした競合概要のスライドデッキです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://app.highspot.com/items/63726190ec8663db7250660e
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/16
+    </td>
+  </tr>
+
 </table>
 
 ### 01-02. ソリューション・製品事例
