@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/31
+最終更新日：2022/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -178,14 +178,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td>　<!--  資料  -->
       <a href="
-        https://access.redhat.com/articles/6663461
+        https://access.redhat.com/articles/6968787
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         Link
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2022/11/21
     </td>
   </tr>
   
