@@ -18,7 +18,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/10/20
+最終更新日：2022/11/24
 </b>
 
 ## 01. 製品説明資料
@@ -575,6 +575,40 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 
 ## 04. 関連情報
 
+### 04-01. RHEL for Edge
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hatのエッジコンピューティング・アプローチ
+    </td>
+    <td><!--  概要  -->
+      Red Hatのエッジへの取り組みと、Red Hatの製品をエッジのユースケースで活用する手法および事例をご紹介するサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/topics/edge-computing/approach
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/11/24
+    </td>
+  </tr>
+
+</table>
+
+### 04-02. その他
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
