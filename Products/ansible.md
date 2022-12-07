@@ -21,7 +21,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 ```
 
 <b>
-最終更新日：2022/11/17
+最終更新日：2022/12/7
 </b>
 
 ## 01. 製品説明資料
@@ -315,6 +315,31 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
   </tr>
 
+  <tr>
+    <td><!--  ドキュメント名  -->
+      What is included in Red Hat Ansible Automation Platform subscription?
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platformのサブスクリプションには、Ansibleそのもの以外にも複数のコンポーネントやサービスの使用権が含まれています。
+      本KBは同サブスクリプションに含まれるコンポーネント、サービスの一覧を掲載しています。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/articles/6057451#red-hat-enterprise-linux-subscription-information-19
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/12/7
+    </td>
+  </tr>
+
 </table>
 
 ### 01-04. ライフサイクル
@@ -476,6 +501,67 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  記載確認日  -->
       2022/10/14
+    </td>
+  </tr>
+
+</table>
+
+### 02-03. アップグレード
+
+製品の特定バージョンに対し、アップグレードに向けたご説明資料が存在する場合に記載を行います。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform 2 への移行を準備するための 5 つの方法
+    </td>
+    <td><!--  概要  -->
+    Red Hat Ansible Automation Platformでは、バージョン1.xから2.xにあたりアーキテクチャや設定が一部変更となっています。
+    このチェックリストでは、2.x系へのバージョナップを実施するにあたり、事前にご準備・ご考慮が必要となる内容を明示しています。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.x
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/prepare-for-migration-ansible-automation-2-checklist
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/12/7
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Ansible Automation Platform 2.1 のご紹介 Part2 - アップグレード編（その１）
+    </td>
+    <td><!--  概要  -->
+    Red Hat Ansible Automation Platformをバージョン1.x系から2.x系にバージョンアップする具体的な手順を解説した弊社ソリューションアーキテクトによるブログ記事です。
+    バージョンアップのご参考情報としてお使いください。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.x
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://rheb.hatenablog.com/entry/aap21-part2_1
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2022/12/7
     </td>
   </tr>
 

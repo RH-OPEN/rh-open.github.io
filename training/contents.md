@@ -22,7 +22,9 @@ Red Hatではパートナー様のRed Hat製品習得促進のため、情報提
 また、レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/partners)の最下段をご参照のうえ、お気軽にお問い合わせください。
 ```
 
-*最終更新： 2022/10/6*
+<b>
+最終更新日：2022/12/7
+</b>
 
 # パートナー様限定のトレーニングコンテンツ
 
@@ -73,6 +75,17 @@ Red Hat Partner Enablement Japanは、パートナー様へのRed Hat製品のEn
 
 
 # パートナー様限定ではないトレーニングコンテンツ
+
+
+##  Red Hat Customer Portal Labs
+Red Hat Customer Portal Labsは、AnsibleやOpenSHiftを中心としたRed Hat Productについて、パフォーマンスの向上、問題のトラブルシューティング、セキュリティ問題の特定、構成の最適化など実践的なユースケースにおけるWeb上でのハンズオンラボを提供します。
+基本的に英語コンテンツとなりますが、一部コンテンツは日本語で提供されています。
+
+ご利用にパートナー契約は必要ございませんが、Red Hatアカウントが必要となります。
+
+### アクセス
+
+・[Red Hat Customer Portal Labs](https://access.redhat.com/labs/)
 
 ##  Red Hat Developer(旧名Interactive Learning Portal) 
 Red Hat Developerは、Red Hat OpenShiftを上でアプリケーション開発を行うための各種情報とハンズオンラボを提供しています。
