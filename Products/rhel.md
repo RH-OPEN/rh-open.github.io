@@ -9,16 +9,22 @@ sort: 1
 [Red Hat Enterprise Linux](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux) は、数百のクラウドと数千のハードウェアベンダーおよびソフトウェアベンダーで認定された、世界有数のエンタープライズ向け Linux プラットフォームです。Red Hat Enterprise Linux は、エッジコンピューティングや SAP ワークロードなどの特定のユースケースに対応するために購入されることもありますが、すべてのサブスクリプションに核となるメリットがあります。
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
-Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へのログインが必要です。
+アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
 のフォームからお問合せください。
 ```
 
+```note
+2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。なお、アクセスにご利用頂くアカウントについてはPartner Content Hubと同じとなりますので、過去Partner Content Hubにアクセスされた方であれば新規にアカウントをご取得いただく必要はございません。
+
+こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
+```
+
 <b>
-最終更新日：2022/11/24
+最終更新日：2023/1/26
 </b>
 
 ## 01. 製品説明資料
@@ -67,14 +73,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/621d3f956cad68138e4c4450?lfrm=srp.0
+        https://content.redhat.com/us/en/assets/display.html?id=10d10ccc-ba61-4812-9af6-131a800a6f0e
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        PPTX
       </a>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/623b56535df9ff2a70c09fa9?lfrm=srp.1
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ed46312-7dd8-4014-94a1-20f87e5ed58a
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
@@ -98,7 +104,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5d162a9d429d7b2d9300ddf7?lfrm=srp.43
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d263b412-4b5f-46fe-b1af-d38f0a7aac2b
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -155,7 +161,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -213,7 +219,7 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629110780266493a40d77c28
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=722d0c01-bfcc-4281-8406-e947baf66747
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -479,14 +485,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/634d9158cf17a37a199065ed?lfrm=srp.2
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5e4d48d2-8eec-4152-89d2-df4a50cd552a
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/20
+      2023/1/23
     </td>
   </tr>
 
@@ -536,14 +542,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62910808f8a6714aedd49b90
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=9e5a1e81-2e39-4645-b28c-e10cb88c9320
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -560,14 +566,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5df7906f429d7b345d7b8ec0?lfrm=srp.0
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f5155d40-d9f9-464a-a637-ec5bf33d67d1
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -627,14 +633,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/60087aa9bf6c94371080e0f0
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2fec2c82-7695-47e1-9b8a-e79cf8e77c00
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -651,14 +657,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/60f0497fe430166258ffd5a1
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e107d71b-d905-4ef2-a25d-d0a482d04cb8
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -675,14 +681,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5aa1ef99f216761ee83ca786?lfrm=srp.34#1
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a37648b8-9712-404c-bc53-5ae2c7429414
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 

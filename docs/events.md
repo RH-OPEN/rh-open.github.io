@@ -11,7 +11,7 @@ sort: 3
 
   <tr>
     <td><!--  イベント名/リンク  -->
-      <a href="https://redhat-partner.highspot.com/search?q=red+hat+Partner+Day+2022">Red Hat Partner Day 2022</a>
+      <a href="https://content.redhat.com/content/rhcc/us/en/search.html?f=%5B%5D&l=10&m=list&p=0&q=red%20hat%20Partner%20Day%202022">Red Hat Partner Day 2022</a>
     </td>
     <td><!--  開催日 -->
       2022/7/14

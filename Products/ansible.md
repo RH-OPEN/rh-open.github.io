@@ -12,16 +12,22 @@ sort: 2
 IT 管理者は、自動化をどのように適用するかのガイドラインを個々のチームに提供することができ、自動化クリエーターは、既存の知識を利用したタスクを作成できます。Ansible Automation Platform は、エンドツーエンドの自動化を展開するためのより安全で安定した基盤を提供します。
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
-Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
+アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
 のフォームからお問合せください。
 ```
 
+```note
+2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。なお、アクセスにご利用頂くアカウントについてはPartner Content Hubと同じとなりますので、過去Partner Content Hubにアクセスされた方であれば新規にアカウントをご取得いただく必要はございません。
+
+こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
+```
+
 <b>
-最終更新日：2022/12/7
+最終更新日：2023/1/26
 </b>
 
 ## 01. 製品説明資料
@@ -46,14 +52,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/630645a1fadce55d6ec52c06
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -119,14 +125,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/63726190091a5dde5ee04d37
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=250d0c77-3049-46e1-9dbb-cba1e5973a06
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/16
+      2023/1/23
     </td>
   </tr>
 
@@ -143,14 +149,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/63726190ec8663db7250660e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=11d99b48-c982-4e44-b68c-a0070603103b
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/11/16
+      2023/1/23
     </td>
   </tr>
 
@@ -161,29 +167,6 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        AAP -Ansible for ServiceNow
-    </td>
-    <td><!--  概要  -->
-      Ansible Automation PlatformとServiceNowの連携をおこなったユースケースと、Red Hat Ansible Certified Content Collection for ServiceNow Solutionについて説明するプレゼンテーションデッキです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  リンク先  -->
-      <a href="        
-        https://redhat-partner.highspot.com/items/60830675bf6c9420e2c05076?lfrm=srp.2
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
-    </td>
   </tr>
 
   <tr>
@@ -199,14 +182,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -256,14 +239,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62910ed437fefb35422c3dcd
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c0e72669-3ad6-4c7b-a756-c0317a9c9f5e
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -431,14 +414,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/630645a1fadce55d6ec52c06
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -478,6 +461,30 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Ansible Automation Platform 2.3: リリースの概要
+    </td>
+    <td><!--  概要  -->
+    Ansible Automation Platform 2.3リリースの概要を説明するプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.3
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5091491d-afab-4678-b98c-c987c86a62e7
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/1/20
+    </td>
   </tr>
 
   <tr>
@@ -586,14 +593,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/629106dcf96784553406af86
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f08202a0-bad2-4298-8c1b-ab59cf0ff35d
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/05/30
+      2023/1/23
     </td>
   </tr>
 
@@ -609,14 +616,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://redhat-partner.highspot.com/items/5bee108f429d7b2a286c3b14?lfrm=srp.1
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=de213e12-bb18-40bc-848b-99af059d7e4c
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 

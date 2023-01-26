@@ -9,16 +9,22 @@ sort: 6
 [Red Hat® Advanced Cluster Management for Kubernetes](https://www.redhat.com/ja/technologies/management/advanced-cluster-management)は、セキュリティポリシーを組み込んだ単一のコンソールで、クラスタとアプリケーションを制御します。アプリケーションをデプロイして複数のクラスタを管理し、複数のクラスタへポリシーを広範囲に適用することで、Red Hat OpenShift® の価値を拡大します。
 
 ```note
-本ページに記載のリンクの一部は、参照に[Red Hat Partner Content Hub](https://redhat-partner.highspot.com/)へのログインが必要です。
-Partner Content Hubのログインアカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
+本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
+アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
 掲載資料へのお問合せ、資料のリンク切れなどは
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdTw0cjIAKxh_XE-jYehoa1MnCmdd0FVZm0oPQXF1X7JNinYw/viewform)
 のフォームからお問合せください。
 ```
 
+```note
+2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。なお、アクセスにご利用頂くアカウントについてはPartner Content Hubと同じとなりますので、過去Partner Content Hubにアクセスされた方であれば新規にアカウントをご取得いただく必要はございません。
+
+こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
+```
+
 <b>
-最終更新日：2022/11/21
+最終更新日：2023/1/26
 </b>
 
 ## 01. 製品説明資料
@@ -41,13 +47,15 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       -
     </td>
     <td><!--  資料  -->
-      <a href="https://app.highspot.com/items/635bd177933e96c00bb71497" target="_blank" rel="noreferrer noopener">
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=48a7c780-551f-4e98-9755-659566fd5440
+      " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/31
+      2023/1/23
     </td>
   </tr>
 </table>
@@ -70,10 +78,12 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
       -
     </td>
     <td><!--  資料  -->
-      <a href="https://redhat-partner.highspot.com/items/62c5b2b382df859a72da9f9e" target="_blank" rel="noreferrer noopener">PDF</a>
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
+      " target="_blank" rel="noreferrer noopener">PDF</a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 
@@ -115,14 +125,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     </td>
     <td> <!--  資料  -->
       <a href="
-        https://app.highspot.com/items/62bb64cc2064711edd4da8df
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4f8d048c-0458-4348-aca5-10a267c9e278
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
     </td>
     <td> <!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 </table>
@@ -325,14 +335,14 @@ Partner Content Hubのログインアカウントをお持ちでない場合、[
     <td>
       <!--  リンク先  -->
       <a href="
-        https://app.highspot.com/items/62bb54db3b178be6be3c9fd9
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fad54fb3-7a42-4ef3-811d-3e9e830fc69e
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
     </td>
     <td><!--  記載確認日  -->
-      2022/10/14
+      2023/1/23
     </td>
   </tr>
 </table>

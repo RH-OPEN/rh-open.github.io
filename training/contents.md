@@ -61,7 +61,7 @@ Red Hat Partner Enablement Japanは、パートナー様へのRed Hat製品のEn
 ・[Red Hat Partner Enablement Japan](https://redhat-open.connpass.com/)
 
 ### 利用ガイド & 提供コンテンツ
-・[Partner Training Portalワークショップのご紹介](https://redhat-partner.highspot.com/items/633d8fc5b6886411c1579c9f?lfrm=srp.0)
+・[Partner Training Portalワークショップのご紹介](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b13ee0aa-bca9-424a-aadf-faba9d01f7a7)
 
 ##  Red Hat Product Demo System （RHPDS） 
 

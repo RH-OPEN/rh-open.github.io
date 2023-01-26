@@ -21,7 +21,7 @@ sort: 2
 - Red Hat ID作成 ・ Red Hat Partner Training Portal ID登録先のURL　→　[こちら](https://connect.redhat.com/)
 
 ## FAQ
-- よくあるご質問につきましては[こちら](https://redhat-partner.highspot.com/items/5d42e186429d7b3c36e2b458?lfrm=srp.0)をご参照ください。
+- よくあるご質問につきましては[こちら](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3f814a2a-01f7-4137-a5e2-2119d01dbc26)をご参照ください。
 
 ※アクセスできない方は、以下のお問い合わせからご連絡お願いします。
 
