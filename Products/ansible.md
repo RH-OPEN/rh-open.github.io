@@ -27,7 +27,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 ```
 
 <b>
-最終更新日：2023/1/26
+最終更新日：2023/2/22
 </b>
 
 ## 01. 製品説明資料
@@ -414,7 +414,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
