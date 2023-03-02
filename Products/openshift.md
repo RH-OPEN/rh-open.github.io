@@ -24,7 +24,7 @@ sort: 3
 ```
 
 <b>
-最終更新日：2023/1/26
+最終更新日：2023/3/2
 </b>
 
 ## 01. 製品説明資料
@@ -530,6 +530,30 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
+        What's New in OpenShift 4.12 - JP
+    </td>
+    <td><!--  概要  -->
+      OpenShift 4.12における新機能について紹介を行うプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2112c713-2e05-461b-aebb-bf93736c87a5
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/2/17
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         What's new in OpenShift
     </td>
     <td><!--  概要  -->
@@ -674,6 +698,37 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     </td>
   </tr>
 
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShiftトレーニングコンテンツのご紹介
+    </td>
+    <td><!--  概要  -->
+      Red Hatでは、パートナー様によるOpenShiftのご学習を効率良く進めて頂くため様々なトレーニングコンテンツを公開しています。 この資料では、複数存在するOpenShiftのトレーニングコンテンツを網羅的に紹介し、ご利用方法をガイドします。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=a0dfc905-3025-4c01-bedf-a29da16b777b
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=2396e2dc-6271-4947-a21a-00fd8e2553de
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/2/17
+    </td>
+  </tr>
+
 </table>
 
 ## 04. 関連情報
@@ -799,6 +854,99 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     </td>
     <td><!--  記載確認日  -->
       2023/1/23
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      アプリケーションサーバーのReplatform
+    </td>
+    <td><!--  概要  -->
+      アプリケーションをKubernetes/やOpenShift上のコンテナへ移行するためには、アプリケーションの特性やスケジュールに合わせ移行戦略をRefactorやReplatformなど複数の選択肢から決定する必要があります。本資料では、移行戦略検討のための指針となる情報を提供し、その中でもReplatformについて具体的な手法を説明します。※ 本資料の再利用は、Red Hatビジネスアライアンスにおける利用の場合のみ可能です
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d61695b3-da3c-4433-824f-e60ec6a9d0c2
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=47134c5b-bc76-4b38-b9ab-ffa72d8edaff
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/2/17
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShift Serverless 入門
+    </td>
+    <td><!--  概要  -->
+      OpenShiftにはサーバレスコンピューティングを実現するための機能としてOpenShift Serverlessが搭載されています。本資料では、このOpenShift Sererlessのハイレベルな概要とアーキテクチャについて説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=0736029d-f34d-412d-a89f-cd508e75da98
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=3c6e1d7a-e027-416a-abe1-c92dd3857745
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/2/17
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      ハイブリッドクラウドにおけるデータ統合を実現する ODF Multi-Cloud Gateway
+    </td>
+    <td><!--  概要  -->
+      OpenShift Data Foundationには、ハイブリッドクラウドにおけるデータ統合を実現する機能であるMCG（Multi-Cloud Object Gateway）が搭載されています。本資料では、MCGの概要と利用シナリオについて説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=e1e26e84-82ea-432e-b1b9-933d7efd0f11
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=bc5a4b6f-a0fa-496c-b3aa-b2134f9ae69b
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/2/17
     </td>
   </tr>
 
