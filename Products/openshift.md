@@ -24,7 +24,7 @@ sort: 3
 ```
 
 <b>
-最終更新日：2023/2/17
+最終更新日：2023/3/2
 </b>
 
 ## 01. 製品説明資料
@@ -89,6 +89,32 @@ sort: 3
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td>
+        <!--  ドキュメント名  -->
+        OpenShift Platform Plusの収益機会の評価
+    </td>
+    <td><!--  概要  -->
+      Red HatがForrester Consultingに依頼し調査を実施した、OpenShift Platform Plusの収益機会の評価レポートです。
+      Red Hatの顧客がこのプラットフォームを使ってどのように業務プロセスを改善し、収益を伸ばしているか、またその顧客がベストプラクティスとみなしている分野で行っている投資が、その成功にどのように貢献しているかに焦点を当てています。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="        
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8ce367b8-c270-409a-ab61-5c3ab9b67a27
+      " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/3/2
+    </td>
   </tr>
 
   <tr>
@@ -1147,6 +1173,35 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
 
 
 ### 04-04. その他
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        コンテナ戦略で競争力を獲得する
+    </td>
+    <td><!--  概要  -->
+      ビジネスイノベーションの未来は、クラウド内の Kubernetes で構築されます。私たちの生活や仕事を変革する無限の可能性がもたらされます。クラウドは今では市場に普及しましたが (先進的なコンテナベースのアプリケーションの導入が進むにつれ、Kubernetes もそれと同じ道筋をたどっています)、インテリジェントなテクノロジーの次の波を支えるクラウド戦略を成功させるには、新たな検討事項が加わります。この e ブックでは、シンプルかつ効率的で安全性の高い Kubernetes プラットフォームを選ぶ方法を紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/container-strategy-kubernetes-ebook
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/3/2
+    </td>
+  </tr>
 
 <table>
   <tr>

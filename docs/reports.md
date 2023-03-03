@@ -6,6 +6,73 @@ sort: 1
 
 DX・IT基盤強化・組織変革などビジネス課題におけるアプローチや戦略ガイドの資料などをまとめています。
 
+<b>
+最終更新日：2023/3/2
+</b>
+
+## エッジコンピューティング
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>資料</th><th>概要</th><th>発行日</th>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://www.redhat.com/ja/resources/manufacturers-scale-edge-computing-hybrid-cloud-overview
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+       製造業者はハイブリッドクラウドでエッジコンピューティングを拡張可能
+      </a>
+    </td>
+    <td><!--  概要  -->
+     製造事業におけるエッジコンピューティングの必要性と、Red Hatソリューションによるエッジコンピューティングで製造工程をより効率的に管理するための手法をご紹介します。
+    </td>
+    <td><!--  発行日  -->
+      2022年11月11日
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b7f25f9f-2061-4dec-a97a-9f4d02785d7a
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Red Hat Hackfest：製造のエッジユースケース
+      </a>
+    </td>
+    <td><!--  概要  -->
+    Red Hat Hackfest プログラムの一環で開発されたエッジコンピューティングのユースケースについて説明します。大量生産を行う組織にとって役立つ内容になっています。今すぐダウンロードしてご覧ください。
+    </td>
+    <td><!--  発行日  -->
+      2022年10月6日
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://www.redhat.com/ja/resources/edge-computing-in-space-brief
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        エッジコンピューティングの活用例：宇宙
+      </a>
+    </td>
+    <td><!--  概要  -->
+    Red HatのEdgeソリューションの活用例として、国際宇宙ステーション(ISS)での活用事例をご紹介します。
+    </td>
+    <td><!--  発行日  -->
+      2022年10月12日
+    </td>
+  </tr>
+
+</table>
+
 ## デジタル・トランスフォーメーション
 
 <table>
@@ -17,17 +84,17 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fcc32067-8ec9-41e3-b8b4-eb46f96f72f5
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=82d27ed9-27da-4ba1-a289-bad19cedd6ed
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
-        2021 年版世界のテクノロジー展望：Red Hat レポート
+        2023 年版世界のテクノロジー展望：Red Hat レポート
       </a>
     </td>
     <td><!--  概要  -->
-    各種業界の IT リーダーが 2021 年に最重視している目標と課題とは？その詳細をご覧ください。
+    Red Hat はこれまで 9 年間にわたり、デジタル・トランスフォーメーションを取り巻く傾向の推移を明らかにするため、さまざまな業界の方々を対象にアンケート調査を行ってきました。2023 年版世界のテクノロジー展望で、昨年の組織のデジタル・トランスフォーメーションの進展状況と投資についてご覧ください。 
     </td>
     <td><!--  発行日  -->
-      2021年3月10日
+      2022年11月29日
     </td>
   </tr>
 
@@ -92,6 +159,24 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 <table>
   <tr><!-- 行1（見出し）-->
     <th>資料</th><th>概要</th><th>発行日</th>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d10552f8-3416-4264-897f-9a846dcab9a3
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        マネージド・クラウドサービスによる IT のモダナイズ
+      </a>
+    </td>
+    <td><!--  概要  -->
+    マネージド・クラウドサービスを使用すると、アプリケーション開発をスピードアップし、コストと複雑さを軽減することができます。その詳細をご覧ください。
+    </td>
+    <td><!--  発行日  -->
+      2022年10月6日
+    </td>
   </tr>
 
   <tr>
@@ -215,6 +300,26 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c1942bb9-8237-436b-b90c-816628fcbe8d
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        自動化を最適化し、アプリケーションのモダナイゼーションを加速
+      </a>
+    </td>
+    <td><!--  概要  -->
+    Dynatrace AIOps を使用すると、アプリケーション、クラスタ、基盤のクラウド・インフラストラクチャを Red Hat OpenShift で監視およびオーケストレーションできます。
+    Red Hat OpenShift は、従来のモノリシックなアプリケーションやクラウドネイティブのマイクロサービスを開発して複数のクラウド環境に提供するためのプラットフォームになります。
+    Red Hat は環境全体での規制要件の遵守をサポートし、Dynatrace はデプロイメントが環境全体で効率的に稼働するよう支援して複雑性や肥大化の根絶を促進します。
+    </td>
+    <td><!--  発行日  -->
+      2023年1月10日
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
       https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=576e5272-7ca2-47d9-93cc-82e7d8059948
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
@@ -272,6 +377,24 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
 <table>
   <tr><!-- 行1（見出し）-->
     <th>資料</th><th>概要</th><th>発行日</th>
+  </tr>
+
+  <tr>
+    <td><!--  資料  -->
+      <!--  リンク  -->  
+      <a href="
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=44e91ac8-69f5-4e3c-9d1c-6269276273d0
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        将来を切り拓く：Red Hat を使用して 3 つの主要な IT の柱でのイノベーションと成長を実現
+      </a>
+    </td>
+    <td><!--  概要  -->
+    現在、ビジネス価値創出の可能性は IT 部門全体に存在しています。この e ブックでは、そのプロセスで信頼できるパートナーが必要な理由を説明します。ダウンロードして詳細をご覧ください。
+    </td>
+    <td><!--  発行日  -->
+      2022年10月18日
+    </td>
   </tr>
 
   <tr>
