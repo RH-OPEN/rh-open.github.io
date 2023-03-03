@@ -24,7 +24,7 @@ sort: 1
 ```
 
 <b>
-最終更新日：2023/1/26
+最終更新日：2023/3/2
 </b>
 
 ## 01. 製品説明資料
@@ -57,6 +57,31 @@ sort: 1
     </td>
     <td><!--  記載確認日  -->
       2022/10/14
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Enterprise Linux のご紹介
+    </td>
+    <td><!--  概要  -->
+      RHELが組織にもたらすメリットや、サブスクリプションに含まれる機能・サービス、そしてRHELの使用開始について解説するe-Bookです。
+      この e ブックでは、先進的な IT プラクティスによって IT 環境全体に付加された複雑性に対処するために必要となるメリットと機能を Red Hat Enterprise Linux がもたらすことを説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5a3ac841-4739-44a0-9782-bd79de9d5386
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/3/2
     </td>
   </tr>
 
@@ -590,6 +615,30 @@ sort: 1
 
   <tr>
     <td><!--  ドキュメント名  -->
+      エッジでのワークロードに対応する Red Hat Enterprise Linux
+    </td>
+    <td><!--  概要  -->
+      Red Hat Enterprise Linuxのエッジコンピューティングでの活用について、特徴や機能についてご紹介するサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/meet-workload-demands-edge-computing-datasheet
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+         Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/3/2
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         Red Hatのエッジコンピューティング・アプローチ
     </td>
     <td><!--  概要  -->
@@ -713,6 +762,30 @@ sort: 1
     </td>
     <td><!--  記載確認日  -->
       2022/10/14
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Enterprise Linux の自動化と管理
+    </td>
+    <td><!--  概要  -->
+      RHELの管理を自動化するために使用可能な各種ツールをご紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/resources/rhel-automation-management-datasheet
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td><!--  記載確認日  -->
+      2023/03/02
     </td>
   </tr>
 
