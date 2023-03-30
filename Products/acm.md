@@ -17,14 +17,8 @@ sort: 6
 のフォームからお問合せください。
 ```
 
-```note
-2023/1より、Red Hatのパートナー様へのファイル共有システムがPartner Content Hubより[Red Hat Content Center](https://content.redhat.com/content/rhcc/us/en/homepage-partners.html)へ移行されました。なお、アクセスにご利用頂くアカウントについてはPartner Content Hubと同じとなりますので、過去Partner Content Hubにアクセスされた方であれば新規にアカウントをご取得いただく必要はございません。
-
-こちらに伴いまして本ページのファイルリンクもContent Centerへ差し替えを行なっております。アクセスにおいてトラブルがございましたら、上記のお問い合わせフォームよりお問い合わせください。
-```
-
 <b>
-最終更新日：2023/1/26
+最終更新日：2023/3/30
 </b>
 
 ## 01. 製品説明資料
@@ -48,14 +42,14 @@ sort: 6
     </td>
     <td><!--  資料  -->
       <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=48a7c780-551f-4e98-9755-659566fd5440
+      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=517649b6-233f-4906-83c6-a5095619bb59
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
@@ -82,8 +76,8 @@ sort: 6
       https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
       " target="_blank" rel="noreferrer noopener">PDF</a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
+     <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -100,8 +94,8 @@ sort: 6
     <td><!--  資料  -->
       <a href="https://www.redhat.com/ja/success-stories" target="_blank" rel="noreferrer noopener">Link</a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -131,8 +125,8 @@ sort: 6
         PDF
       </a>
     </td>
-    <td> <!--  記載確認日  -->
-      2023/1/23
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
@@ -162,8 +156,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
@@ -174,6 +168,29 @@ sort: 6
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.7 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.7でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.7
+    </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/6978968
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
   </tr>
 
   <tr>
@@ -194,8 +211,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/11/21
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
   
@@ -217,32 +234,8 @@ sort: 6
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
-    </td>
-  </tr>
-
-  <tr>
     <td>
-      <!--  タイトル  -->
-        Red Hat Advanced Cluster Management for Kubernetes 2.4 Support Matrix
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.4でサポートされる管理対象クラスタとHubのサポート環境を示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.4
-    </td>
-    <td>　<!--  資料  -->
-      <a href="
-        https://access.redhat.com/articles/6218901
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -256,30 +249,30 @@ sort: 6
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
+
   <tr>
-    <td><!--  タイトル  -->
-        Red Hat Advanced Cluster Management for Kubernetes Foundations
+    <td> <!--  タイトル  -->
+        アーキテクチャー、コンポーネント、クイックスタートガイドなどの製品の詳細
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetesの製品アーキテクチャを説明し、ハンズオンラボを提供する
-      Partner Training Portalのコンテンツです。
+      Red Hat Advanced Cluster Management for Kubernetesのアーキテクチャ及び構成要素について説明を行った製品ドキュメントです。
     </td>
     <td><!--  対象バージョン  -->
-      -
+      Version 2.7
     </td>
-    <td>
-      <!--  リンク先  -->
+    <td>　<!--  資料  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D43737670
+        https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/html/about/welcome-to-red-hat-advanced-cluster-management-for-kubernetes#multicluster-architecture
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         Link
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
+
 </table>
 
 ### 02-02. 更新情報
@@ -287,34 +280,6 @@ sort: 6
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
 詳細な更新情報については、 [Red Hat Advanced Cluster Management for Kubernetes製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_advanced_cluster_management_for_kubernetes) より、対象のバージョンのリリースノートをご確認ください。
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-  <tr>
-    <td><!--  タイトル  -->
-      What's New in Advanced Cluster Management 2.4 Q4 CY21
-    </td>
-    <td><!--  概要  -->
-      Advanced Cluster Management 2.4における更新情報を学べる、Red Hat Partner Training Portalのコンテンツです。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.4
-    </td>
-    <td><!--  資料  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44694648
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2022/10/14
-    </td>
-  </tr>
-</table>
 
 ## 03. 学習リソース
 
@@ -341,8 +306,8 @@ sort: 6
         PDF
       </a>
     </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
+    <td>
+      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 </table>
