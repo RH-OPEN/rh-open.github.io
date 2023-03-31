@@ -18,7 +18,7 @@ sort: 7
 ```
 
 <b>
-最終更新日：2023/3/30
+最終更新日：2023/3/31
 </b>
 
 ## 01. 製品説明資料
@@ -32,10 +32,10 @@ sort: 7
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat Advanced Cluster Security for Kubernetes
+      Red Hat Advanced Cluster Security for Kubernetesのご紹介
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Security for Kubernetesの特徴および機能を紹介した製品データシートです。
+      コンテナ化されたKubernetesワークロードを安全に保護するためのポイント、製品概要と機能を紹介するプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -43,16 +43,41 @@ sort: 7
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/rhdc/managed-files/cl-advanced-cluster-security-for-kubernetes-datasheet-f31987pr-202209-en.pdf
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8eaf71d2-ab60-4f32-8446-0bee9971a0e3
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/3/31
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShift Container Platform Plusを使用したコンテナの保護
+    </td>
+    <td><!--  概要  -->
+      OpenShift Container Platform Plusを使用し、コンテナアプリケーションと実行環境を保護する方法について解説を行ったテクニカルプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=18c828d4-67e0-4cb2-9abd-7b9aca098ce6
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/31
+    </td>
+  </tr>
+
 </table>
 
 ### 01-02. ソリューション・製品事例
