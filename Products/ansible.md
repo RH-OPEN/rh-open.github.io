@@ -21,7 +21,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 ```
 
 <b>
-最終更新日：2023/3/30
+最終更新日：2023/4/13
 </b>
 
 ## 01. 製品説明資料
@@ -132,30 +132,6 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform競合比較
-    </td>
-    <td><!--  概要  -->
-      本書は、同名資料の日本語機械翻訳版です。Red Hat Ansible Automation Platformの競合状況を強調し、いくつかの競合他社を選択して詳細を説明し、主要な弱点と強みをリストした競合概要のスライドデッキです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=11d99b48-c982-4e44-b68c-a0070603103b
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform：初心者向けガイド
     </td>
     <td><!--  概要  -->
@@ -185,6 +161,30 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform競合比較
+    </td>
+    <td><!--  概要  -->
+      本書は、同名資料の日本語機械翻訳版です。Red Hat Ansible Automation Platformの競合状況を強調し、いくつかの競合他社を選択して詳細を説明し、主要な弱点と強みをリストした競合概要のスライドデッキです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=11d99b48-c982-4e44-b68c-a0070603103b
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
   </tr>
 
   <tr>
@@ -316,31 +316,6 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
     </td>
   </tr>
 
-  <tr>
-    <td><!--  ドキュメント名  -->
-      What is included in Red Hat Ansible Automation Platform subscription?
-    </td>
-    <td><!--  概要  -->
-      Red Hat Ansible Automation Platformのサブスクリプションには、Ansibleそのもの以外にも複数のコンポーネントやサービスの使用権が含まれています。
-      本KBは同サブスクリプションに含まれるコンポーネント、サービスの一覧を掲載しています。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/articles/6057451#red-hat-enterprise-linux-subscription-information-19
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
 </table>
 
 ### 01-04. ライフサイクル
@@ -404,6 +379,29 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
     </td>
     <td>
       <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Managed node requirements（管理対象ノードの要件）
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platformによって管理される対象ノードについて、管理可能とするための設定要件を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.x
+    </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://docs.ansible.com/ansible-core/2.14/installation_guide/intro_installation.html#managed-node-requirements
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/4/13
     </td>
   </tr>
 
@@ -620,6 +618,65 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
     </td>
   </tr>
 
+</table>
+
+### 02-04. 導入Tips
+
+製品の導入時、設計・構築の参考となる情報を掲載いたします。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Setting up a Windows Host(Windows管理対象ホストのセットアップ)
+    </td>
+    <td><!--  概要  -->
+    本資料では、AnsibleがMicrosoft Windowsホストと通信する前に必要な設定について説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.x
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://docs.ansible.com/ansible-core/2.14/os_guide/windows_setup.html#windows-setup
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/4/13
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      What is included in Red Hat Ansible Automation Platform subscription?（Ansible Automation Platformのサブスクリプションに含まれる項目）
+    </td>
+    <td><!--  概要  -->
+      Red Hat Ansible Automation Platformのサブスクリプションには、Ansibleそのもの以外にも複数のコンポーネントやサービスの使用権が含まれています。
+      本KBは同サブスクリプションに含まれるコンポーネント、サービスの一覧を掲載しています。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/articles/6057451
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
 </table>
 
 ## 03. 学習リソース
