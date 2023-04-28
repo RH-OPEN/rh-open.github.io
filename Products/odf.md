@@ -18,7 +18,7 @@ sort: 8
 ```
 
 <b>
-最終更新日：2023/3/30
+最終更新日：2023/4/28
 </b>
 
 ## 01. 製品説明資料
@@ -259,11 +259,10 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        What's New in Red Hat OpenShift Data Foundation 4.8 ~ 機械翻訳版 ~
+        Data Foundation Business - ODF4.12 What's New deck - JP
     </td>
     <td><!--  概要  -->
-      英語にて提供されている資料<a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=48e7f378-1cbc-4f37-a142-397f0a7e456d">What's New in Red Hat OpenShift Data Foundation 4.8</a>の日本語機械翻訳版です。
-      Red Hat OpenShift Data Foundationの機能紹介、およびVersion 4.8における更新内容を記載したプレゼンテーション資料です。
+      OpenShift Data Foundationのバージョン4.12における更新情報をご紹介するテクニカルプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       Version 4.8
@@ -271,14 +270,14 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
     <td>
       <!--  リンク先  -->
       <a href="  
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=102f0f5f-ded4-4b31-bd4e-de6c50840fbe
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=24fad5b4-06cf-411d-864f-280122828183
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/4/28
     </td>
   </tr>
 
