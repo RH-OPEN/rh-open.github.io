@@ -118,30 +118,6 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Enterprise Linux 8 ご紹介
-    </td>
-    <td><!--  概要  -->
-      Red Hat Enterprise Linux 8 の概要を知りたい人むけに、RHEL8 リリースノート Overviewをおおむねカバーする程度の情報と関連リンクをまとめた資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 8.x
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d263b412-4b5f-46fe-b1af-d38f0a7aac2b
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
       Linux でイノベーションと運用効率を拡大
     </td>
     <td><!--  概要  -->
