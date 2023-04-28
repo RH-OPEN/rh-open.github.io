@@ -24,7 +24,7 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
 ```
 
 <b>
-最終更新日：2023/4/13
+最終更新日：2023/4/２8
 </b>
 
 ## 01. 製品説明資料
@@ -98,10 +98,10 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=10d10ccc-ba61-4812-9af6-131a800a6f0e
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ea9ba4f0-e2f8-4f45-a115-ac519675f495
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PPTX
+        PDF
       </a>
       <!--  リンク先  -->
       <a href="
@@ -112,7 +112,7 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/4/28
     </td>
   </tr>
 
