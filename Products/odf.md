@@ -265,7 +265,7 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
       OpenShift Data Foundationのバージョン4.12における更新情報をご紹介するテクニカルプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
-      Version 4.8
+      Version 4.12
     </td>
     <td>
       <!--  リンク先  -->
