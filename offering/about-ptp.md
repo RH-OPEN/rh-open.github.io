@@ -22,7 +22,7 @@ Red Hat Partner Training Portal(以下、PTP)は、Red Hat提供するパート�
 |Channel|技術やサービスで纏められた各種コンテンツのセット。サブスクライブして利用|
 |Elecctive Path|営業、SE向けのコースのセット|
 
-ご利用方法については[Partner Training Portal利用手順](https://rh-open.github.io/offering/usage-ptp.html)をご参照ください。
+ご利用方法については[Partner Training Portal利用手順](usage-ptp.html)をご参照ください。
 
 <hr>
 
@@ -37,4 +37,4 @@ Red Hat Partner Training Portal(以下、PTP)は、Red Hat提供するパート�
 
 ご利用には、Red Hat Connect のアカウントとは別のアカウントが必要となります。
 
-アカウント作成方法およびご利用方法については[OPENTLC利用手順](https://rh-open.github.io/offering/usage-opentlc.html)をご参照ください。
+アカウント作成方法およびご利用方法については[OPENTLC利用手順](usage-opentlc.html)をご参照ください。
