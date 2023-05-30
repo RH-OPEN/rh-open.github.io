@@ -4,7 +4,7 @@ sort: 6
 
 # Red Hat Partner Training Portal 問い合わせ手順
 
-本手順では、Red Hat Partner Training Portalのコース受講に問題が発生した場合、サポートに問い合わせを上げる手順を記載いたします。
+本手順では、Red Hat Partner Training Portalのコース受講に問題が発生した場合、サポートケースを起票する手順を記載します。
 
 ## 手順
 
@@ -25,3 +25,6 @@ sort: 6
    - "問題タイプの分類" と "問題タイプ" はデフォルトのまま（下記画像の通り）としてください
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/case_003.png?raw=true)
+
+
+以上でサポートケースの起票は完了です。サポートからの回答をお待ちください。
