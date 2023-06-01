@@ -24,7 +24,7 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
 ```
 
 <b>
-最終更新日：2023/4/28
+最終更新日：2023/6/1
 </b>
 
 ## 01. 製品説明資料
@@ -389,14 +389,14 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://catalog.redhat.com/platform/red-hat-enterprise-linux/software
+        https://catalog.redhat.com/platform/red-hat-enterprise-linux
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/6/1
     </td>
   </tr>
 
