@@ -17,9 +17,9 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
 ## 手順
 
-1. [パートナーコネクトログインページ](https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/redhat?RelayState=%2FDashboard_page)へアクセスを行います。
+1. [パートナーコネクトログインページ]https://partnercenter.redhat.com/Dashboard_page)へアクセスを行います。
 
-1. 表示されたメニューより、`Register for a Red Hat account` を選択します
+2. 表示されたメニューより、`Register for a Red Hat account` を選択します
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/001.png?raw=true)
 
@@ -38,15 +38,15 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/002.png?raw=true)
 
-5. 住所の検証の画面がポップアップ表示されます。`Keep entered address` をクリックして下さい。クリック後ポップアップが閉じ前画面に戻り、数秒の後に次画面へ遷移します。
+4. 住所の検証の画面がポップアップ表示されます。`Keep entered address` をクリックして下さい。クリック後ポップアップが閉じ前画面に戻り、数秒の後に次画面へ遷移します。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/003.png?raw=true)
 
-6. 登録したログインIDを既存の『貴社パートナー企業アカウント』へ追加紐付けして頂きます。以下の画面で `既存のパートナ企業に参加する` をクリックして下さい。
+5. 登録したログインIDを既存の『貴社パートナー企業アカウント』へ追加紐付けして頂きます。以下の画面で `既存のパートナ企業に参加する` をクリックして下さい。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/004.png?raw=true)
 
-7. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の `次のステップ` を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
+6. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の `次のステップ` を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/005.png?raw=true)
 
