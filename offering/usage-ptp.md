@@ -13,7 +13,7 @@ sort: 4
 
 ## 手順
 
-1. [パートナーコネクトログインページ](https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/redhat?RelayState=%2FDashboard_page)より、Partner Connectへログインを行います。
+1. [パートナーコネクトログインページ](https://partnercenter.redhat.com/Dashboard_page)より、Partner Connectへログインを行います。
 
 1. Partner Connectのダッシュボード画面が表示されるため、[Start learning]をクリックしPartner Training Portalへ移動します。
 
