@@ -17,7 +17,9 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
 ## 手順
 
-1. [パートナーコネクトログインページ](https://partnercenter.redhat.com/Dashboard_page)へアクセスを行います。
+1. [Red Hat公式サイト](https://www.redhat.com/ja/global/japan)へアクセスを行い、画面右上の `ログイン` を選択します。
+
+   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/000.png?raw=true)
 
 2. 表示されたメニューより、`Register for a Red Hat account` を選択します
 
@@ -107,5 +109,9 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
      ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/010.png?raw=true)
 
-アカウント作成に問題が発生した場合、お手数をおかけしますが弊社の<a href="mailto:apac-partner-helpdesk@redhat.com">APAC Partner Helpdesk(apac-partner-helpdesk@redhat.com)</a>までメールで症状をご連絡ください。ご記載内容は日本語で問題ございません。
+```tip
+アカウント作成に問題が発生した場合、お手数をおかけしますが弊社の[APAC Partner Helpdesk(apac-partner-helpdesk@redhat.com)](mailto:apac-partner-helpdesk@redhat.com)までメールで症状をご連絡ください。ご記載内容は日本語で問題ございません。
+```
+
+
 

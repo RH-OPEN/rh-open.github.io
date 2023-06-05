@@ -14,16 +14,20 @@ sort: 4
 ## 手順
 
 1. [パートナーコネクトログインページ](https://partnercenter.redhat.com/Dashboard_page)より、Partner Connectへログインを行います。
+   
+   - 上記で正常に画面遷移しない場合、[Partner Connectトップページ](https://connect.redhat.com/en/login)より移動しパートナーコネクトにログインください
+     - <b>Log in for business partners</b> -> <b>REDHAT.COMアカウントへのログイン</b> -> ユーザID/パスワード入力でログインできます
 
-1. Partner Connectのダッシュボード画面が表示されるため、[Start learning]をクリックしPartner Training Portalへ移動します。
+2. Partner Connectのダッシュボード画面が表示されるため、 `Start learning` をクリックしPartner Training Portalへ移動します。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/001.png?raw=true)
 
-1. Partner Training Portalの画面が表示されるため、画面左上の[カタログ]を選択します
+3. Partner Training Portalの画面が表示されるため、画面左上の `カタログ` を選択します
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/002.png?raw=true)
 
-1. 画面左部にフィルタメニューが表示されるため、以下の条件を選択し受講対象となるコースを検索します。下記以外の条件（言語等）は必要に応じご選択ください。
+4. 画面左部にフィルタメニューが表示されるため、検索する対象に応じ下記の条件を選択し受講対象となるコースを検索します。
+   コース名を把握している場合は、サーチ欄にコース名を入力して検索することも可能です。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/003.png?raw=true)
 
@@ -33,11 +37,11 @@ sort: 4
    - Role : ご自身のロールを選択
    - Product：学習するプロダクトを選択
   
-2. 表示されているコース一覧から、受講するコースの”再生”ボタンを選択します
+5. 表示されているコース一覧から、受講するコースの”再生”ボタンを選択します
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/004.png?raw=true)
 
-3. ブラウザの別ウィンドウにてコース画面が立ち上がるため、画面に従ってコースを受講します。
+6. ブラウザの別ウィンドウにてコース画面が立ち上がるため、画面に従ってコースを受講します。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/005.png?raw=true)
 
