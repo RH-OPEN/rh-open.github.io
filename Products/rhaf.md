@@ -25,7 +25,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 ```
 
 <b>
-最終更新日：2023/4/24
+最終更新日：2023/6/12
 </b>
 
 ## 01. 製品説明資料
@@ -214,8 +214,8 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       Red Hat Application Services サブスクリプションガイド
     </td>
     <td><!--  概要  -->
-      Red Hat Application Foundationsの前製品（Red Hat Application Services）のオンラインサブスクリプションガイドです。Red Hat Application Foundationsで提供している価格帯系のうち、Core Editionを選択する場合の考え方やコアのカウント方式についてご参考いただける内容となっています。
-      ※Red Hat Process Automationなど、一部現在では提供していない製品の記述がある点にご留意ください。
+      Red Hat Application Foundationsの前製品（Red Hat Application Services）のオンラインサブスクリプションガイドです。Red Hat Application Foundationsで提供している価格帯系のうち、Core Editionを選択する場合の考え方やコアのカウント方式についてご参考いただける内容となっています。<br>
+      ※ 確認時点で、英語版の更新が日本語版に反映されていない状態でございます。日本語版更新後に本ページのリンクも修正いたしますので、現時点では英語版をご確認ください。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -223,14 +223,14 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/ja/resources/application-services-subscription-guide-detail#section-2
+        https://www.redhat.com/en/resources/application-services-subscription-guide-detail
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
          Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/6/12
     </td>
   </tr>
 
@@ -309,9 +309,9 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       Red Hat Application Services 製品のアップデートとサポートポリシー
     </td>
     <td><!--  概要  -->
-      Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。
+      Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。<br>
       ※ こちらは日本語版のリンクを掲載しておりますが、お使いの環境によっては英語版へリダイレクトが行われる場合がございます。
-      英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。
+      英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。<br>
       ※ページ冒頭に単体名称の記載がないコンポーネントについては、ページ内「Red Hat Integration」欄に記載されています。
     </td>
     <td><!--  対象バージョン  -->
