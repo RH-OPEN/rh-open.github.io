@@ -18,7 +18,7 @@ sort: 7
 ```
 
 <b>
-最終更新日：2023/3/31
+最終更新日：2023/6/12
 </b>
 
 ## 01. 製品説明資料
@@ -43,14 +43,14 @@ sort: 7
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8eaf71d2-ab60-4f32-8446-0bee9971a0e3
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f81e689f-7bbd-47b8-a991-11e69d21dd6f
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/31
+      <!--  記載確認日  -->2023/6/12
     </td>
   </tr>
 
@@ -242,6 +242,30 @@ sort: 7
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes 概要
+    </td>
+    <td><!--  概要  -->
+    RHACSについて、コンテナ化されたKubernetesワークロードを安全に保護するためのポイント、製品概要と機能を紹介するプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8eaf71d2-ab60-4f32-8446-0bee9971a0e3
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/6/12
+    </td>
   </tr>
 
   <tr>

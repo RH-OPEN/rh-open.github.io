@@ -215,7 +215,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
     </td>
     <td><!--  概要  -->
       Red Hat Application Foundationsの前製品（Red Hat Application Services）のオンラインサブスクリプションガイドです。Red Hat Application Foundationsで提供している価格帯系のうち、Core Editionを選択する場合の考え方やコアのカウント方式についてご参考いただける内容となっています。<br>
-      ※ 確認時点で、英語版の更新が日本語版に反映されていない状態でございます。日本語版更新後に本ページのリンクも修正いたしますので、現時点では英語版をご確認ください。
+      ※ 確認時点で、英語版の更新が日本語版に反映されていない状態でございます。日本語版更新後に本ページのリンクも修正いたしますので、修正までは英語版をご確認ください。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -435,6 +435,55 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Fuseサイジング情報
+    </td>
+    <td><!--  概要  -->
+      Red Hat Fuseのサイジングをするにあたり、参考となる情報を提供します。環境としてはOpenShift環境にFuseアプリケーションをデプロイすることを想定したものとなっています。お客様の実際のユースケースに即したものではないため、あくまでも参考情報としての位置づけです
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c9d26881-b731-4206-9454-b26fdf432c0a
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/6/12
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat AMQ Streams サイジング情報
+    </td>
+    <td><!--  概要  -->
+      Red Hat AMQ Streams のサイジングをするにあたり、参考となる情報を提供します。お客様の実際 のユースケースに即したものではないため、あくまでも参考情報としての位置づけです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d0f8ff32-4d25-48fc-95d7-4085305f7ee8
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/6/12
+    </td>
+  </tr>
+
 </table>
 
 ## 02. 製品技術資料
