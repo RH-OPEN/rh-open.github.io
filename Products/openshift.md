@@ -18,7 +18,7 @@ sort: 3
 ```
 
 <b>
-最終更新日：2023/6/1
+最終更新日：2023/7/5
 </b>
 
 ## 01. 製品説明資料
@@ -535,6 +535,30 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     </td>
   </tr>
 
+  <tr>
+    <td><!--  ドキュメント名  -->
+        OpenShiftのセキュリティ機能のご紹介
+    </td>
+    <td><!--  概要  -->
+      OpenShiftではお客様が安全にコンテナアプリケーションを開発、運用するため、複数のレイヤーでセキュリティ機能を提供しております。 本資料では、セキュリティに関するお客様の運用負担を軽減し、安全にコンテナをお使い頂くための仕組みをご紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      4.x
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a48535e6-7ab4-4348-af15-5e7c777ee4f0
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/7/5
+    </td>
+  </tr>
+
 </table>
 
 ### 02-02. 更新情報
@@ -550,13 +574,37 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
+        What's New in OpenShift 4.13 - JP
+    </td>
+    <td><!--  概要  -->
+      OpenShift 4.13における新機能について紹介を行うプレゼンテーション資料です。 
+    </td>
+    <td><!--  対象バージョン  -->
+      4.13
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a00c729b-99ca-4dcf-842b-ef15bb2dd7a0
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/7/5
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         What's New in OpenShift 4.12 - JP
     </td>
     <td><!--  概要  -->
       OpenShift 4.12における新機能について紹介を行うプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
-      -
+      4.12
     </td>
     <td>
       <!--  リンク先  -->
@@ -758,6 +806,30 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat OpenShift Data Scienceのご紹介
+    </td>
+    <td><!--  概要  -->
+      OpenShift Data Scienceは、AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 本資料は、このOpenShift Data Scienceについて、製品の機能・メリット、および利用形態についてご紹介いたします。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=f4820128-ce90-4141-a584-61db9283723a
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/7/5
+    </td>
   </tr>
 
   <tr>
@@ -1083,30 +1155,6 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
      " target="_blank" rel="noreferrer noopener">
       <!--  ドキュメント名  -->
       Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift Streams for Apache Kafka
-    </td>
-    <td><!--  概要  -->
-      ストリーム処理をするアプリケーションのためのフルマネージドな Kafka のサービスであるRed Hat OpenShift Streams for Apache Kafkaの紹介ページです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-streams-for-apache-kafka
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
       </a>
     </td>
     <td>
