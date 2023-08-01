@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 4
 ---
 
 # Red Hat OpenShift Container Platform
@@ -18,7 +18,7 @@ sort: 3
 ```
 
 <b>
-最終更新日：2023/7/5
+最終更新日：2023/8/1
 </b>
 
 ## 01. 製品説明資料
@@ -758,11 +758,11 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
         https://www.redhat.com/ja/resources/openshift-skill-paths-brief
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/8/1
     </td>
   </tr>
 

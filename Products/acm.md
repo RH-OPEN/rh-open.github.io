@@ -1,5 +1,5 @@
 ---
-sort: 6
+sort: 7
 ---
 
 # Red Hat Advanced Cluster Management for Kubernetes

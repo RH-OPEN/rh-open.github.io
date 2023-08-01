@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 ---
 
 # Red Hat Enterprise Linux

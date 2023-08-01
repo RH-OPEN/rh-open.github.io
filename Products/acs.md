@@ -1,5 +1,5 @@
 ---
-sort: 7
+sort: 8
 ---
 
 # Red Hat Advanced Cluster Security for Kubernetes

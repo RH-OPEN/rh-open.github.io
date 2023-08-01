@@ -1,5 +1,5 @@
 ---
-sort: 2
+sort: 3
 ---
 
 # Red Hat Ansible Automation Platform
