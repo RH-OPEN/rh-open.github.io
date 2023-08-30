@@ -10,6 +10,9 @@ sort: 6
 
 1. [パートナーコネクトログインページ](https://partnercenter.redhat.com/Dashboard_page)より、Partner Connectへログインを行います。
 
+   - 上記で正常に画面遷移しない場合、[Partner Connectトップページ](https://connect.redhat.com/en/login)より移動しパートナーコネクトにログインください
+     - <b>Log in for business partners</b> -> <b>REDHAT.COMアカウントへのログイン</b> -> ユーザID/パスワード入力でログインできます
+
 2. Partner Connectのダッシュボード画面が表示されるため、`Start learning` をクリックしPartner Training Portalへ移動します。
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/001.png?raw=true)
