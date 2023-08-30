@@ -8,7 +8,7 @@ sort: 6
 
 ## 手順
 
-1. [パートナーコネクトログインページ](https://sso.redhat.com/auth/realms/redhat-external/protocol/saml/clients/redhat?RelayState=%2FDashboard_page)より、Partner Connectへログインを行います。
+1. [パートナーコネクトログインページ](https://partnercenter.redhat.com/Dashboard_page)より、Partner Connectへログインを行います。
 
 2. Partner Connectのダッシュボード画面が表示されるため、`Start learning` をクリックしPartner Training Portalへ移動します。
 
@@ -21,7 +21,7 @@ sort: 6
 4. 表示されたメニューより `Need help?` を選択します。続けて選択肢が表示されますので、 `Contact Support as a Business Partner` を選択します。
 
 5.  "ケースの編集" 画面が表示されますので、件名と説明に症状をご記入のうえ `登録` を選択してください。
-   - 記載は日本語で問題ございません
+   - 症状の記載は英語でお願いいたします
    - "問題タイプの分類" と "問題タイプ" はデフォルトのまま（下記画像の通り）としてください
 
    ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/case_003.png?raw=true)

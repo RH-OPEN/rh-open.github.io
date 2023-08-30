@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2023/8/1
+最終更新日：2023/8/30
 </b>
 
 ## 01. 製品説明資料
@@ -1185,31 +1185,6 @@ Red Hatがクラウドサービスとして提供する、OpenShift上でのク�
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift Service Registry
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift API Management と Red Hat OpenShift Streams for Apache Kafka のための、完全にホストされたフルマネージド型のレジストリサービスでであるRed Hat OpenShift Service Registryの紹介ページです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-service-registry
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
 
 </table>
 

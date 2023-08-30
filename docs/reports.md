@@ -7,7 +7,7 @@ sort: 1
 DX・IT基盤強化・組織変革などビジネス課題におけるアプローチや戦略ガイドの資料などをまとめています。
 
 <b>
-最終更新日：2023/4/28
+最終更新日：2023/8/30
 </b>
 
 ## エッジコンピューティング
@@ -313,24 +313,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
     <td><!--  発行日  -->
       2023年1月10日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=576e5272-7ca2-47d9-93cc-82e7d8059948
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        RH製品を使用した運用高度化ソリューションデモのご紹介
-      </a>
-    </td>
-    <td><!--  概要  -->
-    AnsibleとRed Hat Middlewareを活用したさらなる運用の自動化・効率化ソリューションの紹介を行います。※ 資料中で記載されているProcess Automation製品（Decision Manager、Process Automation Manager）については、2022/7よりRed HatからIBM社に製品が移管されたため、現在Red Hat製品としては提供されておりません。AnsibleおよびIntegrationのユースケースとしてご参照ください。
-    </td>
-    <td><!--  発行日  -->
-      2022年2月17日
     </td>
   </tr>
 
