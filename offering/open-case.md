@@ -1,33 +1,3 @@
----
-sort: 6
----
+コースが正常に動作しない場合、弊社ヘルプデスク[APAC Partner Helpdesk(apac-partner-helpdesk@redhat.com)](mailto:apac-partner-helpdesk@redhat.com)までメールで症状をご連絡ください。
 
-# Red Hat Partner Training Portal 問い合わせ手順
-
-本手順では、Red Hat Partner Training Portalのコース受講に問題が発生した場合、サポートケースを起票する手順を記載します。
-
-## 手順
-
-1. [パートナーコネクトログインページ](https://partnercenter.redhat.com/Dashboard_page)より、Partner Connectへログインを行います。
-
-   - 上記で正常に画面遷移しない場合、[Partner Connectトップページ](https://connect.redhat.com/en/login)より移動しパートナーコネクトにログインください
-     - <b>Log in for business partners</b> -> <b>REDHAT.COMアカウントへのログイン</b> -> ユーザID/パスワード入力でログインできます
-
-2. Partner Connectのダッシュボード画面が表示されるため、`Start learning` をクリックしPartner Training Portalへ移動します。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/001.png?raw=true)
-
-3. Partner Training Portal 画面最下部右側に表示されている `?` マークをクリックします。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/case_002.png?raw=true)
-
-4. 表示されたメニューより `Need help?` を選択します。続けて選択肢が表示されますので、 `Contact Support as a Business Partner` を選択します。
-
-5.  "ケースの編集" 画面が表示されますので、件名と説明に症状をご記入のうえ `登録` を選択してください。
-   - 症状の記載は英語でお願いいたします
-   - "問題タイプの分類" と "問題タイプ" はデフォルトのまま（下記画像の通り）としてください
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/ptp/case_003.png?raw=true)
-
-
-以上でサポートケースの起票は完了です。サポートからの回答をお待ちください。
+お問い合わせは、英語での記載をお願いいたします。

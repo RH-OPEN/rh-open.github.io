@@ -53,6 +53,10 @@ sort: 4
 * ポップアップブロックを無効にする
 * ブラウザのキャッシュクリア、またはシークレットモードを使用してコース開始する
 
+上記で解消しない場合、お手数をおかけしますが弊社ヘルプデスク[APAC Partner Helpdesk(apac-partner-helpdesk@redhat.com)](mailto:apac-partner-helpdesk@redhat.com)までメールで症状をご連絡ください。
+
+お問い合わせは、英語での記載をお願いいたします。
+
 ```tip
 **これからRed Hat Partner Training Portalを始める皆様へ**
 
