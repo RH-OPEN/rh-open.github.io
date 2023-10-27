@@ -18,7 +18,7 @@ sort: 7
 ```
 
 <b>
-最終更新日：2023/3/30
+最終更新日：2023/10/27
 </b>
 
 ## 01. 製品説明資料
@@ -49,7 +49,7 @@ sort: 7
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/10/27
     </td>
   </tr>
 </table>
@@ -172,6 +172,29 @@ sort: 7
 
   <tr>
     <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.8 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.8でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.8
+    </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/7006295
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/10/27
+    </td>
+  </tr>
+
+  <tr>
+    <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.7 Support Matrix
     </td>
     <td><!--  概要  -->
@@ -252,24 +275,24 @@ sort: 7
 
   <tr>
     <td> <!--  タイトル  -->
-        アーキテクチャー、コンポーネント、クイックスタートガイドなどの製品の詳細
+      Partnerワークショップ OpenShiftマルチクラスタ編講義資料
     </td>
     <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetesのアーキテクチャ及び構成要素について説明を行った製品ドキュメントです。
+      ACMの製品アーキテクチャの紹介を行うワークショップ講義資料です。
     </td>
     <td><!--  対象バージョン  -->
-      Version 2.7
+      -
     </td>
     <td>　<!--  資料  -->
       <a href="
-        https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/html/about/welcome-to-red-hat-advanced-cluster-management-for-kubernetes#multicluster-architecture
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d7f2b4d2-a7be-4e2c-9ed5-3c57d482ca83
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
-        Link
+        資料
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/10/27
     </td>
   </tr>
 
@@ -283,31 +306,4 @@ sort: 7
 
 ## 03. 学習リソース
 
-<table>
-  <tr><!-- 行1（見出し）-->
-     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-  <tr>
-    <td><!--  タイトル  -->
-        Red Hat Advanced Cluster Management ラーニングパス
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Managementを学習いただくための学習教材をロール毎に明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fad54fb3-7a42-4ef3-811d-3e9e830fc69e
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-</table>
+製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。

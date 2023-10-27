@@ -24,7 +24,7 @@ Red Hat Integrationについては、新規サブスクリプション体系で�
 ```
 
 <b>
-最終更新日：2023/1/26
+最終更新日：2023/10/27
 </b>
 
 ## 01. 製品説明資料
@@ -401,33 +401,4 @@ Red Hat Integrationについては、新規サブスクリプション体系で�
 
 ## 03. 学習リソース
 
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Integration ラーニングパス
-    </td>
-    <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat Integrationを学習いただくための学習教材とラーニングパスをロール毎に明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=33868acc-114a-4b70-8382-77041c8357bb
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td><!--  記載確認日  -->
-      2023/1/23
-    </td>
-  </tr>
-
-</table>
+製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。

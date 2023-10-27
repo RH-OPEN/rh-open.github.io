@@ -18,7 +18,7 @@ sort: 9
 ```
 
 <b>
-最終更新日：2023/8/1
+最終更新日：2023/10/27
 </b>
 
 ## 01. 製品説明資料
@@ -259,6 +259,30 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 
   <tr>
     <td><!--  ドキュメント名  -->
+        OpenShift Data Foundation 4.13: What's New deck [June 2023] - Ja
+    </td>
+    <td><!--  概要  -->
+      OpenShift Data Foundationのバージョン4.13における更新情報をご紹介するテクニカルプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 4.13
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="  
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7d9c22f1-f2a1-4010-a7c1-e63a2294481f
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/10/27
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         Data Foundation Business - ODF4.12 What's New deck - JP
     </td>
     <td><!--  概要  -->
@@ -285,6 +309,8 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 
 ## 03. 学習リソース
 
+製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
@@ -292,20 +318,21 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat OpenShift Data Foundation ラーニングパス
+        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
     </td>
     <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat OpenShift Data Foundationを学習いただくための学習教材をロール毎に明示します。
+      Red Hat OpenShift Data Foundationのアーキテクチャの詳細の学習、および製品のハンズオンラボを実施できるRed Hat Partner Training Portalのコンテンツです。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
-    <td><!--  リンク先  -->
+    <td>
+      <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e49bc626-37e2-412c-b4f9-59f46a059771
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td>

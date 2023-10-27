@@ -21,7 +21,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 ```
 
 <b>
-最終更新日：2023/4/13
+最終更新日：2023/10/27
 </b>
 
 ## 01. 製品説明資料
@@ -681,32 +681,11 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 
 ## 03. 学習リソース
 
+製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Anshible Automation Platform ラーニングパス
-    </td>
-    <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat Anshible Automation Platformを学習いただくための学習教材とラーニングパスをロール毎に明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f08202a0-bad2-4298-8c1b-ab59cf0ff35d
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
   </tr>
 
   <tr>

@@ -25,7 +25,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 ```
 
 <b>
-最終更新日：2023/6/30
+最終更新日：2023/10/27
 </b>
 
 ## 01. 製品説明資料
@@ -557,6 +557,12 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
     <td>
       <!--  リンク先  -->
       <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=694fa6a4-87c9-48aa-a259-c9bee3cedcd8
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        資料
+      </a>
+      <a href="
         https://youtu.be/uPjVL_O2X40
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
@@ -564,7 +570,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/10/27
     </td>
   </tr>
 
@@ -680,60 +686,7 @@ RHAFに含まれる個別の製品についての技術情報を掲載いたし�
 
 ## 03. 学習リソース
 
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Application Foundationsトレーニングコンテンツ
-    </td>
-    <td><!--  概要  -->
-      Red Hat Partner Training Portalで提供される学習コンテンツより、Red Hat Application Foundationsの推奨学習コースをロール別にご確認いただけます。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05d3c666-2290-4afa-a0cc-35b57a761789
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/6/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Application Runtimesトレーニングコンテンツ
-    </td>
-    <td><!--  概要  -->
-      Red Hat Partner Training Portalで提供される学習コンテンツより、Red Hat Rutimes製品に関する推奨学習コースをロール別にご確認いただけます。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=aeab06ec-b6bf-4e0e-8cc1-4bf249d9760e
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/31
-    </td>
-  </tr>
-
-</table>
+製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
 
 ## 0４. その他
 

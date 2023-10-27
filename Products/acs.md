@@ -18,7 +18,7 @@ sort: 8
 ```
 
 <b>
-最終更新日：2023/6/12
+最終更新日：2023/10/27
 </b>
 
 ## 01. 製品説明資料
@@ -303,66 +303,4 @@ sort: 8
 
 ## 03. 学習リソース
 
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Security for Kubernetes ラーニングパス
-    </td>
-    <td><!--  概要  -->
-      Red Hat Partner Training Portalを使用し、Red Hat ACSを学習いただくための学習教材をロール毎に明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b272208e-e17c-4878-a78b-3ccca50fe3fb
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-</table>
-
-
-## 0４. その他
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      OCB: StackRox Overview and Demo
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster for Kubernetesのデモ動画です。英語かつ旧製品名称（StackRox）でのご紹介となりますので、画面イメージをクイックに確認したい際にご利用ください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://youtu.be/Fu62ztu_xFc
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
+製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
