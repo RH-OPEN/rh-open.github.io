@@ -17,41 +17,35 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
 ## 手順
 
-1. [Red Hat公式サイト](https://www.redhat.com/ja/global/japan)へアクセスを行い、画面右上の `ログイン` を選択します。
+1. [Red Hat Partner Connect](https://connect.redhat.com/)へアクセスを行い、画面右上の `Log in` を選択します。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/000.png?raw=true)
+   ![picture](images/partner-connect/000.png?raw=true)
 
-2. 表示されたメニューより、`Register for a Red Hat account` を選択します
+2. 表示されたメニューより、`Log in for business partners` を選択します
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/001.png?raw=true)
+   ![picture](images/partner-connect/001.png?raw=true)
 
-3. アカウント作成画面が表示されるため、下記注意事項を参照のうえ必須項目（*表示）を全て入力頂きましたら、画面下の `CREATE　MY ACCOUNT` をクリックして下さい。
+3. 表示されたメニューより、`REDHAT.COMアカウントの登録` を選択します
 
-      - <b>Account type</b>は必ず「Corporate」（企業）をご選択下さい。登録後に変更はできません。「Personal」（個人）を選択されますと、パートナー企業への紐付けができません。
-         ※ 誤ってPersonal (個人)で作成した場合には、別のIDを指定し新規作成をお願いします。
+   ![picture](images/partner-connect/002.png?raw=true)
 
-      - <b>Choose a Red Hat login</b>(Red Hat ログインID)は、5文字以上で設定して下さい。他のユーザーで使用済みのログインIDは登録することができません。
+4. アカウント作成画面が表示されるため、必須項目（*表示）を全て入力頂きましたら、画面下の `CREATE　MY ACCOUNT` をクリックして下さい。<b>Email addressには必ず所属企業のドメインのアドレスをご登録下さい。所属企業のドメインのメールアドレス以外をご使用頂いた場合、以降のパートナー企業との紐付けが実施できません</b>
 
-      - ログインIDは登録後、変更不可です。誤って作成された場合は別の文字列を指定し、新規作成をお願いいたします
+   ![picture](images/partner-connect/003.png?raw=true)
 
-      - <b>Personal infomation</b>のEmail addressには必ず所属企業のドメインのアドレスをご登録下さい。所属企業のドメインのメールアドレス以外をご使用頂いた場合、以降のパートナー企業との紐付けが実施できません
+   ![picture](images/partner-connect/004.png?raw=true)
 
-      - <b>Company infomation</b> の『Country/Region』はプルダウンより `Japan` をご選択下さい。
+5. ログイン画面に遷移するため、作成したアカウントにてログインを行います。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/002.png?raw=true)
+   ![picture](images/partner-connect/004-1.png?raw=true)
 
-4. 住所の検証の画面がポップアップ表示されます。`Keep entered address` をクリックして下さい。クリック後ポップアップが閉じ前画面に戻り、数秒の後に次画面へ遷移します。
+6. ログイン後の画面にて `既存のパートナ企業に参加する` をクリックして下さい。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/003.png?raw=true)
+   ![picture](images/partner-connect/004-2.png?raw=true)
 
-5. 登録したログインIDを既存の『貴社パートナー企業アカウント』へ追加紐付けして頂きます。以下の画面で `既存のパートナ企業に参加する` をクリックして下さい。
+7. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の `次のステップ` を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
 
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/004.png?raw=true)
-
-6. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の `次のステップ` を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
-
-   ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/005.png?raw=true)
-
+   ![picture](images/partner-connect/005.png?raw=true)
 
    英語表記にて申請を実施されている場合、下記の対応表をもとにパートナータイプを特定ください。
 
@@ -68,11 +62,11 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
 1. 表示された会社名から貴社名称にチェックし、`申請` ボタンをクリックして下さい。
 
-     ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/006.png?raw=true)
+     ![picture](images/partner-connect/006.png?raw=true)
 
 1. 正常に申請が完了しますと、こちらの画面が表示されます。画面下 `プログラム` をクリックしホーム画面に戻って下さい。もしくはそのままタブを閉じて画面終了して下さい。
 
-     ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/007.png?raw=true)
+     ![picture](images/partner-connect/007.png?raw=true)
 
 1. ご登録頂いたメールアドレス宛てにシステムから以下のメールが配信されます。メール本文内のURLをクリックします。
 
@@ -97,15 +91,15 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
 2. 遷移した画面にて `パートナーセンターにログイン` をクリックします。
 
-     ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/008.png?raw=true)
+     ![picture](images/partner-connect/008.png?raw=true)
 
 3. `REDHAT.COMアカウントへのログイン` をクリックして下さい。
 
-     ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/009.png?raw=true)
+     ![picture](images/partner-connect/009.png?raw=true)
 
 4. 下記のPARTNER DASHBOARD画面が表示されれば、本手順は終了です。
 
-     ![picture](https://github.com/RH-OPEN/rh-open.github.io/blob/main/offering/images/partner-connect/010.png?raw=true)
+     ![picture](images/partner-connect/010.png?raw=true)
 
 ```tip
 アカウント作成に問題が発生した場合、お手数をおかけしますが弊社の[APAC Partner Helpdesk(apac-partner-helpdesk@redhat.com)](mailto:apac-partner-helpdesk@redhat.com)までメールで症状をご連絡ください。ご記載内容は日本語で問題ございません。
