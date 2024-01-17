@@ -12,6 +12,12 @@ sort: 3
 IT 管理者は、自動化をどのように適用するかのガイドラインを個々のチームに提供することができ、自動化クリエーターは、既存の知識を利用したタスクを作成できます。Ansible Automation Platform は、エンドツーエンドの自動化を展開するためのより安全で安定した基盤を提供します。
 
 ```note
+Ansible Automation Platformの製品関連資料は、[Ansible Automation Platform デッキファインダー](https://ansible.github.io/slides/README_jp.html)で掲載されるようになりました。
+デッキファインダーでは、ハイレベルな製品紹介資料の他にも、コミュニティ版Ansibleとの比較や最新情報、ユースケース毎のテクニカルプレゼンテーション資料など幅広い日本語の資料が掲載されています。
+本ページではデッキファインダーでは取り扱われない契約・サブスクリプション関連の情報や、ナレッジベースへのリンクのみを記載いたします。
+```
+
+```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
 
@@ -21,220 +27,14 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 ```
 
 <b>
-最終更新日：2023/10/27
+最終更新日：2024/1/17
 </b>
 
 ## 01. 製品説明資料
 
 ### 01-01. 製品概要
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        ABU | Red Hat Ansible Automation Platform Technical Deck ~日本語機械翻訳版~
-    </td>
-    <td><!--  概要  -->
-      Red Hat Ansible Automation Platform 2.3の製品紹介プレゼンテーション資料です。
-      Red Hat Ansible Automation のハイレベルな紹介と、その価値と利点を顧客とパートナーに提供することを目的にしています。 
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.3
-    </td>
-    <td><!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
-    </td>
-    <td><!--  概要  -->
-      Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
-      システムの自動化における課題と導入ポイント、自動化におけるAnshible Automation Platformの価値が記載されています。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.1
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://bit.ly/3JXmYCF
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat が考える自動化2.0の世界観と実現のポイント
-    </td>
-    <td><!--  概要  -->
-      Red Hatの考える自動化2.0の世界観と実現のポイントを説明した動画です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.youtube.com/watch?v=sHuGxzpONpw&list=PL4IvAXW0drR20WVybcHwm8nns-RrQ5wWX&index=1&t=6s
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Ansibleハイブリッドクラウドの自動化 ビジネスチャンスとユースケース
-    </td>
-    <td><!--  概要  -->
-      本書は同名資料の日本語機械翻訳版です。Ansible Hybrid Cloud Automationの紹介プレゼンテーションです。30分以内の初回ディスカッション用として、ハイブリッドクラウド自動化の動向、Ansibleハイブリッドクラウド自動化とは何か、Ansibleはこれらの問題にどのように対処するのかを高いレベルで解説しています。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=250d0c77-3049-46e1-9dbb-cba1e5973a06
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform：初心者向けガイド
-    </td>
-    <td><!--  概要  -->
-      Red Hat Ansible Automation Platformの特徴やビジネス価値、活用方法が一冊にまとまったe-Bookです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ec217afa-9878-4ffb-8f5c-3f2515a1edb1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
-
 ### 01-02. ソリューション・製品事例
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform競合比較
-    </td>
-    <td><!--  概要  -->
-      本書は、同名資料の日本語機械翻訳版です。Red Hat Ansible Automation Platformの競合状況を強調し、いくつかの競合他社を選択して詳細を説明し、主要な弱点と強みをリストした競合概要のスライドデッキです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=11d99b48-c982-4e44-b68c-a0070603103b
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
-    </td>
-    <td><!--  概要  -->
-      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat お客様導入事例
-    </td>
-    <td><!--  概要  -->
-      Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td><!--  リンク先  -->
-      <a href="        
-        https://www.redhat.com/ja/success-stories
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
+[Ansible Automation Platform デッキファインダー](https://ansible.github.io/slides/README_jp.html)をご参照ください
 
 ### 01-03. 提供形態
 
@@ -468,65 +268,7 @@ IT 管理者は、自動化をどのように適用するかのガイドライ�
 </table>
 
 ### 02-02. 更新情報
-
-製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
-
-詳細な更新情報については、 [Red Hat Ansible Automation Platform製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform) より、対象のバージョンのリリースノートをご確認ください。
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Ansible Automation Platform 2.3: リリースの概要
-    </td>
-    <td><!--  概要  -->
-    Ansible Automation Platform 2.3リリースの概要を説明するプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.3
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5091491d-afab-4678-b98c-c987c86a62e7
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        What's new in Red Hat Ansible Automation Platform 2.2
-    </td>
-    <td><!--  概要  -->
-    Red Hat Ansible Automation Platform 2.2の更新情報を明記したCheck Listです。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.2
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/en/resources/whats-new-ansible-automation-platform-2-2-checklist
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
+[Ansible Automation Platform デッキファインダー](https://ansible.github.io/slides/README_jp.html)をご参照ください
 
 ### 02-03. アップグレード
 

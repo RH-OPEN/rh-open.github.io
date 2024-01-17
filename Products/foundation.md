@@ -5,7 +5,7 @@ sort: 1
 # Red Hat 製品共通情報（サブスクリプション、サポート）
 
 <b>
-最終更新日：2023/11/15
+最終更新日：2024/1/17
 </b>
 
 ## サポート関連資料
@@ -203,6 +203,31 @@ Red Hat製品サブスクリプションについて、見積もり方法に関�
     <td><!--  gaiyou
     -->
       Red Hat Application Foundationsについて、サブスクリプションの説明とお見積り時の「おおよその考え方の指針」をご提示するものです。上記のサブスクリプションガイドの補助資料としてご利用いただけます。
+    </td>
+  </tr>
+
+</table>
+
+## クラウドサービス関連
+
+Red Hat製品をクラウドサービス上で活用するためのガイドおよび参考となる資料を掲載します。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th>
+  </tr>
+
+  <tr>
+      <td><!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/topics/cloud/committed-spend
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        確約利用料とは
+      </a>
+    </td>
+    <td><!--  概要-->
+      クラウド各社（AWS、Azure、GCP、IBM）上での確約利用料（Committed Spend）を利用し、Red Hatの製品を割引で使用するためのガイドを記載したサイトです。
     </td>
   </tr>
 

@@ -25,7 +25,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 ```
 
 <b>
-最終更新日：2023/10/27
+最終更新日：2024/1/17
 </b>
 
 ## 01. 製品説明資料
@@ -223,14 +223,14 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://www.redhat.com/en/resources/application-services-subscription-guide-detail
+        https://www.redhat.com/ja/resources/application-services-subscription-guide-detail
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
          Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/6/12
+      <!--  記載確認日  -->2024/1/17
     </td>
   </tr>
 
