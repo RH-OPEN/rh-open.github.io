@@ -17,9 +17,7 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
 ## 手順
 
-1. [Red Hat Partner Connect](https://connect.redhat.com/)へアクセスを行い、画面右上の `Log in` を選択します。
-
-   ![picture](images/partner-connect/000.png?raw=true)
+1. [Red Hat Partner Connect](https://connect.redhat.com/login)へアクセスを行います。
 
 2. 表示されたメニューより、`Log in for business partners` を選択します
 
