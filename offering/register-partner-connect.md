@@ -37,11 +37,41 @@ Red Hat Partner Connectは、Red Hatアカウントをご作成頂き、アカ�
 
    ![picture](images/partner-connect/004-1.png?raw=true)
 
-6. ログイン後の画面にて `既存のパートナ企業に参加する` をクリックして下さい。
+6. 登録したメールアドレスの確認のため下記メールが送付されるため、作業中のブラウザ画面はそのままに、メールを確認のうえ本文内のURLをクリックします。
+
+   ```
+   ​From: no-reply@redhat.com
+   Subject: Red Hat Login Email Verification
+
+   Dear Red Hat User,
+
+   This email is sent to validate the email address that you have
+   provided for your Red Hat login. Your Red Hat login, in combination
+   with an active Red Hat subscription, provides you with access to
+   systems management capabilities through Red Hat Network.
+
+   To ensure the security of the account information associated with your
+   Red Hat login, please take a moment to click through the link below
+   and verify that we have the correct email address. If you do not
+   confirm your email address, your Red Hat login will eventually be
+   disabled.
+
+   To confirm your email address, please visit the following URL:
+
+   https://www.redhat.com/wapps/ugc/confirm.html?key=********
+
+   Thank you for using Red Hat.
+
+   Account Information:
+   Your login: <Your login ID>
+   Your email address: <Your mail address>
+   ```
+
+7. ブラウザの元の作業画面に戻り、`既存のパートナ企業に参加する` をクリックして下さい。
 
    ![picture](images/partner-connect/004-2.png?raw=true)
 
-7. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の `次のステップ` を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
+8. メールアドレスと国を確認し、『パートナータイプ』を選択します。パートナータイプをご選択のうえ、画面下の `次のステップ` を選択ください。貴社のパートナータイプがご不明な場合、お手数おかけしますがRed Hatの担当営業までお問い合わせください。
 
    ![picture](images/partner-connect/005.png?raw=true)
 
