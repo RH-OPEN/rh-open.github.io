@@ -13,10 +13,9 @@ sort: 4
 
 ## 手順
 
-1. [パートナーコネクトログインページ](https://partnercenter.redhat.com/Dashboard_page)より、Partner Connectへログインを行います。
-   
-   - 上記で正常に画面遷移しない場合、[Partner Connectトップページ](https://connect.redhat.com/en/login)より移動しパートナーコネクトにログインください
-     - <b>Log in for business partners</b> -> <b>REDHAT.COMアカウントへのログイン</b> -> ユーザID/パスワード入力でログインできます
+1. [Red Hat Partner Connect](https://connect.redhat.com)へアクセスし、画面右上の `Log in` を選択します。ログイン画面が表示されますので、Partner ConnectのIDとパスワードでログインください。
+
+   ![picture](images/partner-connect/n000.png?raw=true)
 
 2. Partner Connectのダッシュボード画面が表示されるため、 `Learning` - `Start learning` をクリックしPartner Training Portalへ移動します。
 
@@ -56,11 +55,3 @@ sort: 4
 上記で解消しない場合、お手数をおかけしますが弊社ヘルプデスク[APAC Partner Helpdesk(apac-partner-helpdesk@redhat.com)](mailto:apac-partner-helpdesk@redhat.com)までメールで症状をご連絡ください。
 
 お問い合わせは、英語での記載をお願いいたします。
-
-```tip
-**これからRed Hat Partner Training Portalを始める皆様へ**
-
-Red Hat Partner Training Portalトレーニングは幅広い製品をカバーしています。どれから始めようか迷ってしまう方向けに、本ページの[レッドハット製品情報](https://rh-open.github.io/Products/)以下の[各プロダクトページ] - [03. 学習リソース]にて、ロールごとのおすすめコースを記載したラーニングパスを掲載しております。
-
-ぜひこちらをご参照の上、ご自身のスキル、ロールにあったコースからご学習を開始ください。
-```
