@@ -17,14 +17,8 @@ sort: 2
 のフォームからお問合せください。
 ```
 
-```tip
-Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より名称がRed Hat Satelliteに変更されます。
-
-本変更に伴うSKU番号や価格、バンドルの内容に変更はございません。
-```
-
 <b>
-最終更新日：2023/10/27
+最終更新日：2024/2/14
 </b>
 
 ## 01. 製品説明資料
@@ -151,30 +145,6 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
-    </td>
-    <td><!--  概要  -->
-      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
         Red Hat お客様導入事例
     </td>
     <td><!--  概要  -->
@@ -278,30 +248,6 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
       2022/10/14
     </td>
   </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        RHELのサブスクリプション管理
-    </td>
-    <td><!--  概要  -->
-    Red Hat Enterprise Linuxのサブスクリプション管理に関連する技術や概念について、概要と関連資料を紹介するプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://moriwaka.github.io/Presentation/RHEL/beginner/rhel-subscription.pdf
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
 </table>
 
 ### 01-04. ライフサイクル
@@ -309,37 +255,6 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Enterprise Linux ライフサイクル EUS, AUS, ELSの考え方
-    </td>
-    <td><!--  概要  -->
-      Red Hat Enterprise LinuxのライフサイクルおよびEUS/AUS/ELSの考え方を説明し、EUS/AUS/ELSの要否を決定頂くための情報を提供します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://speakerdeck.com/moriwaka/rhel-lifecycle
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-      <!--  リンク先  -->
-      <a href="
-        https://www.youtube.com/watch?v=oguXuDMk3TA
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
   </tr>
 
   <tr>
@@ -430,7 +345,7 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
         Red Hat Enterprise Linux 9 コンテンツ
     </td>
     <td><!--  概要  -->
-      RHELのサブスクリプションにおいてサポートされるパッケージの一覧を記載
+      RHELのサブスクリプションにおいてサポートされるパッケージの一覧を記載した製品マニュアルです。
     </td>
     <td><!--  対象バージョン  -->
       Version 9
@@ -453,40 +368,7 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
 
 ## 02. 製品技術資料
 
-### 02-01. アーキテクチャ
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Enterprise Linux を使う前に読む資料
-    </td>
-    <td><!--  概要  -->
-      Red Hat Enterprise Linuxを使用する前に知るべき情報を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://moriwaka.github.io/Presentation/bootcamp/rhel-tt.pdf
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
-
-### 02-02. 更新情報
+### 02-01. 更新情報
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
@@ -511,30 +393,6 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
       <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5e4d48d2-8eec-4152-89d2-df4a50cd552a
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Enterpries Linux 8.3最新情報
-    </td>
-    <td><!--  概要  -->
-      Red Hat Enterprise Linux 8.3における更新情報を説明したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 8.3
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://moriwaka.github.io/Presentation/RHEL8/RHEL%208.3%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1.pdf
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -712,30 +570,6 @@ Red Hat Enterprise LinuxのAdd-onであるSmart Managementは、2023/4/1より�
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        RHEL 資料おきば
-    </td>
-    <td><!--  概要  -->
-      弊社ソリューションアーキテクトによる、RHELに関するビギナー向け資料から、RHELの紹介、個別機能、セキュリティに関する資料のまとめサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://moriwaka.github.io/
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
       </a>
     </td>
     <td>

@@ -18,7 +18,7 @@ sort: 8
 ```
 
 <b>
-最終更新日：2023/10/27
+最終更新日：2024/2/14
 </b>
 
 ## 01. 製品説明資料
@@ -85,30 +85,6 @@ sort: 8
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
-    </td>
-    <td><!--  概要  -->
-      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
   </tr>
 
   <tr>

@@ -25,7 +25,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 ```
 
 <b>
-最終更新日：2024/1/17
+最終更新日：2024/2/14
 </b>
 
 ## 01. 製品説明資料
@@ -131,30 +131,6 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        JAPAN CUSTOMER SUCCESS SLIDES DECK
-    </td>
-    <td><!--  概要  -->
-      日本の事例を中心に、Red Hat製品の事例を集約したプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6ce93a58-819b-4600-8b6d-f09be9952ed4
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
         Red Hat お客様導入事例
     </td>
     <td><!--  概要  -->
@@ -214,8 +190,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       Red Hat Application Services サブスクリプションガイド
     </td>
     <td><!--  概要  -->
-      Red Hat Application Foundationsの前製品（Red Hat Application Services）のオンラインサブスクリプションガイドです。Red Hat Application Foundationsで提供している価格帯系のうち、Core Editionを選択する場合の考え方やコアのカウント方式についてご参考いただける内容となっています。<br>
-      ※ 確認時点で、英語版の更新が日本語版に反映されていない状態でございます。日本語版更新後に本ページのリンクも修正いたしますので、修正までは英語版をご確認ください。
+      Red Hat Application Foundationを含む、Red Hat Application Services群のサブスクリプションガイドです。
     </td>
     <td><!--  対象バージョン  -->
       -

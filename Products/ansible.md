@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/1/17
+最終更新日：2024/2/14
 </b>
 
 ## 01. 製品説明資料
@@ -94,7 +94,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 
   <tr>
     <td><!--  ドキュメント名  -->
-        How are "managed nodes" defined as part of the Red Hat Ansible Automation Platform offering?
+        Red Hat Ansible Automation オファリングの一部として「管理対象ノード」はどのように定義されていますか?
     </td>
     <td><!--  概要  -->
       間接的に管理される対象ノードに対する Red Hat Ansible Automation Platformのライセンスカウント方法について、ネットワークを例にとって説明します。
@@ -105,7 +105,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
     <td>
       <!--  リンク先  -->
       <a href="
-        https://access.redhat.com/articles/3331481
+        https://access.redhat.com/ja/articles/4908011
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
