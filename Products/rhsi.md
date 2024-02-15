@@ -1,5 +1,5 @@
 ---
-sort: 11
+sort: 9
 ---
 
 # Red Hat Service Interconnect
@@ -48,7 +48,7 @@ VPN を複雑なファイアウォールルールと組み合わせた従来の�
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=39fee271-9a91-403c-b90a-55f29dda4aa3
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        動画
+        PDF
       </a>
     </td>
     <td>

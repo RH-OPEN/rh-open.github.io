@@ -787,10 +787,10 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift Data Scienceのご紹介
+      Red Hat OpenShift AIのご紹介
     </td>
     <td><!--  概要  -->
-      OpenShift Data Scienceは、AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 本資料は、このOpenShift Data Scienceについて、製品の機能・メリット、および利用形態についてご紹介いたします。
+      OpenShift AIは、AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 本資料は、このOpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介いたします。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -798,14 +798,14 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=f4820128-ce90-4141-a584-61db9283723a
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0f22a551-0693-4b09-a914-e37376d4a2c2
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/7/5
+      <!--  記載確認日  -->2024/2/14
     </td>
   </tr>
 
