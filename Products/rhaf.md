@@ -8,13 +8,6 @@ sort: 5
 
 [Red Hat Application Foundations](https://www.redhat.com/en/products/application-foundations) は、ソフトウェアを開発し近代化するための包括的なコンポーネント群を組織に提供します。Application Foundations のテクノロジーは、セキュリティを考慮したアプリケーションの構築、デプロイ、運用を支援するために設計されており、ハイブリッドクラウド全体でスケールの大きいアプリケーションを実現します。Red Hat Application Foundations は、オンプレミスまたはクラウドで実行されるアプリケーションで使用でき、Red Hat OpenShift® と組み合わせることで、アプリケーションのライフサイクル全体にわたって実行を効率化するプラットフォームを作成します。
 
-```tip
-Red Hat Application Foundation(RHAF)はRed Hat Integrationの実質的な後継製品であり、包含される個別製品は基本的に同一ですが、サブスクリプション体系の変更や一部旧製品のサポート削除が行われております。
-IntegrationとRHAFの差異については、本ページ製品概要に掲載しております["新アプリサービス基盤 Red Hat Application Foundations の概要"](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04)をご参照ください。
-
-また、本ページでは一部"Red Hat Integration"の製品資料を掲載しておりますが、前述の通り包含される個別製品は基本的に同一のため、RHAFの資料としてお読み頂いて問題ございません。
-```
-
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
 アカウントをお持ちでない場合、[Red Hat Partner Training Portalの登録方法](https://rh-open.github.io/training/registration.html)を参照しPartner Connectへの登録をご実施ください。
@@ -25,7 +18,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 ```
 
 <b>
-最終更新日：2024/2/14
+最終更新日：2024/3/14
 </b>
 
 ## 01. 製品説明資料
@@ -287,7 +280,7 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
       Red Hat Application Foundationsのコンポーネントを含む、Red Hat Application Servicesの製品ライフサイクルポリシー、及びサポート終了日を明示します。<br>
       ※ こちらは日本語版のリンクを掲載しておりますが、お使いの環境によっては英語版へリダイレクトが行われる場合がございます。
       英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。<br>
-      ※ページ冒頭に単体名称の記載がないコンポーネントについては、ページ内「Red Hat Integration」欄に記載されています。
+      ※ページ冒頭に単体名称の記載がないコンポーネントについては、ページ内の「Red Hat Integration」欄に記載されています。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -310,6 +303,8 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 
 
 ### 01-05. 互換性情報
+
+RHAFに含まれる各種製品について、サポートされる構成を明示します。
 
 <table>
   <tr>
@@ -409,6 +404,39 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
     <td>
       <!--  記載確認日  -->2023/3/30
     </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat build of Apache Camel - サポートされる設定
+    </td>
+    <td><!--  概要  -->
+      Red Hat build of Apache Camelのサポート可能な構成を明示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/7049988
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+</table>
+
+### 01-0６. サイジングガイド
+
+RHAFに含まれる各種製品について、サイジングの参考情報を明示します。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -553,9 +581,40 @@ IntegrationとRHAFの差異については、本ページ製品概要に掲載�
 
 ### 02-02. 更新情報
 
-製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
+製品の更新情報について、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、[Red Hat Integration製品マニュアル](https://access.redhat.com/documentation/en-us/red_hat_integration) より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、[Red Hat Application Foundations 製品マニュアル](https://access.redhat.com/documentation/en-us/red_hat_application_foundations) より対象の個別製品のマニュアルを選択の上、リリースノートをご確認ください。
+
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat build of Apache Camel のリリーススケジュール
+    </td>
+    <td><!--  概要  -->
+      Red Hat build of Apache Camel製品ファミリーのリリース状況、および各バージョンのリリースノートを明記したサイトです。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://access.redhat.com/ja/articles/7054789
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Site
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/4/24
+    </td>
+  </tr>
+</table>
 
 ### 02-03. 個別コンポーネント
 

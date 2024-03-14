@@ -198,10 +198,10 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
+      ハイブリッドクラウドにおけるデータ統合を実現する ODF Multi-Cloud Gateway
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのアーキテクチャの詳細の学習、および製品のハンズオンラボを実施できるRed Hat Partner Training Portalのコンテンツです。
+      OpenShift Data Foundationには、ハイブリッドクラウドにおけるデータ統合を実現する機能であるMCG（Multi-Cloud Object Gateway）が搭載されています。本資料では、MCGの概要と利用シナリオについて説明を行います。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -209,10 +209,17 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
+        https://content.redhat.com/us/en/assets/display.html?id=e1e26e84-82ea-432e-b1b9-933d7efd0f11
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=bc5a4b6f-a0fa-496c-b3aa-b2134f9ae69b
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
       </a>
     </td>
     <td>

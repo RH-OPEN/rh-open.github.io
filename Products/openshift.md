@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/2/14
+最終更新日：2024/3/14
 </b>
 
 ## 01. 製品説明資料
@@ -175,7 +175,8 @@ sort: 4
         セルフマネージド Red Hat OpenShift サイジングおよびサブスクリプション・ガイド
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShiftのサブスクリプションモデルの説明、OpenShiftの環境サイズを見積もるための手順を紹介します。
+      Red Hat OpenShiftのサブスクリプションモデルの説明、OpenShiftの環境サイズを見積もるための手順を紹介します。<br>
+      ※ 英語版の方が更新が迅速に反映されるため、最新状況については英語版をご参照ください
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -186,31 +187,14 @@ sort: 4
         https://www.redhat.com/ja/resources/self-managed-openshift-sizing-subscription-guide
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        日本語版
       </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-  
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Self-managed Red Hat OpenShift sizing and subscription guide
-    </td>
-    <td><!--  概要  -->
-      上記サブスクリプションガイドの英語オリジナル版です。上記のガイドと内容はほぼ同等ですが、こちらの方がより更新が迅速に行われます。日本語版と合わせてご確認いただけますと幸いです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
+      <br>
       <a href="
         https://www.redhat.com/en/resources/self-managed-openshift-sizing-subscription-guide
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        英語版
       </a>
     </td>
     <td>
@@ -219,97 +203,6 @@ sort: 4
   </tr>
 
 </table>
-
-・ Red Hat OpenShift Platform Plus
-
-<img src="https://github.com/RH-OPEN/rh-open.github.io/blob/e9f585a31333f942076649e193f0c696271fa321/Products/images/Logo-Red_Hat-OpenShift_Platform_Plus-A-Standard-RGB.png?raw=true" alt="opp_logo" title="opp">
-
-
-[Red Hat OpenShift Platform Plus](https://www.redhat.com/ja/technologies/cloud-computing/openshift/platform-plus)(OPP)は、OpenShiftに加えて[ACM](https://rh-open.github.io/Products/acm.html)、[ACS](https://rh-open.github.io/Products/acs.html)、[ODF](https://rh-open.github.io/Products/odf.html)、
-Queyの4製品をバンドルした形でご提供する新しいサブスクリプションです。
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td>
-        <!--  ドキュメント名  -->
-        Red Hat OpenShift Platform Plusのご紹介
-    </td>
-    <td><!--  概要  -->
-      パートナー様向けに、OPPの概要とOPPのユースケースについてご紹介を行ったプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=596cba7d-7765-4ca9-bafb-bfcbc1f3d3a0
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-        <!--  ドキュメント名  -->
-        Red Hat OpenShift Platform Plus - Open Hybrid CloudをカタチにするOpenShiftの次の挑戦
-    </td>
-    <td><!--  概要  -->
-      企業におけるHybrid Cloudの採用状況とRed HatのOpen Hybrid Cloud戦略を解説し、この戦略を実現する製品としてのRed Hat OpenShift Platform Plusの紹介を行ったプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://speakerdeck.com/shkitayama/red-hat-openshift-platform-plus-red-hat-summit-connect-2022
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-        <!--  ドキュメント名  -->
-        Red Hat OpenShift Platform Plus のご紹介
-    </td>
-    <td><!--  概要  -->
-      弊社ソリューションアーキテクトによるRed Hat OpenShift Platform Plus紹介のブログ記事です。OPPの概要ともたらされるメリットについてご確認ください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://rheb.hatenablog.com/entry/2022/04/08/Red_Hat_OpenShift_Platform_Plus_%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-  
-</table>
-
 
 ### 01-04. ライフサイクル
 
@@ -428,7 +321,7 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Feature summary
+      Feature summary
     </td>
     <td><!--  概要  -->
       OpenShift Kubernetes Engine および OpenShift Container Platform における機能の有効性をまとめたものです。該当する場合、機能を有効にする Operator の名前も含まれています。
@@ -508,54 +401,6 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     </td>
     <td>
       <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        OpenShiftのセキュリティ機能のご紹介
-    </td>
-    <td><!--  概要  -->
-      OpenShiftではお客様が安全にコンテナアプリケーションを開発、運用するため、複数のレイヤーでセキュリティ機能を提供しております。 本資料では、セキュリティに関するお客様の運用負担を軽減し、安全にコンテナをお使い頂くための仕組みをご紹介します。
-    </td>
-    <td><!--  対象バージョン  -->
-      4.x
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a48535e6-7ab4-4348-af15-5e7c777ee4f0
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/7/5
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Software Supply Chain Security のご紹介
-    </td>
-    <td><!--  概要  -->
-      ソフトウェアサプライチェーンセキュリティにおいて、Red Hat Advanced Cluster Security + オープンソースを組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      4.x
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/9/27
     </td>
   </tr>
 
@@ -643,23 +488,169 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
+</table>
+
+### 02-04. OpenShift コンポーネント
+
+OpenShiftのサブスクリプションに含まれる機能群について機能別に紹介した資料群です。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
 
   <tr>
-    <td><!--  タイトル  -->
-      Hands-On with Red Hat OpenShift 4.10
+    <td><!--  ドキュメント名  -->
+      OpenShift Pipelines
     </td>
     <td><!--  概要  -->
-      OpenShift 4.10 において更新された機能のハンズオンを行える、Red Hat Partner Training Portalのコンテンツです。
+      OpenShift上でCI(継続的インテグレーション)を構成するための機能であるOpneShift Pipelinesをご紹介した資料です。
     </td>
     <td><!--  対象バージョン  -->
-      Version 4.10
+      -
     </td>
-    <td><!--  資料  -->
+    <td>
+      <!--  リンク先  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44916612
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a76a42c0-0aa3-4a8a-bceb-472f8c0a426f
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f7ae5f7e-dfb3-4749-acc0-c9ad53d29e0b
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShift GitOps
+    </td>
+    <td><!--  概要  -->
+      OpenShift上でCD(継続的デリバリー)を構成するための機能であるOpneShift GitOpsをご紹介した資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a6b208a7-5905-46d0-92b2-53cbe6bc2297
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d67580f1-726b-4089-b782-f7f9b02331ac
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShift Image Registry
+    </td>
+    <td><!--  概要  -->
+      OpenShift Image Registryは、OpenShiftに既定で付属するコンテナイメージレジストリです。
+      本資料ではOpenShift Image Registryについてアーキテクチャの詳細と使用するメリットについて説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8bd02a46-de52-4c7c-b8ef-f0895e81bab9
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=81f4f0d2-3653-4ae0-ad37-2bfa64cfe37e
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShift Serverless
+    </td>
+    <td><!--  概要  -->
+      OpenShift Serverlessは、OpenShift上でサーバレスコンピューティングを実現するための機能です。
+      本資料では、このOpenShift Sererlessのハイレベルな概要とアーキテクチャについて説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=0736029d-f34d-412d-a89f-cd508e75da98
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=3c6e1d7a-e027-416a-abe1-c92dd3857745
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShift ServiceMesh
+    </td>
+    <td><!--  概要  -->
+       OpenShift Service Meshは、マイクロサービスベースのアプリケーションを接続、管理、観察するための統一された方法を提供します。
+       本資料では、このOpenShift Sererlessのハイレベルな概要とアーキテクチャについて説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e09ac1b-d44e-4ba3-b54a-741851b30a85
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4d165ab2-ee5e-4cb7-8564-66f9d6f4f27f
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
       </a>
     </td>
     <td>
@@ -669,9 +660,94 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 </table>
 
-### 02-03. アップグレード
+### 02-05. OpenShift 関連製品
 
-製品の特定バージョンに対し、アップグレードに向けたご説明資料が存在する場合に記載を行います。
+OpenShiftの機能を拡充する関連製品についてのご紹介資料です。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td>
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Platform Plus
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF、 Queyの4製品をバンドルした形でご提供するバンドルサブスクリプションです。本資料ではこのOPPの概要とユースケースについてご紹介を行っています。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=596cba7d-7765-4ca9-bafb-bfcbc1f3d3a0
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat OpenShift AI
+    </td>
+    <td><!--  概要  -->
+      OpenShift AIは、AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 本資料は、このOpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介いたします。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0f22a551-0693-4b09-a914-e37376d4a2c2
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/2/14
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Software Supply Chain Security
+    </td>
+    <td><!--  概要  -->
+      ソフトウェアサプライチェーンセキュリティにおいて、Red Hat Advanced Cluster Security + オープンソースを組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      4.x
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/9/27
+    </td>
+  </tr>
+
+</table>
+
+
+### 02-06. OpenShift Cloud Service
+
+OpenShiftをクラウド上のマネージドサービスとして提供する、Managed OpenShiftに関する製品情報を掲載します。
 
 <table>
   <tr>
@@ -680,10 +756,10 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
-        OpenShift Cluster Upgrade戦略
+        Azure Red Hat OpenShift の使用を開始する
     </td>
     <td><!--  概要  -->
-      OpenShiftクラスタのアップグレードについて、アップグレードの仕組みと実行方法、およびアップグレード戦略について説明を行います。
+      Microsoft Azure上で提供されるOpenShiftのマネージドサービスである、ARO（Azure Red Hat OpenShift）の利用を始めるためのガイドです。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -691,25 +767,43 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b46414fb-2523-45bb-bb09-44051bb6f620
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d6ee3f9f-7d2c-435f-8ea8-40b12023de86
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat OpenShift Service on AWS (ROSA) の紹介動画
+    </td>
+    <td><!--  概要  -->
+      Amazon Web Service上で提供されるOpenShiftのマネージドサービスであるROSA（Red Hat OpenShift Service on AWS）の概要を紹介する動画です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=152e79c1-40b5-45a4-8226-6a610764d46a
+        https://www.youtube.com/watch?v=oOn9fKKIV-0&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=4
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
-        </td>
+    </td>
     <td>
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
 </table>
+
 
 ## 03. 学習リソース
 
@@ -778,97 +872,11 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
 ## 04. 関連情報
 
-### 04-01. OpenShiftコンポーネント
+### 04-01. 構築ナレッジ
 
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift AIのご紹介
-    </td>
-    <td><!--  概要  -->
-      OpenShift AIは、AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 本資料は、このOpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介いたします。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0f22a551-0693-4b09-a914-e37376d4a2c2
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/2/14
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      OpenShift Pipelinesのご紹介
-    </td>
-    <td><!--  概要  -->
-      OpenShift上でCI(継続的インテグレーション)を構成するための機能であるOpneShift Pipelinesをご紹介した資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a76a42c0-0aa3-4a8a-bceb-472f8c0a426f
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f7ae5f7e-dfb3-4749-acc0-c9ad53d29e0b
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      OpenShift GitOpsのご紹介
-    </td>
-    <td><!--  概要  -->
-      OpenShift上でCD(継続的デリバリー)を構成するための機能であるOpneShift GitOpsをご紹介した資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a6b208a7-5905-46d0-92b2-53cbe6bc2297
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d67580f1-726b-4089-b782-f7f9b02331ac
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
   </tr>
 
   <tr>
@@ -888,37 +896,6 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      OpenShiftの内部レジストリって何？
-    </td>
-    <td><!--  概要  -->
-      OpenShiftに既定で付属するコンテナイメージレジストリ（OpenShift Image Registry）について、アーキテクチャの詳細と使用するメリットについて説明を行います。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8bd02a46-de52-4c7c-b8ef-f0895e81bab9
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=81f4f0d2-3653-4ae0-ad37-2bfa64cfe37e
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
       </a>
     </td>
     <td>
@@ -959,10 +936,10 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
-      OpenShift Serverless 入門
+        OpenShift Cluster Upgrade戦略
     </td>
     <td><!--  概要  -->
-      OpenShiftにはサーバレスコンピューティングを実現するための機能としてOpenShift Serverlessが搭載されています。本資料では、このOpenShift Sererlessのハイレベルな概要とアーキテクチャについて説明を行います。
+      OpenShiftクラスタのアップグレードについて、アップグレードの仕組みと実行方法、およびアップグレード戦略について説明を行います。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -970,19 +947,19 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=0736029d-f34d-412d-a89f-cd508e75da98
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b46414fb-2523-45bb-bb09-44051bb6f620
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=3c6e1d7a-e027-416a-abe1-c92dd3857745
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=152e79c1-40b5-45a4-8226-6a610764d46a
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
-    </td>
+        </td>
     <td>
       <!--  記載確認日  -->2023/3/30
     </td>
@@ -990,240 +967,27 @@ Queyの4製品をバンドルした形でご提供する新しいサブスクリ
 
   <tr>
     <td><!--  ドキュメント名  -->
-      ハイブリッドクラウドにおけるデータ統合を実現する ODF Multi-Cloud Gateway
+      OpenShiftのセキュリティ機能のご紹介
     </td>
     <td><!--  概要  -->
-      OpenShift Data Foundationには、ハイブリッドクラウドにおけるデータ統合を実現する機能であるMCG（Multi-Cloud Object Gateway）が搭載されています。本資料では、MCGの概要と利用シナリオについて説明を行います。
+      OpenShiftではお客様が安全にコンテナアプリケーションを開発、運用するため、複数のレイヤーでセキュリティ機能を提供しております。 本資料では、セキュリティに関するお客様の運用負担を軽減し、安全にコンテナをお使い頂くための仕組みをご紹介します。
     </td>
     <td><!--  対象バージョン  -->
-      -
+      4.x
     </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=e1e26e84-82ea-432e-b1b9-933d7efd0f11
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=bc5a4b6f-a0fa-496c-b3aa-b2134f9ae69b
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
-
-### 04-02. Managed OpenShift
-
-OpenShiftをクラウド上のマネージドサービスとして提供する、Managed OpenShiftに関する製品情報を掲載します。
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Azure Red Hat OpenShift の使用を開始する
-    </td>
-    <td><!--  概要  -->
-      Microsoft Azure上で提供されるOpenShiftのマネージドサービスである、ARO（Azure Red Hat OpenShift）の利用を始めるためのガイドです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d6ee3f9f-7d2c-435f-8ea8-40b12023de86
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a48535e6-7ab4-4348-af15-5e7c777ee4f0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/7/5
     </td>
   </tr>
 
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift Service on AWS (ROSA) の紹介動画
-    </td>
-    <td><!--  概要  -->
-      Amazon Web Service上で提供されるOpenShiftのマネージドサービスであるROSA（Red Hat OpenShift Service on AWS）の概要を紹介する動画です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.youtube.com/watch?v=oOn9fKKIV-0&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=4
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
-
-
-### 04-03. OpenShift関連マネージドサービス
-
-Red Hatがクラウドサービスとして提供する、OpenShift上でのクラウドネイティアプリケーション開発を行うためのサービス群を紹介します。
-
-<table>
-
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        クラウドネイティブなアプリケーション開発を始めよう！ 〜 すぐに試せるRed Hatのマネージドサービス 〜
-    </td>
-    <td><!--  概要  -->
-      Red Hatが提供するOpenShift関連のマネージドサービス群について解説を行った弊社ブログの記事です。まずはこちらをご参考にください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://rheb.hatenablog.com/entry/redhat-managed-services-intro
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift Data Science
-    </td>
-    <td><!--  概要  -->
-      インテリジェント・アプリケーションに携わるデータサイエンティストおよび開発者向けのマネージド・クラウドサービスであるOpenShift Data Scienceの紹介ページです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-data-science
-     " target="_blank" rel="noreferrer noopener">
-      <!--  ドキュメント名  -->
-      Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift API Management
-    </td>
-    <td><!--  概要  -->
-      Managed OpenShift上で動作するRed HatマネージドのAPI管理サービスであるRed Hat OpenShift API Managementの紹介ページです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-api-management
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
-
-
-### 04-04. その他
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        コンテナ戦略で競争力を獲得する
-    </td>
-    <td><!--  概要  -->
-      ビジネスイノベーションの未来は、クラウド内の Kubernetes で構築されます。私たちの生活や仕事を変革する無限の可能性がもたらされます。クラウドは今では市場に普及しましたが (先進的なコンテナベースのアプリケーションの導入が進むにつれ、Kubernetes もそれと同じ道筋をたどっています)、インテリジェントなテクノロジーの次の波を支えるクラウド戦略を成功させるには、新たな検討事項が加わります。この e ブックでは、シンプルかつ効率的で安全性の高い Kubernetes プラットフォームを選ぶ方法を紹介します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/resources/container-strategy-kubernetes-ebook
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift とKubernetes、その違いとは？
-    </td>
-    <td><!--  概要  -->
-      OpenShift とKubernetes の違いについての質問についてのご説明をまとめた資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/rhdc/managed-files/cl-openshift-and-kubernetes-ebook-f25170wg-202010-a4-ja.pdf
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
 
 </table>
