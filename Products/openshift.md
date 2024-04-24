@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/3/14
+最終更新日：2024/4/24
 </b>
 
 ## 01. 製品説明資料
@@ -415,6 +415,30 @@ sort: 4
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        What's New in OpenShift 4.15 - JP
+    </td>
+    <td><!--  概要  -->
+      OpenShift 4.15における新機能について紹介を行うプレゼンテーション資料です。 
+    </td>
+    <td><!--  対象バージョン  -->
+      4.15
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=39fa33d0-50aa-4fce-8adf-3a19af7dc824
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/4/24
+    </td>
   </tr>
 
   <tr>

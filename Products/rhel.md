@@ -419,7 +419,7 @@ sort: 2
         Red Hat 認定エンジニア向けスキルパス
     </td>
     <td><!--  概要  -->
-      このインフォグラフィックでは、Red Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
+      Red Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -427,14 +427,14 @@ sort: 2
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f5155d40-d9f9-464a-a637-ec5bf33d67d1
+        https://www.redhat.com/en/resources/enterprise-linux-skills-path-brief
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2023/4/24
     </td>
   </tr>
 

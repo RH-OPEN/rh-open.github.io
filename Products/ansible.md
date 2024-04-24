@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/2/14
+最終更新日：2024/4/24
 </b>
 
 ## 01. 製品説明資料
@@ -157,29 +157,6 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Ansible Automation Platform 2.1の導入
-    </td>
-    <td><!--  概要  -->
-      Red Hat Ansible Automation Platformの導入におけるリファレンスアーキテクチャを明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.1
-    </td>
-    <td><!--  リンク先  -->
-      <a href="
-        https://access.redhat.com/documentation/ja-jp/reference_architectures/2021/html-single/deploying_ansible_automation_platform_2.1/index
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
   </tr>
 
   <tr>
@@ -432,24 +409,24 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Ansibleスキルパス
+        Red Hat Ansible Automation Platform skills path
     </td>
     <td><!--  概要  -->
-      このインフォグラフィックでは、AnsibleのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。
+      Ansible Automation PlatformのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=de213e12-bb18-40bc-848b-99af059d7e4c
+        https://www.redhat.com/en/resources/ansible-automation-platform-skills-path-brief
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/4/24
     </td>
   </tr>
 

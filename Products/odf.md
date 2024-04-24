@@ -18,7 +18,7 @@ sort: 8
 ```
 
 <b>
-最終更新日：2024/2/14
+最終更新日：2024/4/24
 </b>
 
 ## 01. 製品説明資料
@@ -238,6 +238,30 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 <table>
   <tr><!-- 行1（見出し）-->
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        What's New in OpenShift 4.15 - JP
+    </td>
+    <td><!--  概要  -->
+      OpenShift 4.15における新機能について紹介を行うプレゼンテーション資料です。 ODFの更新情報も併せて記載がございます。
+    </td>
+    <td><!--  対象バージョン  -->
+      4.15
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=39fa33d0-50aa-4fce-8adf-3a19af7dc824
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/4/24
+    </td>
   </tr>
 
   <tr>
