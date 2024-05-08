@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/4/24
+最終更新日：2024/5/8
 </b>
 
 ## 01. 製品説明資料
@@ -679,6 +679,38 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
     </td>
     <td>
       <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      OpenShift Virtualization
+    </td>
+    <td><!--  概要  -->
+      OpenShift Virtualization は、OpenShift上で仮想マシンを稼働させるための機能であり、Cloud Nativeな作法でのVM作成・管理を可能とします。
+       本資料では、このOpenShift Virtuzalitionのハイレベルな概要とアーキテクチャについて説明を行います。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://red.ht/3ybMIKH
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+      <!--  リンク先  -->
+      <a href="
+        https://red.ht/3WyTpRe
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        動画
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/5/8
     </td>
   </tr>
 
