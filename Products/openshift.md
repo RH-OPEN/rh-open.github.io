@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/5/8
+最終更新日：2024/7/2
 </b>
 
 ## 01. 製品説明資料
@@ -27,7 +27,7 @@ sort: 4
 
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -35,17 +35,28 @@ sort: 4
         コンテナプラットフォーム Red Hat OpenShiftのご紹介
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShiftの製品紹介動画です。3本構成になっており、本リンクはPart1のリンクとなっています。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
+      Red Hat OpenShiftの製品紹介動画です。3パートの動画となっており、Part1で製品の概要をご紹介し、Part2, 3では開発者のメリット、運用者のメリットに焦点を当てご紹介します。
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://www.youtube.com/watch?v=oWWMEfz4VNQ&list=PL4IvAXW0drR3_VUJGBDHMZYETG7_UdXYc&index=1
+        https://youtu.be/oWWMEfz4VNQ?si=H1X7Km-ggTWehx1y
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        動画
+        Part1
+      </a>
+      <br>
+      <a href="
+        https://youtu.be/OA-c1OD8VBQ?si=wLwNIzkEDFtDwOSF
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Part2
+      </a>
+      <br>
+      <a href="
+        https://youtu.be/lsv8glPf5l0?si=vKb9X05BkJqI1idH
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Part3
       </a>
     </td>
     <td>
@@ -59,9 +70,6 @@ sort: 4
     </td>  
     <td><!--  概要  -->
       Red Hat OpenShiftの特徴と機能の概要を記載したデータシートです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -82,7 +90,7 @@ sort: 4
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -93,9 +101,6 @@ sort: 4
     <td><!--  概要  -->
       Red HatがForrester Consultingに依頼し調査を実施した、OpenShift Platform Plusの収益機会の評価レポートです。
       Red Hatの顧客がこのプラットフォームを使ってどのように業務プロセスを改善し、収益を伸ばしているか、またその顧客がベストプラクティスとみなしている分野で行っている投資が、その成功にどのように貢献しているかに焦点を当てています。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -119,9 +124,6 @@ sort: 4
     <td><!--  概要  -->
       Red Hatの製品事例を製品や業種、ビジネス課題をもとに検索可能なウェブサイトです。
     </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
     <td>
       <!--  リンク先  -->
       <a href="        
@@ -142,7 +144,7 @@ sort: 4
 
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -152,9 +154,6 @@ sort: 4
     <td><!--  概要  -->
       Red Hat OpenShift のサブスクリプションについて、サブスクリプションお見積り時の「おおよその考え方の指針」をご提示するものです。
       下記のサブスクリプションガイドの補助資料としてご利用いただけます。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -177,9 +176,6 @@ sort: 4
     <td><!--  概要  -->
       Red Hat OpenShiftのサブスクリプションモデルの説明、OpenShiftの環境サイズを見積もるための手順を紹介します。<br>
       ※ 英語版の方が更新が迅速に反映されるため、最新状況については英語版をご参照ください
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -208,7 +204,7 @@ sort: 4
 
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -220,9 +216,6 @@ sort: 4
       Red Hat OpenShiftの製品ライフサイクルポリシー、及びサポート終了日を明示します。
       ※ こちらは日本語版のリンクを掲載しておりますが、お使いの環境によっては英語版へリダイレクトが行われる場合がございます。
       英語版のページが表示された場合、お手数ですがサイト右上の地球儀マークより日本語表記へ切り替えてご参照ください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -720,21 +713,21 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
 
 OpenShiftの機能を拡充する関連製品についてのご紹介資料です。
 
+#### Red Hat OpenShift Platform Plus
+Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF、 Queyの4製品をバンドルした形でご提供するバンドルサブスクリプションです。
+
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
     <td>
         <!--  ドキュメント名  -->
-        Red Hat OpenShift Platform Plus
+        Red Hat OpenShift Platform Plusのご紹介
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF、 Queyの4製品をバンドルした形でご提供するバンドルサブスクリプションです。本資料ではこのOPPの概要とユースケースについてご紹介を行っています。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
+      OPPの概要とユースケースについてご紹介を行ったスライド資料です。
     </td>
     <td>
       <!--  リンク先  -->
@@ -750,15 +743,22 @@ OpenShiftの機能を拡充する関連製品についてのご紹介資料で�
     </td>
   </tr>
 
+</table>
+
+#### Red Hat OpenShift AI
+[Red Hat OpenShift AI](https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-ai)は、OpenShift上で稼働する柔軟でスケーラブルな人工知能 (AI) および機械学習 (ML) プラットフォームです。AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
   <tr>
     <td><!--  ドキュメント名  -->
       Red Hat OpenShift AI
     </td>
     <td><!--  概要  -->
-      OpenShift AIは、AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 本資料は、このOpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介いたします。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
+      OpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介したスライド資料です。
     </td>
     <td>
       <!--  リンク先  -->
@@ -774,32 +774,110 @@ OpenShiftの機能を拡充する関連製品についてのご紹介資料で�
     </td>
   </tr>
 
+</table>
+
+#### Red Hat Trusted Software Supply Chain
+[Red Hat Trusted Software Supply Chain（RHTSSC）](https://www.redhat.com/ja/solutions/trusted-software-supply-chain)は、ソフトウェア・サプライチェーンの脆弱性に対するレジリエンスを強化するソリューションブランドです。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
+  </tr>
   <tr>
     <td><!--  ドキュメント名  -->
-      Software Supply Chain Security
+      ソフトウェア・サプライチェーンにおけるセキュリティの実践ガイド
     </td>
     <td><!--  概要  -->
-      ソフトウェアサプライチェーンセキュリティにおいて、Red Hat Advanced Cluster Security + オープンソースを組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      4.x
+      コンテナ化された環境と Kubernetes 環境におけるソフトウェア・サプライチェーンのセキュリティ課題について解説し、これに対応するためのソリューションとしてRHTSSCを紹介するe-bookドキュメントです。
     </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
+        https://www.redhat.com/ja/engage/software-supply-chain-security-ebook
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/9/27
+      <!--  記載確認日  -->2024/7/1
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Software Supply Chain Security for Partner
+    </td>
+    <td><!--  概要  -->
+      ソフトウェアサプライチェーンセキュリティにおいて、RHTSSCに含まれる機能を組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/7/1
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Trusted Software Supply Chain ご紹介(短縮版)
+    </td>
+    <td><!--  概要  -->
+      RHTSSCに含まれる、ソフトウェア開発のセキュリティを強化するためのソリューションRed Hat Trusted Application Pipelineに関するスライド資料です。
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=4b43679c-533c-43ed-a228-a5a0079c364c
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/7/1
     </td>
   </tr>
 
 </table>
 
+#### Red Hat Developer Hub
+[Red Hat Developer Hub](https://www.redhat.com/ja/technologies/cloud-computing/developer-hub)は、開発者ポータルを構築するためのエンタープライズグレードのオープンな開発者プラットフォームであり、サポート付きの独自のフレームワークを含んでいます。
+統一されたオープン・プラットフォームを通じて、オンボーディングのスピード、開発者の生産性、コラボレーションを最適化すると同時に、開発チームの認知的負荷と不満を軽減します。
+
+<table>
+  <tr>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
+  </tr>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      ハイブリッドクラウドの開発者エクスペリエンスをモダナイズ
+    </td>
+    <td><!--  概要  -->
+      近年のソフトウェア開発者の抱える負担・課題について解説を行い、これに対応するためのソリューションとしてRed Hat Developer Hubを紹介するe-bookドキュメントです。
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://www.redhat.com/ja/engage/modernize-hybrid-cloud-developer-experience-ebook
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/7/1
+    </td>
+  </tr>
+
+</table>
 
 ### 02-06. OpenShift Cloud Service
 
@@ -807,7 +885,7 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
 
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
 
   <tr>
@@ -816,9 +894,6 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
     </td>
     <td><!--  概要  -->
       Microsoft Azure上で提供されるOpenShiftのマネージドサービスである、ARO（Azure Red Hat OpenShift）の利用を始めるためのガイドです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -840,9 +915,6 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
     </td>
     <td><!--  概要  -->
       Amazon Web Service上で提供されるOpenShiftのマネージドサービスであるROSA（Red Hat OpenShift Service on AWS）の概要を紹介する動画です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -867,7 +939,7 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
 
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th>th>資料</th><th>記載確認日</th>
   </tr>
   <tr>
     <td><!--  ドキュメント名  -->
@@ -875,9 +947,6 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
     </td>
     <td><!--  概要  -->
       OpenShiftのRed Hat 認定エンジニア (RHCE) 認定取得までのラーニングパスをご紹介します。ご自分に合ったルートを見つけるのにお役立てください。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
@@ -899,9 +968,6 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
     </td>
     <td><!--  概要  -->
       Red Hatでは、パートナー様によるOpenShiftのご学習を効率良く進めて頂くため様々なトレーニングコンテンツを公開しています。 この資料では、複数存在するOpenShiftのトレーニングコンテンツを網羅的に紹介し、ご利用方法をガイドします。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
     </td>
     <td>
       <!--  リンク先  -->
