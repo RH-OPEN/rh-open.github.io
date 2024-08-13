@@ -105,7 +105,7 @@ sort: 4
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8ce367b8-c270-409a-ab61-5c3ab9b67a27
+        https://www.redhat.com/ja/resources/forrester-tei-study-analyst-material
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -939,7 +939,7 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
 
 <table>
   <tr>
-    <th>タイトル</th><th>概要</th>th>資料</th><th>記載確認日</th>
+    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
   <tr>
     <td><!--  ドキュメント名  -->

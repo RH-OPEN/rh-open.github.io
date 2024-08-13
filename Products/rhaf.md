@@ -100,30 +100,6 @@ sort: 5
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Cloud Native Data Integration
-    </td>
-    <td><!--  概要  -->
-      クラウドネイティブな開発を実践する上でのお客様の課題を説明し、この課題を解決するCloud Native Data Integrationの手法とユースケースをご紹介するプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="        
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d13f3fa4-fb85-4572-841c-2eba78db1526
-      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>  
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
         Red Hat お客様導入事例
     </td>
     <td><!--  概要  -->
@@ -496,55 +472,6 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
 <table>
   <tr>
     <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Application Foundations - 製品概要
-    </td>
-    <td><!--  概要  -->
-      Red Hat Application Foundationsについて、製品のハイレベルな紹介を行ったプレゼンテーション資料です。
-      特にRed Hat OpenShiftと組み合わせて使用した場合のビジネス的価値を中心にご紹介しています。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=121bfecf-4911-417f-a43a-e95f504c1973
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Application Foundations - 技術概要
-    </td>
-    <td><!--  概要  -->
-      Red Hat Application Foundationsについて、RHAFの技術的な位置付けと、RHAFに含まれる各コンポーネントの技術的な説明を行ったプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=dcfbc2ff-d8e5-43f5-8f05-98b28cd5df9d
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
   </tr>
 
   <tr>

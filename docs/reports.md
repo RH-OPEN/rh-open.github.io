@@ -7,7 +7,7 @@ sort: 1
 DX・IT基盤強化・組織変革などビジネス課題におけるアプローチや戦略ガイドの資料などをまとめています。
 
 <b>
-最終更新日：2024/1/17
+最終更新日：2024/8/13
 </b>
 
 ## Red Hat製品のビジネス価値/アナリストマテリアル
@@ -16,25 +16,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
   <tr><!-- 行1（見出し）-->
     <th>資料</th><th>概要</th><th>発行日</th>
   </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://www.redhat.com/ja/resources/forrester-wave-infrastructure-automation-analyst-asset
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-       The Forrester Wave™: インフラストラクチャ自動化 (2023年第1四半期)
-      </a>
-    </td>
-    <td><!--  概要  -->
-     Forrester Research は、インフラストラクチャ自動化プロバイダーの 30 基準の評価において、最も重要なプロバイダー 11 社を特定し、調査、分析、スコア付けを行いました。 このレポートは、各自動化プロバイダーがどのように評価されているかを示し、技術リーダーがニーズに合った適切なプロバイダーを選択するのに役立ちます。 Forrester の評価によれば、「Red Hat は運用上の課題、スキルのギャップ、予算のプレッシャーに対処することで市場のペースを決めています。」
-    </td>
-    <td><!--  発行日  -->
-      2023年7月5日
-    </td>
-  </tr>
-
   <tr>
     <td><!--  資料  -->
       <!--  リンク  -->  
@@ -50,24 +31,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
     <td><!--  発行日  -->
       2023年3月30日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://www.redhat.com/ja/resources/idc-application-and-delivery-whitepaper-analyst-material
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-       Red Hatによるアプリケーション開発 およびデリバリーの統合プラットフォーム のビジネス価値
-      </a>
-    </td>
-    <td><!--  概要  -->
-     開発組織における主要な課題の 1 つ一つは、新しいクラウドネイティブアプリケーション開発とアプリケーションのモダナイゼーションに伴う複雑な技術環境をナビゲートすることです。IDC White Paper sponsored by Red Hat「The Business Value of a Unified Application Development」を読んで、この課題を探り、新しいクラウドネイティブアプリケーション開発とレガシーアプリケーションの管理に対する分析的なソリューションを発見してください。
-    </td>
-    <td><!--  発行日  -->
-      2023年3月10日
     </td>
   </tr>
 
@@ -238,24 +201,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d944d33b-3b06-4093-938c-71c0d1463ee7
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        オープンソースのちからで実現するデジタル・トランスフォーメーション
-      </a>
-    </td>
-    <td><!--  概要  -->
-    オープンソースの原則でチーム、テクノロジー、プロセスを結びつけましょう。
-    </td>
-    <td><!--  発行日  -->
-      2021年1月6日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
       https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ace9c31d-946c-4440-848e-9b39ad76f78e
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
@@ -267,24 +212,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
     <td><!--  発行日  -->
       2020年12月17日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=49e9a05d-d230-46f3-bddd-a611e0340f2f
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        デジタル・トランスフォーメーションの失敗を回避する
-      </a>
-    </td>
-    <td><!--  概要  -->
-    成功するデジタル・トランスフォーメーションが持つ要素と、テクノロジーへの投資を確実に成功させる方法について説明します。
-    </td>
-    <td><!--  発行日  -->
-      2020年10月6日
     </td>
   </tr>
 
@@ -613,24 +540,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
     <td><!--  発行日  -->
       2023年1月10日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b663573d-089b-4f81-ad33-50c9221053ea
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        エンタープライズオープンソースのオートメーションがイノベーションを推進
-      </a>
-    </td>
-    <td><!--  概要  -->
-    企業がさらなる俊敏性を追及するにつれ、自動化は今まで以上に必要になっています。インフラストラクチャ戦略の意思決定者の意見を見てみましょう。
-    </td>
-    <td><!--  発行日  -->
-      2020年8月10日
     </td>
   </tr>
 
