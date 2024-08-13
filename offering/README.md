@@ -75,22 +75,6 @@ sort: 1
     </td>
   </tr>
 
-  <tr>
-    <!--- タイトル --->
-    <td>
-        <a href="
-        https://rh-open.github.io/offering/usage-opentlc.html
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        OPENTLC利用手順
-      </a>
-    </td>
-    <!--- 内容 --->
-    <td>
-        Partner Training Portalに付随するラボ環境であるOPENTLCの利用手順です。
-    </td>
-  </tr>
-
 <tr>
     <!--- タイトル --->
     <td>
