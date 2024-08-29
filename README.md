@@ -2,7 +2,7 @@
 
 # Red Hat Partner One-Stop ページ
 
-[Red Hat Partner One-Stop](https://rh-open.github.io/) ページ は、Red Hat パートナーの皆様のイネーブルメントを効率的にご支援するためのワンストップサイトです。
+[Red Hat Partner One-Stop](https://rh-open.github.io/) ページ は、[Red Hat Partner Enablement Japan](https://redhat-open.connpass.com/event/325983/)チームの運営するRed Hat パートナーの皆様のイネーブルメントを効率的にご支援するためのワンストップサイトです。
 
 ## コンテンツ
 ### [Red Hatからのオファリング](offering)
