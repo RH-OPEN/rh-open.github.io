@@ -18,7 +18,7 @@ sort: 5
 ```
 
 <b>
-最終更新日：2024/3/14
+最終更新日：2024/8/29
 </b>
 
 ## 01. 製品説明資料
@@ -42,7 +42,7 @@ sort: 5
     </td>
     <td><!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
+        https://content.redhat.com/us/en/assets/display.html?id=92dd8cb7-11d1-452d-ae7b-317fed0a54c9
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -55,7 +55,7 @@ sort: 5
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@ sort: 5
     <td>
       <!--  リンク先  -->
       <a href="        
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
+        https://content.redhat.com/us/en/assets/display.html?id=92dd8cb7-11d1-452d-ae7b-317fed0a54c9
       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -94,7 +94,7 @@ sort: 5
       </a>      
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 
@@ -192,7 +192,7 @@ sort: 5
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
+        https://content.redhat.com/us/en/assets/display.html?id=92dd8cb7-11d1-452d-ae7b-317fed0a54c9
     " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -205,7 +205,7 @@ sort: 5
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 </table>
@@ -231,7 +231,7 @@ sort: 5
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
+        https://content.redhat.com/us/en/assets/display.html?id=92dd8cb7-11d1-452d-ae7b-317fed0a54c9
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -244,7 +244,7 @@ sort: 5
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 
@@ -670,7 +670,7 @@ RHAFに含まれる個別の製品についての技術情報を掲載いたし�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0e076def-40b1-4bce-9478-d0e31b3eaf04
+        https://content.redhat.com/us/en/assets/display.html?id=92dd8cb7-11d1-452d-ae7b-317fed0a54c9
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -683,7 +683,7 @@ RHAFに含まれる個別の製品についての技術情報を掲載いたし�
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 

@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/7/2
+最終更新日：2024/8/29
 </b>
 
 ## 01. 製品説明資料
@@ -530,7 +530,7 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a76a42c0-0aa3-4a8a-bceb-472f8c0a426f
+        https://content.redhat.com/us/en/assets/display.html?id=2096cdc6-dcf7-4270-bd96-771470986249
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -544,7 +544,7 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 
@@ -561,7 +561,7 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a6b208a7-5905-46d0-92b2-53cbe6bc2297
+        https://content.redhat.com/us/en/assets/display.html?id=3629d1e2-0bfe-4a34-a8df-64ef61ff62ba
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -575,7 +575,7 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 
@@ -1069,7 +1069,7 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b46414fb-2523-45bb-bb09-44051bb6f620
+        https://content.redhat.com/us/en/assets/display.html?id=c705890e-c481-4b37-a328-28d533302df5
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF

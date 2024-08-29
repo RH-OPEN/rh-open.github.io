@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/4/24
+最終更新日：2024/8/29
 </b>
 
 ## 01. 製品説明資料
@@ -57,14 +57,14 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c0e72669-3ad6-4c7b-a756-c0317a9c9f5e
+        https://content.redhat.com/us/en/assets/display.html?id=e3b17790-f844-4d2b-80e1-9b774c338082
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 

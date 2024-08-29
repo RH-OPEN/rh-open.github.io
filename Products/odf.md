@@ -18,7 +18,7 @@ sort: 8
 ```
 
 <b>
-最終更新日：2024/4/24
+最終更新日：2024/8/29
 </b>
 
 ## 01. 製品説明資料
@@ -209,7 +209,7 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=e1e26e84-82ea-432e-b1b9-933d7efd0f11
+        https://content.redhat.com/us/en/assets/display.html?id=35b90dc0-2a7d-47fd-a2c6-bec7848388c4
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -223,7 +223,7 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/8/29
     </td>
   </tr>
 
