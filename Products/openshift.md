@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/8/29
+最終更新日：2024/10/1
 </b>
 
 ## 01. 製品説明資料
@@ -794,48 +794,6 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
       <!--  リンク先  -->
       <a href="
         https://www.redhat.com/ja/engage/software-supply-chain-security-ebook
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/7/1
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Software Supply Chain Security for Partner
-    </td>
-    <td><!--  概要  -->
-      ソフトウェアサプライチェーンセキュリティにおいて、RHTSSCに含まれる機能を組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/7/1
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Trusted Software Supply Chain ご紹介(短縮版)
-    </td>
-    <td><!--  概要  -->
-      RHTSSCに含まれる、ソフトウェア開発のセキュリティを強化するためのソリューションRed Hat Trusted Application Pipelineに関するスライド資料です。
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=4b43679c-533c-43ed-a228-a5a0079c364c
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
