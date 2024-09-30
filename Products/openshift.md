@@ -846,6 +846,27 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
     </td>
   </tr>
 
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Trusted Application Pipeline 製品概要
+    </td>
+    <td><!--  概要  -->
+      CI/CDパイプラインのセキュリティ強化、出来上がったアプリケーションと共に生成されるSBOMが依存ライブラリを含め正当性を担保、一貫したセキュリティ基準を提供するRed Hat Trusted Application Pipelineのスライド資料です。
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=4b43679c-533c-43ed-a228-a5a0079c364c
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/10/1
+    </td>
+  </tr>
+
 </table>
 
 #### Red Hat Developer Hub
