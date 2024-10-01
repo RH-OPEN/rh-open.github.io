@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/8/29
+最終更新日：2024/10/1
 </b>
 
 ## 01. 製品説明資料
@@ -783,6 +783,28 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
   <tr>
     <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat Trusted Application Pipeline 製品概要
+    </td>
+    <td><!--  概要  -->
+      CI/CDパイプラインのセキュリティ強化、出来上がったアプリケーションと共に生成されるSBOMが依存ライブラリを含め正当性を担保、一貫したセキュリティ基準を提供するRed Hat Trusted Application Pipelineのスライド資料です。
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=863da616-255c-4327-8e8a-88814422eb6a
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/10/1
+    </td>
+  </tr>
+
   <tr>
     <td><!--  ドキュメント名  -->
       ソフトウェア・サプライチェーンにおけるセキュリティの実践ガイド
@@ -804,58 +826,6 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
     </td>
   </tr>
 
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Software Supply Chain Security for Partner
-    </td>
-    <td><!--  概要  -->
-      ソフトウェアサプライチェーンセキュリティにおいて、RHTSSCに含まれる機能を組み合わせ、安全にコンテナを運用頂く方法を紹介するビジネスパートナー様向けプレゼンテーション資料です。
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=139f5816-903d-48cf-b42a-8372d6e7adf5
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/7/1
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat Trusted Software Supply Chain ご紹介(短縮版)
-    </td>
-    <td><!--  概要  -->
-      RHTSSCに含まれる、ソフトウェア開発のセキュリティを強化するためのソリューションRed Hat Trusted Application Pipelineに関するスライド資料です。
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=4b43679c-533c-43ed-a228-a5a0079c364c
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/7/1
-    </td>
-  </tr>
-
-</table>
-
-#### Red Hat Developer Hub
-[Red Hat Developer Hub](https://www.redhat.com/ja/technologies/cloud-computing/developer-hub)は、開発者ポータルを構築するためのエンタープライズグレードのオープンな開発者プラットフォームであり、サポート付きの独自のフレームワークを含んでいます。
-統一されたオープン・プラットフォームを通じて、オンボーディングのスピード、開発者の生産性、コラボレーションを最適化すると同時に、開発チームの認知的負荷と不満を軽減します。
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
-  </tr>
   <tr>
     <td><!--  ドキュメント名  -->
       ハイブリッドクラウドの開発者エクスペリエンスをモダナイズ
