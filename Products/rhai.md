@@ -208,6 +208,37 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
 ### 01-05. 互換性情報
 
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      Red Hat OpenShift AI: Supported Configurations
+    </td>
+    <td><!--  概要  -->
+      Red Hat OpenShift AI Self-Managed のサポートされる構成を明示します。。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="  
+        https://access.redhat.com/articles/rhoai-supported-configs
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/10/xx
+    </td>
+  </tr>
+
+</table>
+
 ## 02. 製品技術資料
 
 <table>
