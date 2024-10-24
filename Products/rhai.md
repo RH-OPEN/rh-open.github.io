@@ -4,7 +4,7 @@ sort: 10
 
 # Red Hat AI(OpenShift AI / Red Hat Enterprise Linux AI)
 
-<img src="images/Logo-Red_Hat-OpenShift_AI-A-Standard-RGB?raw=true" alt="ocpai-logo" title="ocpai">
+<img src="images/Logo-Red_Hat-OpenShift_AI-A-Standard-RGB.png?raw=true" alt="ocpai-logo" title="ocpai">
 
 [Red Hat OpenShift AI](https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-ai) 
 は、人工知能および機械学習 (AI/ML) アプリケーションのデータサイエンティストおよび開発者向けのプラットフォームです。
