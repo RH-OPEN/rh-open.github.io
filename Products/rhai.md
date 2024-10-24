@@ -269,7 +269,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
 製品の特定バージョンに対し、プレゼンテーション資料や解説資料が存在する場合に掲載いたします。
 
-詳細な更新情報については、[Red Hat OpenShift Service Interconnect製品マニュアル](https://access.redhat.com/documentation/ja-jp/red_hat_service_interconnect) より、対象のバージョンのリリースノートをご確認ください。
+詳細な更新情報については、[Red Hat OpenShift AI製品マニュアル](https://docs.redhat.com/ja/documentation/red_hat_openshift_ai_self-managed) および[Red Hat Enterprise Linux AI製品マニュアル](https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux_ai) より、対象のバージョンのリリースノートをご確認ください。
 
 ## 03. 学習リソース
 
