@@ -18,7 +18,7 @@ sort: 2
 ```
 
 <b>
-最終更新日：2024/7/2
+最終更新日：2024/10/24
 </b>
 
 ## 01. 製品説明資料
@@ -434,63 +434,6 @@ sort: 2
 </table>
 
 ## 04. 関連情報
-
-### 04-01. RHEL for Edge
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      エッジでのワークロードに対応する Red Hat Enterprise Linux
-    </td>
-    <td><!--  概要  -->
-      Red Hat Enterprise Linuxのエッジコンピューティングでの活用について、特徴や機能についてご紹介するサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/resources/meet-workload-demands-edge-computing-datasheet
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-         Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hatのエッジコンピューティング・アプローチ
-    </td>
-    <td><!--  概要  -->
-      Red Hatのエッジへの取り組みと、Red Hatの製品をエッジのユースケースで活用する手法および事例をご紹介するサイトです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/topics/edge-computing/approach
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
 
 ### 04-02. その他
 <table>
