@@ -24,7 +24,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 ```
 
 <b>
-最終更新日：2024/11/xx
+最終更新日：2024/11/07
 </b>
 
 ## 01. 製品説明資料
@@ -41,7 +41,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       Partners - Red Hat OpenShift AI 101 deck
     </td>
     <td><!--  概要  -->
-      Red Hat Service Interconnectのご紹介資料です。
+      Red Hat OpenShift AIおよびRed Hat Enterprise Linux AIを紹介するプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -56,7 +56,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 </table>
@@ -88,7 +88,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  --> 2024/11/xx
+      <!--  記載確認日  --> 2024/11/07
     </td>
   </tr>
 
@@ -105,7 +105,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       RHOAI LLM vs GPU Sizing Guidelines
     </td>
     <td><!--  概要  -->
-      Red Hat Service Interconnectを含む、Red Hat Application Services群のサブスクリプションガイドです。
+    OpenShift AIで使用できる一般的なLLMモデルと推奨されるGPU、ストレージ、メモリの数に関するサイズ設定ガイドラインシートです。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -120,7 +120,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 </table>
@@ -152,7 +152,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 
@@ -176,7 +176,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 
@@ -200,7 +200,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 
@@ -219,7 +219,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       Red Hat OpenShift AI: Supported Configurations
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift AI Self-Managed のサポートされる構成を明示します。。
+      Red Hat OpenShift AI Self-Managed のサポートされる構成を明示します。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -234,7 +234,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 
@@ -249,7 +249,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Partners - Red Hat OpenShift AI 101 deck
+      Red Hat OpenShift AI Cloud Service Life Cycle
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift AI Cloud Service のライフサイクルポリシー、及びサポート終了日を明示します。
@@ -260,20 +260,20 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
     <td>
       <!--  リンク先  -->
       <a href="  
-        https://content.redhat.com/us/en/assets/display.html?id=f50f4634-ad7e-4872-bbcd-8fc179d0a90b
+        https://access.redhat.com/support/policy/updates/rhoai-cs/lifecycle
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat OpenShift AI 301 level technical deck
+        Red Hat OpenShift AI Self-Managed Life Cycle
     </td>
     <td><!--  概要  -->
       Red Hat OpenShift AI Self-Managed のライフサイクルポリシー、及びサポート終了日を明示します。
@@ -284,14 +284,14 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
     <td>
       <!--  リンク先  -->
       <a href="  
-        https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
+        https://access.redhat.com/support/policy/updates/rhoai-sm/lifecycle
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/xx
+      <!--  記載確認日  -->2024/11/07
     </td>
   </tr>
 
