@@ -249,42 +249,18 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Red Hat OpenShift AI Cloud Service Life Cycle
+      Red Hat OpenShift AI 301 level technical deck
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift AI Cloud Service のライフサイクルポリシー、及びサポート終了日を明示します。
+      OpenShift AIの技術詳細を説明したプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
     </td>
     <td>
       <!--  リンク先  -->
-      <a href="  
-        https://access.redhat.com/support/policy/updates/rhoai-cs/lifecycle
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/11/07
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat OpenShift AI Self-Managed Life Cycle
-    </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift AI Self-Managed のライフサイクルポリシー、及びサポート終了日を明示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="  
-        https://access.redhat.com/support/policy/updates/rhoai-sm/lifecycle
+      <a href="
+      https://content.redhat.com/us/en/assets/display.html?id=905ee403-e408-41a6-8ed0-d0b908a8da93
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link
