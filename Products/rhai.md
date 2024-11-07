@@ -5,6 +5,7 @@ sort: 10
 # Red Hat AI(OpenShift AI / Red Hat Enterprise Linux AI)
 
 <img src="images/Logo-Red_Hat-OpenShift_AI-A-Standard-RGB.png?raw=true" alt="ocpai-logo" title="ocpai">
+<img src="images/Logo-Red_Hat-Enterprise-Linux-AI-A-Red-RGB.png?raw=true" alt="rhai-logo" title="rhai">
 
 [Red Hat OpenShift AI](https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-ai) 
 は、人工知能および機械学習 (AI/ML) アプリケーションのデータサイエンティストおよび開発者向けのプラットフォームです。
@@ -23,7 +24,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 ```
 
 <b>
-最終更新日：2024/10/xx
+最終更新日：2024/11/xx
 </b>
 
 ## 01. 製品説明資料
@@ -55,7 +56,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 </table>
@@ -87,7 +88,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  --> 2024/10/xx
+      <!--  記載確認日  --> 2024/11/xx
     </td>
   </tr>
 
@@ -119,7 +120,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 </table>
@@ -151,7 +152,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 
@@ -175,7 +176,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 
@@ -199,7 +200,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 
@@ -233,7 +234,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 
@@ -266,7 +267,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 
@@ -290,7 +291,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/10/xx
+      <!--  記載確認日  -->2024/11/xx
     </td>
   </tr>
 
