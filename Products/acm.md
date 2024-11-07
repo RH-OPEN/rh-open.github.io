@@ -18,7 +18,7 @@ sort: 6
 ```
 
 <b>
-最終更新日：2024/7/1
+最終更新日：2024/10/24
 </b>
 
 ## 01. 製品説明資料
@@ -152,6 +152,29 @@ sort: 6
 
   <tr>
     <td> <!--  タイトル  -->
+        Red Hat Advanced Cluster Management for Kubernetes 2.11 Support Matrix
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Management for Kubernetes 2.11でサポートされる管理対象クラスタとHubのサポート環境を示します。
+    </td>
+    <td><!--  対象バージョン  -->
+      Version 2.11
+    </td>
+    <td>　<!--  資料  -->
+      <a href="
+        https://access.redhat.com/articles/7073065
+      " target="_blank" rel="noreferrer noopener">
+        <!--  タイトル  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/10/24
+    </td>
+  </tr>
+
+  <tr>
+    <td> <!--  タイトル  -->
         Red Hat Advanced Cluster Management for Kubernetes 2.10 Support Matrix
     </td>
     <td><!--  概要  -->
@@ -216,29 +239,6 @@ sort: 6
     </td>
     <td>
       <!--  記載確認日  -->2023/10/27
-    </td>
-  </tr>
-
-  <tr>
-    <td> <!--  タイトル  -->
-        Red Hat Advanced Cluster Management for Kubernetes 2.7 Support Matrix
-    </td>
-    <td><!--  概要  -->
-      Red Hat Advanced Cluster Management for Kubernetes 2.7でサポートされる管理対象クラスタとHubのサポート環境を示します。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.7
-    </td>
-    <td>　<!--  資料  -->
-      <a href="
-        https://access.redhat.com/articles/6978968
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
