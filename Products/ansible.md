@@ -423,8 +423,11 @@ Red hat Partner Training Portalで提供されるラーニングコンテンツ�
     </td>
     <td><!--  概要  -->
       営業職の方向けにRed Hat Ansible Automation Platformの製品知識を学習するコースです。<br>
-      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する [Red Hat デジタルクレデンシャル](https://www.redhat.com/ja/about/digital-credential-program) が発行されます。<br>
-      ※ 受講には、前提コースとなる [Red Hat Portfolio: Foundational](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45953014) の受講完了が必要です。
+      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提コースとなる
+      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45953014" target="_blank" rel="noreferrer noopener">Red Hat Portfolio: Foundational</a> の受講完了が必要です。
     </td>
   </tr>
 
@@ -442,8 +445,9 @@ Red hat Partner Training Portalで提供されるラーニングコンテンツ�
     </td>
     <td><!--  概要  -->
       技術営業職の方向けにRed Hat Ansible Automation Platformの製品知識を学習するコースです。<br>
-      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する [Red Hat デジタルクレデンシャル](https://www.redhat.com/ja/about/digital-credential-program) が発行されます。<br>
-      ※ 受講には、前提として営業職向けのコース [Red Hat Ansible Automation Platform: Seller](https://training-lms.redhat.com/lmt/clmslearningpathdetails.prmain?in_sessionId=A35804158J9A0900&in_selfContained=N&in_tab_group=&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=46061676) の受講完了が必要です。
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提として営業職向けのコースRed Hat Ansible Automation Platform: Sellerの受講完了が必要です。
     </td>
   </tr>
 
