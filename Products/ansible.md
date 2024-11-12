@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/8/29
+最終更新日：2024/11/12
 </b>
 
 ## 01. 製品説明資料
@@ -400,7 +400,101 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+# 03-01. Partner Training Portal
+
+Red hat Partner Training Portalで提供されるラーニングコンテンツにを紹介いたします。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドロール  -->
+        営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/lmt/clmslearningpathdetails.prmain?in_sessionId=A35804158J9A0900&in_selfContained=N&in_tab_group=&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=46061676
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform: Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      営業職の方向けにRed Hat Ansible Automation Platformの製品知識を学習するコースです。<br>
+      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する [Red Hat デジタルクレデンシャル](https://www.redhat.com/ja/about/digital-credential-program) が発行されます。<br>
+      ※ 受講には、前提コースとなる [Red Hat Portfolio: Foundational](https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45953014) の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ロール  -->
+       技術営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/lmt/clmslearningpathdetails.prmain?in_sessionId=A35804158J9A0900&in_selfContained=N&in_tab_group=&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=47930576
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform: Technical Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      技術営業職の方向けにRed Hat Ansible Automation Platformの製品知識を学習するコースです。<br>
+      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する [Red Hat デジタルクレデンシャル](https://www.redhat.com/ja/about/digital-credential-program) が発行されます。<br>
+      ※ 受講には、前提として営業職向けのコース [Red Hat Ansible Automation Platform: Seller](https://training-lms.redhat.com/lmt/clmslearningpathdetails.prmain?in_sessionId=A35804158J9A0900&in_selfContained=N&in_tab_group=&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=46061676) の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="3"><!--  ドキュメント名  -->
+        デリバリー
+    </td>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800099
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux Automation with Ansible (RH294)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      AAPでRHELを管理するコース
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D52222688
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Network Automation with Red Hat Ansible Automation Platform (DO457) v2.3
+      </a>
+    </td>
+    <td><!--  概要  -->
+      AAPでNetworkを管理するコース
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D62194365
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Microsoft Windows Automation with Red Hat Ansible Automation Platform (DO417) v2.4
+      </a>
+    </td>
+    <td><!--  概要  -->
+      AAPでWindowsを管理するコース
+    </td>
+  </tr>
+
+</table>
+
+# 03-02. その他学習関連情報
 
 <table>
   <tr><!-- 行1（見出し）-->
