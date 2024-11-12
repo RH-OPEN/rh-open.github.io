@@ -18,7 +18,7 @@ sort: 7
 ```
 
 <b>
-最終更新日：2024/4/24
+最終更新日：2024/11/12
 </b>
 
 ## 01. 製品説明資料
@@ -311,4 +311,31 @@ sort: 7
 
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+        デリバリー
+    </td>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314155
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Multicluster Management with Red Hat OpenShift Platform Plus (DO480) v2.4
+      </a>
+    </td>
+    <td><!--  概要  -->
+      AAPでRHELを管理するコース
+    </td>
+  </tr>
+
+</table>

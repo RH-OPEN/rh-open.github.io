@@ -400,9 +400,12 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 
 ## 03. 学習リソース
 
-# 03-01. Partner Training Portal
+### 03-01. Partner Training Portal
 
-Red hat Partner Training Portalで提供されるラーニングコンテンツにを紹介いたします。
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -415,7 +418,7 @@ Red hat Partner Training Portalで提供されるラーニングコンテンツ�
     </td>
     <td><!--  ドキュメント名  -->
       <a href="
-        https://training-lms.redhat.com/lmt/clmslearningpathdetails.prmain?in_sessionId=A35804158J9A0900&in_selfContained=N&in_tab_group=&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=46061676
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D46061676
        " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform: Seller
@@ -437,7 +440,7 @@ Red hat Partner Training Portalで提供されるラーニングコンテンツ�
     </td>
     <td><!--  ドキュメント名  -->
       <a href="
-        https://training-lms.redhat.com/lmt/clmslearningpathdetails.prmain?in_sessionId=A35804158J9A0900&in_selfContained=N&in_tab_group=&in_from_module=CLMSBROWSEV2.PRMAIN&in_learningPathId=47930576
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D47930576
        " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform: Technical Seller
@@ -447,7 +450,7 @@ Red hat Partner Training Portalで提供されるラーニングコンテンツ�
       技術営業職の方向けにRed Hat Ansible Automation Platformの製品知識を学習するコースです。<br>
       <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
       が発行されます。<br>
-      ※ 受講には、前提として営業職向けのコースRed Hat Ansible Automation Platform: Sellerの受講完了が必要です。
+      ※ 受講には、前提として営業職向けのコース"Red Hat Ansible Automation Platform: Seller"の受講完了が必要です。
     </td>
   </tr>
 
@@ -498,7 +501,7 @@ Red hat Partner Training Portalで提供されるラーニングコンテンツ�
 
 </table>
 
-# 03-02. その他学習関連情報
+### 03-02. その他学習関連情報
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -560,9 +563,9 @@ Red hat Partner Training Portalで提供されるラーニングコンテンツ�
     </td>
     <td><!--  概要  -->
       <a href="https://rh-open.github.io/training/contents.html#red-hat-product-demo-system-rhpds" target="_blank" rel="noreferrer noopener">
-      Red Hat Product Demo System</a>を使用したAnsibleのWorkshopページです。
+      Red Hat Product Demo Platform</a>を使用したAnsibleのWorkshopページです。
       Ansibleの様々なユースケース（Linux管理、Windows管理、Network管理、など）におけるWorkshopのシナリオが提供されます。
-      RHPDSをご利用頂くことでご自身でデモ環境を構築し、Workshopの内容を実施頂くことが可能です。
+      パートナー様はRed Hat Product Demo Platformをご利用頂くことでご自身でデモ環境を構築し、Workshopの内容を実施頂くことが可能です。
     </td>
     <td><!--  対象バージョン  -->
       -
