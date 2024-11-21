@@ -467,7 +467,8 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでRHELを管理するコース
+      本コースは、Red Hat Ansible Automation Platform を使用した Linux システム管理タスクの自動化を学びます。プロビジョニング、構成、アプリケーションの展開、およびオーケストレーションの自動化が必要な Linux システム管理者および開発者を対象としています。<br>
+      このコースは、Red Hat® Enterprise Linux® 8.4 および Red Hat Ansible Automation Platform 1.2 を基にしています。
     </td>
   </tr>
 
@@ -481,7 +482,8 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでNetworkを管理するコース
+    本コースは、ネットワーク自動化を使用して組織のネットワークインフラストラクチャ内のスイッチ、ルーター、その他のデバイスを集中管理したいと考えているネットワーク管理者やインフラストラクチャ自動化エンジニア向けに設計されています。Red Hat Ansible Automation Platform を使用して、ネットワークデバイスの構成をリモートで自動化し、現在のネットワークの状態をテストおよび検証し、コンプライアンスチェックを実行して構成のずれを検出し修正する方法を学びます。<br>
+    このコースは、Red Hat® Ansible Automation Platform 2.3 をベースとしています。
     </td>
   </tr>
 
@@ -495,7 +497,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでWindowsを管理するコース
+      本コースは。Microsoft Windows システムに対して、再現性があり、かつ大規模な一般的なシステム管理タスクを実行するための自動化プレイブックを Ansible を使用して作成したい Windows Server のプロフェッショナル向けに設計されています。 受講者は、Automation Controllerを使用して、統合されたWebベースのGUIから Ansible プレイブックを安全に管理および実行します。
     </td>
   </tr>
 

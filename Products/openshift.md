@@ -940,7 +940,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでRHELを管理するコース
+      本コースは、OpenShift クラスタ管理者を対象に、Kubernetes ワークロードの日常的な管理を行い、開発者、DevOps エンジニア、システム管理者、SRE と協力してアプリケーションワークロードの可用性を確保するための準備を行います。このコースでは、Web またはモバイル UI からアクセスされることが多く、クラウドネイティブおよびコンテナ化されたワークロードの大半を占める典型的なエンドユーザーアプリケーションの管理に重点的に取り組みます。アプリケーションの管理には、データベース、メッセージング、認証システムなどの依存関係のデプロイや更新も含まれます。
     </td>
   </tr>
 
@@ -954,7 +954,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでNetworkを管理するコース
+      本コースは、OpenShift クラスタ管理者を対象に、内部チームや外部ベンダーから提供されるアプリケーションをホストするクラスタで日常的な管理タスクを実行し、さまざまなロールを持つクラスタユーザー向けのセルフサービスを実現し、CI/CD ツール、パフォーマンス監視、セキュリティスキャナーなど特別な権限を必要とするアプリケーションをデプロイできるよう学習します。このコースでは、OpenShift のマルチテナンシーとセキュリティ機能の設定、および Operator に基づく OpenShift アドオンの管理に焦点を当てます。
     </td>
   </tr>
 
@@ -968,7 +968,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでWindowsを管理するコース
+      本コースは、組織内における OpenShift® クラスタの計画、実装、管理に必要なスキルを発展させることができます。OpenShift クラスタを大規模に設定および管理する方法を学習することで、アプリケーションからの増加し続ける要求や特殊な要求に対処し、信頼性、パフォーマンス、可用性を確保できるようになります。
     </td>
   </tr>
 
@@ -982,7 +982,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでWindowsを管理するコース
+      本コースは、Podman と Red Hat OpenShift を使用したコンテナの構築、実行、管理について紹介します。このコースでは、実践的な体験を通じて、コンテナ化アプリケーションを開発するためのコアスキルを構築します。これらのスキルは、Red Hat OpenShift on AWS (ROSA)、Azure Red Hat OpenShift、OpenShift Container Platform など、OpenShift のすべてのバージョンの使用に適用できます
     </td>
   </tr>
 
@@ -996,7 +996,8 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでWindowsを管理するコース
+      本コースは、PoC から本番まで、さまざまな環境に OpenShift クラスタをインストールするための基本的なスキルと、基盤となるクラウド、仮想、または物理インフラストラクチャに応じて必要になる場合があるカスタマイズを特定する方法を習得します。<br>
+      このコースは、Red Hat OpenShift Container Platform 4.6 に基づいています。
     </td>
   </tr>
 
@@ -1010,7 +1011,21 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでWindowsを管理するコース
+      企業はクラウドネイティブのマイクロサービス・アーキテクチャに移行しています。Quarkus は、コンテナに対応した超高速のデプロイ時間で Java Enterprise の信頼性、親しみやすさ、成熟度をもたらす、エキサイティングな新テクノロジーです。本コースは、アーキテクチャの原則の習得と、Quarkus の Red Hat ビルドおよび Red Hat OpenShift に基づいたマイクロサービスの実装に重点を置いています。アプリケーション開発の基礎知識に基づき、最新のマイクロサービス・アプリケーションを開発、モニター、テスト、デプロイする方法を学びます
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D58735696
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Managing Virtual Machines with Red Hat OpenShift Virtualization (DO316) v4.14
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、Red Hat OpenShift Virtualization Operatorを使用して OpenShift で仮想マシン (VM) を作成および管理するために必要な基本スキルを習得します。このコースを受講するのに、コンテナと Kubernetes の予備知識は必要ありません。
     </td>
   </tr>
 

@@ -340,7 +340,8 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでRHELを管理するコース
+      Red Hat OpenShift Platform Plus によるマルチクラスタ管理では、OpenShift クラスタのフリート全体で実行される、多様なアプリケーションのポートフォリオを維持するために必要なスキルを学びます。アプリケーションは容量と重要度によって決定される配置ルールに従い、クラスタ構成はガバナンスとセキュリティポリシーに準拠し、DevOpsの原則に従ってすべてが自動化されます。
+    このコースは Red Hat OpenShift Container Platform 4.10 と Red Hat Advanced Cluster Management 2.4 に基づいています。
     </td>
   </tr>
 

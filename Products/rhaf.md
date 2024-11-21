@@ -670,7 +670,8 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでRHELを管理するコース
+      Red Hat 3scale API Management によるクラウドネイティブ API (DO240) は、SRE や管理者が Red Hat® 3scale API Management でクラウドネイティブ API を管理するための入門コースです。このコースでは、開発者と管理者がクラウドネイティブ API をインストール、管理、収益化、セキュア化、文書化できるようにします。<br>
+      このコースは、Red Hat 3scale API Management 2.11 に基づいています。
     </td>
   </tr>
 
@@ -687,7 +688,12 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでRHELを管理するコース
+      Apache Camel プロジェクトに基づく Red Hat Fuse は、オンプレミスとクラウドの両方でクラウドネイティブなアプリケーションの迅速な統合を可能にする、軽量で柔軟な統合プラットフォームです。Camel の開発は、以下のような構成になっています：<br>
+      - 処理のシーケンスまたはフローを定義するルート。<br>
+      - Camelルート内のメッセージを変換、解釈、および変更するプロセッサ。<br>
+      - データを取得および送信するために外部とやり取りするエンドポイントの作成を可能にするコンポーネント。<br>
+      このコースでは、Apache Camel と OpenShift をベースにしたアーキテクチャパターンの学習とインテグレーションサービスの実装に重点を置いています。Camel と Red Hat Fuse により、開発者は複雑な統合をシンプルで保守可能な形式で作成することができます。Camel で最も一般的な統合コンポーネントを使用し、OpenShift 上で統合に焦点を当てたアプリケーションを開発、テスト、デプロイする方法を学びます。<br>
+      このコースは Red Hat Fuse 7.10 と OpenShift 4 に基づいています。
     </td>
   </tr>
 
@@ -704,7 +710,8 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでRHELを管理するコース
+      Kafka と AMQ Streams を使用して、イベント駆動型アプリケーションを設計、開発、テストする方法を学びます。イベント駆動型のマイクロサービスは、グローバルにスケールし、データを保存してストリーム処理し、顧客に低レイテンシーでフィードバックを提供します。<br>
+      このコースはアプリケーション開発者向けで、Red Hat AMQ Streams 1.8 と Red Hat OpenShift Container Platform 4.6 に基づいています。
     </td>
   </tr>
 

@@ -467,7 +467,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでRHELを管理するコース
+      本コースは、Linuxシステム管理の経験のないITプロフェッショナルを対象に設計されています。コアな管理タスクに重点的に取り組むことで、Linux管理の「サバイバルスキル」を習得できます。また、フルタイムのLinuxシステム管理者を目指す受講者を対象に、主要なコマンドラインの概念やエンタープライズレベルのツールを紹介することで、その基礎を築きます。
     </td>
   </tr>
 
@@ -481,7 +481,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでNetworkを管理するコース
+      このコースは、Red Hat System Administration I (RH124) コースを修了した受講者を対象に設計されています。本コースでは、フルタイムの Linux 管理者になるために必要な主要なタスクに焦点を当て、Red Hat 認定システム管理者試験を通じてそれらのスキルを検証します。このコースでは、ファイルシステム、パーティショニング、論理ボリューム、SELinux、ファイアウォール、トラブルシューティングなど、エンタープライズ Linux 管理についてより深く掘り下げていきます。
     </td>
   </tr>
 
@@ -495,7 +495,7 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       </a>
     </td>
     <td><!--  概要  -->
-      AAPでWindowsを管理するコース
+      本コースは、Red Hat Ansible Automation Platform を使用した Linux システム管理タスクの自動化を学びます。プロビジョニング、構成、アプリケーションの展開、およびオーケストレーションの自動化が必要な Linux システム管理者および開発者を対象としています。このコースは、Red Hat® Enterprise Linux® 8.4 および Red Hat Ansible Automation Platform 1.2 を基にしています。
     </td>
   </tr>
 
