@@ -145,7 +145,7 @@ sort: 7
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
+        Red Hat Advanced Cluster Security for Kubernetes Sizing Guide
     </td>
     <td><!--  概要  -->
       OpenShiftおよびその他のサポート対象のKubernetes環境向けにRHACS環境のサイズを決定する方法について説明します。
