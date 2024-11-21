@@ -18,7 +18,7 @@ sort: 5
 ```
 
 <b>
-最終更新日：2024/11/12
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -657,10 +657,11 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
     <th>対象職種</th><th>コース名</th><th>概要</th>
   </tr>
 
+  <td rowspan="4"><!--  ドキュメント名  -->
+      デリバリー
+  </td>
+
   <tr>
-    <td ><!--  ドキュメント名  -->
-        デリバリー
-    </td>
     <td ><!--  ドキュメント名  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44998085
@@ -676,9 +677,6 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
   </tr>
 
   <tr>
-    <td ><!--  ドキュメント名  -->
-        デリバリー
-    </td>
     <td ><!--  ドキュメント名  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898269
@@ -698,9 +696,6 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
   </tr>
 
   <tr>
-    <td ><!--  ドキュメント名  -->
-        デリバリー
-    </td>
     <td ><!--  ドキュメント名  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800086

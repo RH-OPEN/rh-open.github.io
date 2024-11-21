@@ -142,6 +142,30 @@ sort: 7
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes サブスクリプション説明資料
+    </td>
+    <td><!--  概要  -->
+      OpenShiftおよびその他のサポート対象のKubernetes環境向けにRHACS環境のサイズを決定する方法について説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=700503be-67d9-43a3-84a9-5fc79c06a8f0
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/11/21
+    </td>
+  </tr>
+
 </table>
 
 ### 01-04. ライフサイクル

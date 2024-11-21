@@ -18,7 +18,7 @@ sort: 8
 ```
 
 <b>
-最終更新日：2024/8/29
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -316,35 +316,29 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
 
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
 
 <table>
   <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
+    <th>対象職種</th><th>コース名</th><th>概要</th>
   </tr>
-
   <tr>
-    <td><!--  ドキュメント名  -->
-        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
+    <td ><!--  ドキュメント名  -->
+        デリバリー
     </td>
-    <td><!--  概要  -->
-      Red Hat OpenShift Data Foundationのアーキテクチャの詳細の学習、および製品のハンズオンラボを実施できるRed Hat Partner Training Portalのコンテンツです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
+    <td ><!--  ドキュメント名  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898270
-     " target="_blank" rel="noreferrer noopener">
+       " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation (DO370)
       </a>
     </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
+    <td><!--  概要  -->
+      Kubernetes 管理者が利用できる従来のストレージオプションは限られており、柔軟性や汎用性に欠けています。Red Hat OpenShift Data Foundation は、AWS EBS のようなクラウドストレージや SAN アレイなどの高度なオンプレミスのレガシーストレージを利用している場合でも真価を発揮します。多くの企業は、プロダクションでのバックアップと障害復旧の管理にサードパーティのソリューションを使用しています。ただし、これらのソリューションの実装を適切に計画するには、Kubernetes CSI および OAPD API の知識が必要です。このコースでは、コンテナおよび Kubernetes サービスのストレージサービスを設定および管理するための推奨手順を学習します。
     </td>
   </tr>
-
 </table>

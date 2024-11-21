@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/11/12
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
