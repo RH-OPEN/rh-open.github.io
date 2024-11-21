@@ -18,7 +18,7 @@ sort: 5
 ```
 
 <b>
-最終更新日：2024/8/29
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -647,7 +647,70 @@ RHAFに含まれる個別の製品についての技術情報を掲載いたし�
 
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+
+  <td rowspan="4"><!--  ドキュメント名  -->
+      デリバリー
+  </td>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44998085
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Cloud-Native API Administration with Red Hat 3scale API Management (DO240)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat 3scale API Management によるクラウドネイティブ API (DO240) は、SRE や管理者が Red Hat® 3scale API Management でクラウドネイティブ API を管理するための入門コースです。このコースでは、開発者と管理者がクラウドネイティブ API をインストール、管理、収益化、セキュア化、文書化できるようにします。<br>
+      このコースは、Red Hat 3scale API Management 2.11 に基づいています。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44898269
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Cloud-Native Integration with Red Hat Fuse (AD221)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Apache Camel プロジェクトに基づく Red Hat Fuse は、オンプレミスとクラウドの両方でクラウドネイティブなアプリケーションの迅速な統合を可能にする、軽量で柔軟な統合プラットフォームです。Camel の開発は、以下のような構成になっています：<br>
+      - 処理のシーケンスまたはフローを定義するルート。<br>
+      - Camelルート内のメッセージを変換、解釈、および変更するプロセッサ。<br>
+      - データを取得および送信するために外部とやり取りするエンドポイントの作成を可能にするコンポーネント。<br>
+      このコースでは、Apache Camel と OpenShift をベースにしたアーキテクチャパターンの学習とインテグレーションサービスの実装に重点を置いています。Camel と Red Hat Fuse により、開発者は複雑な統合をシンプルで保守可能な形式で作成することができます。Camel で最も一般的な統合コンポーネントを使用し、OpenShift 上で統合に焦点を当てたアプリケーションを開発、テスト、デプロイする方法を学びます。<br>
+      このコースは Red Hat Fuse 7.10 と OpenShift 4 に基づいています。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800086
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Developing Event-Driven Applications with Apache Kafka and Red Hat AMQ Streams (AD482)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Kafka と AMQ Streams を使用して、イベント駆動型アプリケーションを設計、開発、テストする方法を学びます。イベント駆動型のマイクロサービスは、グローバルにスケールし、データを保存してストリーム処理し、顧客に低レイテンシーでフィードバックを提供します。<br>
+      このコースはアプリケーション開発者向けで、Red Hat AMQ Streams 1.8 と Red Hat OpenShift Container Platform 4.6 に基づいています。
+    </td>
+  </tr>
+
+</table>
 
 ## 0４. その他
 

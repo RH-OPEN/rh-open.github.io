@@ -24,7 +24,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 ```
 
 <b>
-最終更新日：2024/11/07
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -281,4 +281,32 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+        デリバリー
+    </td>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D61020752
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Developing and Deploying AI/ML Applications on Red Hat OpenShift AI (AI267) v2.8
+      </a>
+    </td>
+    <td><!--  概要  -->
+      受講者にRed Hat OpenShiftを使用してAI/MLアプリケーションを開発・展開するための基本的な知識を提供するコースです。<br>
+      このコースでは、受講者がRed Hat OpenShift AIを活用して、機械学習モデルをトレーニングし、開発し、展開するための基盤となるスキルを習得できます。具体的には、実践的なガイド付きハンズオンを通じて、AI/MLアプリケーションの構築や運用に必要なツールやプロセスを学びます。受講者は、AI/MLのプロジェクトにおいてRed Hat OpenShift AIを効果的に利用できるようになることを目指します。
+    </td>
+  </tr>
+
+</table>

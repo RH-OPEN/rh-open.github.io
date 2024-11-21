@@ -18,7 +18,7 @@ sort: 2
 ```
 
 <b>
-最終更新日：2024/10/24
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -400,7 +400,108 @@ sort: 2
 
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+### 03-01. Partner Training Portal
+
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドロール  -->
+        営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D53412636
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux: Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      営業職の方向けにRed Hat Enterprise Linuxの製品知識を学習するコースです。<br>
+      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提コースとなる
+      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45953014" target="_blank" rel="noreferrer noopener">Red Hat Portfolio: Foundational</a> の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ロール  -->
+       技術営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D61432154
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux: Technical Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      技術営業職の方向けにRed Hat Enterprise Linuxの製品知識を学習するコースです。<br>
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提として営業職向けのコース"Red Hat Enterprise Linux: Seller"の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="3"><!--  ドキュメント名  -->
+        デリバリー
+    </td>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45162820
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat System Administration 1 (RH124) v9
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、Linuxシステム管理の経験のないITプロフェッショナルを対象に設計されています。コアな管理タスクに重点的に取り組むことで、Linux管理の「サバイバルスキル」を習得できます。また、フルタイムのLinuxシステム管理者を目指す受講者を対象に、主要なコマンドラインの概念やエンタープライズレベルのツールを紹介することで、その基礎を築きます。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45162821
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat System Administration 2 (RH134) v9
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このコースは、Red Hat System Administration I (RH124) コースを修了した受講者を対象に設計されています。本コースでは、フルタイムの Linux 管理者になるために必要な主要なタスクに焦点を当て、Red Hat 認定システム管理者試験を通じてそれらのスキルを検証します。このコースでは、ファイルシステム、パーティショニング、論理ボリューム、SELinux、ファイアウォール、トラブルシューティングなど、エンタープライズ Linux 管理についてより深く掘り下げていきます。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800099
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux Automation with Ansible (RH294)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、Red Hat Ansible Automation Platform を使用した Linux システム管理タスクの自動化を学びます。プロビジョニング、構成、アプリケーションの展開、およびオーケストレーションの自動化が必要な Linux システム管理者および開発者を対象としています。このコースは、Red Hat® Enterprise Linux® 8.4 および Red Hat Ansible Automation Platform 1.2 を基にしています。
+    </td>
+  </tr>
+
+</table>
+
+### 03-02. その他学習関連情報
 
 <table>
   <tr>

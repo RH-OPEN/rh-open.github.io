@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/10/1
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -745,37 +745,6 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
 
 </table>
 
-#### Red Hat OpenShift AI
-[Red Hat OpenShift AI](https://www.redhat.com/ja/technologies/cloud-computing/openshift/openshift-ai)は、OpenShift上で稼働する柔軟でスケーラブルな人工知能 (AI) および機械学習 (ML) プラットフォームです。AI/ML一連ライフサイクルをカバーするツール群を提供し、モデル開発からその後の本番環境提供まで、一貫したプラットフォーム上で実現します。 
-
-<table>
-  <tr>
-    <th>タイトル</th><th>概要</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      Red Hat OpenShift AI
-    </td>
-    <td><!--  概要  -->
-      OpenShift AIについて、製品の機能・メリット、および利用形態についてご紹介したスライド資料です。
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0f22a551-0693-4b09-a914-e37376d4a2c2
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/2/14
-    </td>
-  </tr>
-
-</table>
-
 #### Red Hat Trusted Software Supply Chain
 [Red Hat Trusted Software Supply Chain（RHTSSC）](https://www.redhat.com/ja/solutions/trusted-software-supply-chain)は、ソフトウェア・サプライチェーンの脆弱性に対するレジリエンスを強化するソリューションブランドです。
 
@@ -902,10 +871,167 @@ OpenShiftをクラウド上のマネージドサービスとして提供する�
 
 </table>
 
-
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+### 03-01. Partner Training Portal
+
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドロール  -->
+        営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D46189101
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift: Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      営業職の方向けにRed Hat OpenShiftの製品知識を学習するコースです。<br>
+      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提コースとなる
+      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45953014" target="_blank" rel="noreferrer noopener">Red Hat Portfolio: Foundational</a> の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ロール  -->
+       技術営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D47930701
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift: Technical Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      技術営業職の方向けにRed Hat OpenShiftの製品知識を学習するコースです。<br>
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提として営業職向けのコース "Red Hat OpenShift: Seller" の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="7"><!--  ドキュメント名  -->
+        デリバリー
+    </td>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D46105986
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Administration I: Managing Containers and Kubernetes (DO180) v4.12
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、OpenShift クラスタ管理者を対象に、Kubernetes ワークロードの日常的な管理を行い、開発者、DevOps エンジニア、システム管理者、SRE と協力してアプリケーションワークロードの可用性を確保するための準備を行います。このコースでは、Web またはモバイル UI からアクセスされることが多く、クラウドネイティブおよびコンテナ化されたワークロードの大半を占める典型的なエンドユーザーアプリケーションの管理に重点的に取り組みます。アプリケーションの管理には、データベース、メッセージング、認証システムなどの依存関係のデプロイや更新も含まれます。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D56845884
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster (DO280) v4.14
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、OpenShift クラスタ管理者を対象に、内部チームや外部ベンダーから提供されるアプリケーションをホストするクラスタで日常的な管理タスクを実行し、さまざまなロールを持つクラスタユーザー向けのセルフサービスを実現し、CI/CD ツール、パフォーマンス監視、セキュリティスキャナーなど特別な権限を必要とするアプリケーションをデプロイできるよう学習します。このコースでは、OpenShift のマルチテナンシーとセキュリティ機能の設定、および Operator に基づく OpenShift アドオンの管理に焦点を当てます。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800100
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Administration III: Scaling Kubernetes Deployments in the Enterprise (DO380)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、組織内における OpenShift® クラスタの計画、実装、管理に必要なスキルを発展させることができます。OpenShift クラスタを大規模に設定および管理する方法を学習することで、アプリケーションからの増加し続ける要求や特殊な要求に対処し、信頼性、パフォーマンス、可用性を確保できるようになります。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D46724328
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Developer I: Introduction to Containers with Podman (DO188) v4.12
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、Podman と Red Hat OpenShift を使用したコンテナの構築、実行、管理について紹介します。このコースでは、実践的な体験を通じて、コンテナ化アプリケーションを開発するためのコアスキルを構築します。これらのスキルは、Red Hat OpenShift on AWS (ROSA)、Azure Red Hat OpenShift、OpenShift Container Platform など、OpenShift のすべてのバージョンの使用に適用できます
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800093
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat OpenShift Installation Lab (DO322)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、PoC から本番まで、さまざまな環境に OpenShift クラスタをインストールするための基本的なスキルと、基盤となるクラウド、仮想、または物理インフラストラクチャに応じて必要になる場合があるカスタマイズを特定する方法を習得します。<br>
+      このコースは、Red Hat OpenShift Container Platform 4.6 に基づいています。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45928869
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Cloud-native Microservices Development with Quarkus (DO378) v2.13
+      </a>
+    </td>
+    <td><!--  概要  -->
+      企業はクラウドネイティブのマイクロサービス・アーキテクチャに移行しています。Quarkus は、コンテナに対応した超高速のデプロイ時間で Java Enterprise の信頼性、親しみやすさ、成熟度をもたらす、エキサイティングな新テクノロジーです。本コースは、アーキテクチャの原則の習得と、Quarkus の Red Hat ビルドおよび Red Hat OpenShift に基づいたマイクロサービスの実装に重点を置いています。アプリケーション開発の基礎知識に基づき、最新のマイクロサービス・アプリケーションを開発、モニター、テスト、デプロイする方法を学びます
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D58735696
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Managing Virtual Machines with Red Hat OpenShift Virtualization (DO316) v4.14
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、Red Hat OpenShift Virtualization Operatorを使用して OpenShift で仮想マシン (VM) を作成および管理するために必要な基本スキルを習得します。このコースを受講するのに、コンテナと Kubernetes の予備知識は必要ありません。
+    </td>
+  </tr>
+
+</table>
+
+### 03-02. その他学習関連情報
 
 <table>
   <tr>

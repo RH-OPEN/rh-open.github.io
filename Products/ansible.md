@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/8/29
+最終更新日：2024/11/21
 </b>
 
 ## 01. 製品説明資料
@@ -400,7 +400,110 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+### 03-01. Partner Training Portal
+
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+
+  <tr>
+    <td><!--  ドロール  -->
+        営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D46061676
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform: Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      営業職の方向けにRed Hat Ansible Automation Platformの製品知識を学習するコースです。<br>
+      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提コースとなる
+      <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45953014" target="_blank" rel="noreferrer noopener">Red Hat Portfolio: Foundational</a> の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ロール  -->
+       技術営業職
+    </td>
+    <td><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinklp%3D47930576
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Ansible Automation Platform: Technical Seller
+      </a>
+    </td>
+    <td><!--  概要  -->
+      技術営業職の方向けにRed Hat Ansible Automation Platformの製品知識を学習するコースです。<br>
+      <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
+      が発行されます。<br>
+      ※ 受講には、前提として営業職向けのコース"Red Hat Ansible Automation Platform: Seller"の受講完了が必要です。
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="3"><!--  ドキュメント名  -->
+        デリバリー
+    </td>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800099
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux Automation with Ansible (RH294)
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、Red Hat Ansible Automation Platform を使用した Linux システム管理タスクの自動化を学びます。プロビジョニング、構成、アプリケーションの展開、およびオーケストレーションの自動化が必要な Linux システム管理者および開発者を対象としています。<br>
+      このコースは、Red Hat® Enterprise Linux® 8.4 および Red Hat Ansible Automation Platform 1.2 を基にしています。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D52222688
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Network Automation with Red Hat Ansible Automation Platform (DO457) v2.3
+      </a>
+    </td>
+    <td><!--  概要  -->
+    本コースは、ネットワーク自動化を使用して組織のネットワークインフラストラクチャ内のスイッチ、ルーター、その他のデバイスを集中管理したいと考えているネットワーク管理者やインフラストラクチャ自動化エンジニア向けに設計されています。Red Hat Ansible Automation Platform を使用して、ネットワークデバイスの構成をリモートで自動化し、現在のネットワークの状態をテストおよび検証し、コンプライアンスチェックを実行して構成のずれを検出し修正する方法を学びます。<br>
+    このコースは、Red Hat® Ansible Automation Platform 2.3 をベースとしています。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D62194365
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Microsoft Windows Automation with Red Hat Ansible Automation Platform (DO417) v2.4
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは。Microsoft Windows システムに対して、再現性があり、かつ大規模な一般的なシステム管理タスクを実行するための自動化プレイブックを Ansible を使用して作成したい Windows Server のプロフェッショナル向けに設計されています。 受講者は、Automation Controllerを使用して、統合されたWebベースのGUIから Ansible プレイブックを安全に管理および実行します。
+    </td>
+  </tr>
+
+</table>
+
+### 03-02. その他学習関連情報
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -462,9 +565,9 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
     </td>
     <td><!--  概要  -->
       <a href="https://rh-open.github.io/training/contents.html#red-hat-product-demo-system-rhpds" target="_blank" rel="noreferrer noopener">
-      Red Hat Product Demo System</a>を使用したAnsibleのWorkshopページです。
+      Red Hat Product Demo Platform</a>を使用したAnsibleのWorkshopページです。
       Ansibleの様々なユースケース（Linux管理、Windows管理、Network管理、など）におけるWorkshopのシナリオが提供されます。
-      RHPDSをご利用頂くことでご自身でデモ環境を構築し、Workshopの内容を実施頂くことが可能です。
+      パートナー様はRed Hat Product Demo Platformをご利用頂くことでご自身でデモ環境を構築し、Workshopの内容を実施頂くことが可能です。
     </td>
     <td><!--  対象バージョン  -->
       -

@@ -18,7 +18,7 @@ sort: 7
 ```
 
 <b>
-最終更新日：2024/4/24
+最終更新日：2024/11/12
 </b>
 
 ## 01. 製品説明資料
@@ -142,6 +142,30 @@ sort: 7
       <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+        Red Hat Advanced Cluster Security for Kubernetes Sizing Guide
+    </td>
+    <td><!--  概要  -->
+      OpenShiftおよびその他のサポート対象のKubernetes環境向けにRHACS環境のサイズを決定する方法について説明します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td><!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=700503be-67d9-43a3-84a9-5fc79c06a8f0
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2023/11/21
+    </td>
+  </tr>
+
 </table>
 
 ### 01-04. ライフサイクル
@@ -309,6 +333,11 @@ sort: 7
 
 </table>
 
+<!--
 ## 03. 学習リソース
 
-製品の技術習得のための学習パスやハンズオンコンテンツについて掲載いたします。
+Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
+Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+--->
