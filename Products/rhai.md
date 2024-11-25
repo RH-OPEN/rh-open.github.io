@@ -24,7 +24,7 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 ```
 
 <b>
-最終更新日：2024/11/21
+最終更新日：2024/11/25
 </b>
 
 ## 01. 製品説明資料
@@ -38,10 +38,10 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
 
   <tr>
     <td><!--  ドキュメント名  -->
-      Partners - Red Hat OpenShift AI 101 deck
+      Red Hat OpenShift AIのご紹介
     </td>
     <td><!--  概要  -->
-      Red Hat OpenShift AIおよびRed Hat Enterprise Linux AIを紹介するプレゼンテーション資料です。
+      Red Hat OpenShift AIをご紹介するプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -49,14 +49,37 @@ OpenShift AI は、オンプレミスまたはクラウドで AI/ML モデルと
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/us/en/assets/display.html?id=f50f4634-ad7e-4872-bbcd-8fc179d0a90b
+        https://content.redhat.com/us/en/assets/display.html?id=6d3a0862-fe00-436a-a8fb-72337b1e9658
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/07
+      <!--  記載確認日  -->2024/11/25
+    </td>
+  </tr>
+  <tr>
+    <td><!--  ドキュメント名  -->
+      大規模言語モデルのチューニングと展開の新たな形 - InstructLab・RHEL AI
+    </td>
+    <td><!--  概要  -->
+      RHEL AIをご紹介するプレゼンテーション資料です。生成AIの抱える課題と、それを解決し得るソリューションとしてのRHEL AIおよびInstructLabをご紹介します。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=165c2c57-0e51-4936-91d6-fe58d5794ca5
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/11/25
     </td>
   </tr>
 </table>
