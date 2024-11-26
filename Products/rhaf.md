@@ -18,7 +18,7 @@ sort: 5
 ```
 
 <b>
-最終更新日：2024/11/21
+最終更新日：2024/11/25
 </b>
 
 ## 01. 製品説明資料
@@ -460,6 +460,30 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
     </td>
     <td>
       <!--  記載確認日  -->2023/6/12
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      3scale API Management サイジングガイドライン
+    </td>
+    <td><!--  概要  -->
+      3Scale API Managementについて、システム要件とサイジングのガイドを紹介するプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=d209ccc2-4cad-484d-b0d0-94687b8e1699
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/11/25
     </td>
   </tr>
 
