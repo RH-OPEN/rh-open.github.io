@@ -441,6 +441,9 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
 
 </table>
 
+
+<!--
+後々戻す
 ## 04. 関連情報
 
 <table>
@@ -449,117 +452,107 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
         Event-Driven Ansible ~ Developer Preview~
     </td>
-    <td><!--  概要  -->
+    <td>
       Ansible Fest 2022で発表されたEvent-Driven Ansible(EDA)について、機能やユースケースを含めた概要をご紹介します。録画の方では、実動作のデモもご頂けます。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=68dfe9d3-7142-4cf5-afde-765c6fd258a1
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=62d0918d-1137-4f21-a111-f347d09f3c82
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
         Ansible x Windows : AnsibleにおけるWindows対応の最新情報
     </td>
-    <td><!--  概要  -->
+    <td>
       AnsibleによるWindowsの自動化について、利用者が失敗しがちなWindows特有の考慮事項や、Windows関連のコレクション事情、よくあるトラブルについてご説明します。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=df1951e9-4659-4df8-ac09-a1deb762a81e
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=71f4a895-faa7-4311-a314-380cd5482dbf
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
         最近のAnsibleの使われ方~サポートケースを通して~
     </td>
-    <td><!--  概要  -->
+    <td>
       2023/03時点でのAnsibleの使われ方について、最新バージョンにおけるAnsibleのアーキテクチャと合わせ、Ansibleのサポートエンジニアの視点からの所見をの紹介いたします。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3b988650-42c6-420d-a3e6-3124e2e90949
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2f513e7b-d326-4101-96c7-415ee9e7bf02
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
         ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』
     </td>
-    <td><!--  概要  -->
+    <td>
       2019年5月に実施した「ITインフラの自動化を成功させるAnsibleのプラクティス『自動化2.0』」ウェビナー動画です。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://redhat.lookbookhq.com/c/jow0lohgy08?x=8XYa3o&lx=t84IoG
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
 
 </table>
+-->

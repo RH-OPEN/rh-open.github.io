@@ -54,29 +54,29 @@ sort: 7
     </td>
   </tr>
 
+<!-->
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
       OpenShift Container Platform Plusを使用したコンテナの保護
     </td>
-    <td><!--  概要  -->
+    <td>
       OpenShift Container Platform Plusを使用し、コンテナアプリケーションと実行環境を保護する方法について解説を行ったテクニカルプレゼンテーション資料です。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=18c828d4-67e0-4cb2-9abd-7b9aca098ce6
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/31
+      2023/3/31
     </td>
   </tr>
+-->
 
 </table>
 
@@ -246,10 +246,10 @@ sort: 7
 
   <tr>
     <td><!--  ドキュメント名  -->
-        Red Hat Advanced Cluster Security for Kubernetes 概要
+      Red Hat Advanced Cluster Security for Kubernetesのご紹介
     </td>
     <td><!--  概要  -->
-    RHACSについて、コンテナ化されたKubernetesワークロードを安全に保護するためのポイント、製品概要と機能を紹介するプレゼンテーション資料です。
+      コンテナ化されたKubernetesワークロードを安全に保護するためのポイント、製品概要と機能を紹介するプレゼンテーション資料です。
     </td>
     <td><!--  対象バージョン  -->
       -
@@ -257,38 +257,14 @@ sort: 7
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8eaf71d2-ab60-4f32-8446-0bee9971a0e3
+        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f81e689f-7bbd-47b8-a991-11e69d21dd6f
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td>
       <!--  記載確認日  -->2023/6/12
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Hands-On with Red Hat Advanced Cluster Security for Kubernetes
-    </td>
-    <td><!--  概要  -->
-    Red Hat Advanced Cluster Security for Kubernetesのハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
-    </td>
-    <td><!--  対象バージョン  -->
-      -
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -323,7 +299,7 @@ sort: 7
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=39fa33d0-50aa-4fce-8adf-3a19af7dc824
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td>
@@ -333,11 +309,32 @@ sort: 7
 
 </table>
 
-<!--
+
 ## 03. 学習リソース
 
 Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
 Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
 
 ※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
---->
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>対象職種</th><th>コース名</th><th>概要</th>
+  </tr>
+  <tr>
+    <td ><!--  ドキュメント名  -->
+        デリバリー
+    </td>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44914286
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Hands-On with Red Hat Advanced Cluster Security for Kubernetes
+      </a>
+    </td>
+    <td><!--  概要  -->
+      Red Hat Advanced Cluster Security for Kubernetesのハンズオンを実施できるRed Hat Partner Training Portalのコンテンツです。
+    </td>
+  </tr>
+</table>

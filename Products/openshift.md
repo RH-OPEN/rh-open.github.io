@@ -426,11 +426,11 @@ sort: 4
         https://content.redhat.com/us/en/assets/display.html?id=9b99a6aa-f28f-4adf-b338-19a0f8331ab4
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/11/27
+      <!--  記載確認日  -->2024/11/28
     </td>
   </tr>
 
@@ -450,7 +450,7 @@ sort: 4
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=39fa33d0-50aa-4fce-8adf-3a19af7dc824
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td>
@@ -474,7 +474,7 @@ sort: 4
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a00c729b-99ca-4dcf-842b-ef15bb2dd7a0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td>
@@ -611,37 +611,36 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
     </td>
   </tr>
 
+<!---
+後々戻す
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
       OpenShift Serverless
     </td>
-    <td><!--  概要  -->
+    <td>
       OpenShift Serverlessは、OpenShift上でサーバレスコンピューティングを実現するための機能です。
       本資料では、このOpenShift Sererlessのハイレベルな概要とアーキテクチャについて説明を行います。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/us/en/assets/display.html?id=0736029d-f34d-412d-a89f-cd508e75da98
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/us/en/assets/display.html?id=3c6e1d7a-e027-416a-abe1-c92dd3857745
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      2023/3/30
     </td>
   </tr>
+--->
 
   <tr>
     <td><!--  ドキュメント名  -->
@@ -727,19 +726,19 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
         Red Hat OpenShift Platform Plusのご紹介
     </td>
     <td><!--  概要  -->
-      OPPの概要とユースケースについてご紹介を行ったスライド資料です。
+      OpenShift Platform Plusについて解説を行った弊社ソリューションアーキテクトによるブログ記事です。
     </td>
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=596cba7d-7765-4ca9-bafb-bfcbc1f3d3a0
+        https://rheb.hatenablog.com/entry/2022/04/08/Red_Hat_OpenShift_Platform_Plus_%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        PDF
+        Link
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/11/28
     </td>
   </tr>
 
@@ -1134,17 +1133,10 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d61695b3-da3c-4433-824f-e60ec6a9d0c2
+        https://content.redhat.com/us/en/assets/display.html?id=d61695b3-da3c-4433-824f-e60ec6a9d0c2
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
-      </a>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=47134c5b-bc76-4b38-b9ab-ffa72d8edaff
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
       </a>
     </td>
     <td>
@@ -1170,14 +1162,6 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
         <!--  ドキュメント名  -->
         PDF
       </a>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=152e79c1-40b5-45a4-8226-6a610764d46a
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-        </td>
     <td>
       <!--  記載確認日  -->2023/3/30
     </td>
