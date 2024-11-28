@@ -5,7 +5,7 @@ sort: 1
 # Red Hat 製品共通情報（サブスクリプション、サポート）
 
 <b>
-最終更新日：2024/1/17
+最終更新日：2024/11/28
 </b>
 
 ## サポート関連資料
@@ -91,7 +91,7 @@ Red Hat製品サブスクリプションについて、見積もり方法に関�
     <td><!--  ドキュメントリンク -->
       <!--  リンク-->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=722d0c01-bfcc-4281-8406-e947baf66747
+        https://content.redhat.com/us/en/assets/display.html?id=2e194237-a230-42b3-9ed4-b1af7d40b26c
       " target="_blank" rel="noreferrer noopener">
       <!--  ドキュメント名  -->
         Red Hat Enterprise Linux サブスクリプション説明資料
@@ -126,7 +126,7 @@ Red Hat製品サブスクリプションについて、見積もり方法に関�
     <td><!--  ドキュメントリンク -->
       <!--  リンク-->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c0e72669-3ad6-4c7b-a756-c0317a9c9f5e
+        https://content.redhat.com/us/en/assets/display.html?id=e3b17790-f844-4d2b-80e1-9b774c338082
       " target="_blank" rel="noreferrer noopener">
       <!--  ドキュメント名  -->
         Red Hat Ansible Automation Platform サブスクリプション説明資料
@@ -160,7 +160,7 @@ Red Hat製品サブスクリプションについて、見積もり方法に関�
     <td><!--  ドキュメントリンク -->
       <!--  リンク-->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=25c86986-7533-446f-b789-94c1aa556749
+        https://content.redhat.com/us/en/assets/display.html?id=b00c30d9-ed70-4a8a-b4a5-c312f5c48217
       " target="_blank" rel="noreferrer noopener">
       <!--  ドキュメント名  -->
         Red Hat OpenShift サブスクリプション説明資料
@@ -194,7 +194,7 @@ Red Hat製品サブスクリプションについて、見積もり方法に関�
     <td><!--  ドキュメントリンク -->
       <!--  リンク-->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c8686fcd-0ef9-4f94-8771-18d0aee27ae0
+        https://content.redhat.com/us/en/assets/display.html?id=c8686fcd-0ef9-4f94-8771-18d0aee27ae0
       " target="_blank" rel="noreferrer noopener">
       <!--  ドキュメント名  -->
         Red Hat Application Fundations サブスクリプション説明資料

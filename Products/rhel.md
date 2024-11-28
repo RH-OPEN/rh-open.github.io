@@ -18,7 +18,7 @@ sort: 2
 ```
 
 <b>
-最終更新日：2024/11/21
+最終更新日：2024/11/28
 </b>
 
 ## 01. 製品説明資料
@@ -183,14 +183,14 @@ sort: 2
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=722d0c01-bfcc-4281-8406-e947baf66747
+        https://content.redhat.com/us/en/assets/display.html?id=2e194237-a230-42b3-9ed4-b1af7d40b26c
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/11/28
     </td>
   </tr>
 
@@ -385,7 +385,7 @@ sort: 2
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5e4d48d2-8eec-4152-89d2-df4a50cd552a
+        https://content.redhat.com/us/en/assets/display.html?id=0ea5b245-48a2-401c-b17d-b766c82f729c
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
