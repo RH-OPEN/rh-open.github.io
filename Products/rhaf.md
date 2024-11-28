@@ -514,8 +514,9 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=694fa6a4-87c9-48aa-a259-c9bee3cedcd8
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        資料
+        PDF
       </a>
+      <br>
       <a href="
         https://youtu.be/uPjVL_O2X40
      " target="_blank" rel="noreferrer noopener">
@@ -558,7 +559,7 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
         https://access.redhat.com/ja/articles/7054789
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Site
+        Link
       </a>
     </td>
     <td>
