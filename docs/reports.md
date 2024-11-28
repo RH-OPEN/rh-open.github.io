@@ -7,7 +7,7 @@ sort: 1
 DX・IT基盤強化・組織変革などビジネス課題におけるアプローチや戦略ガイドの資料などをまとめています。
 
 <b>
-最終更新日：2024/8/13
+最終更新日：2024/11/28
 </b>
 
 ## Red Hat製品のビジネス価値/アナリストマテリアル
@@ -165,24 +165,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     <td><!--  資料  -->
       <!--  リンク  -->  
       <a href="
-      https://www.redhat.com/ja/resources/alleviate-technical-debt-whitepaper
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        技術的負債を軽減
-      </a>
-    </td>
-    <td><!--  概要  -->
-    IT モダナイゼーションにより、現在のインフラストラクチャの技術的負債を削減し、時間と予算を解放してビジネスイノベーションをサポートする戦略的プロジェクトに割り当てられるようになります。どのプラットフォームとソリューションを選ぶかによって、達成できる最適化のレベルは大きく左右されます。このホワイトペーパーを読んで、モダナイゼーションを進める際にベンダーとソリューションを選択するための主な検討事項についてご確認ください。
-    </td>
-    <td><!--  発行日  -->
-      2023年2月27日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
       https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=82d27ed9-27da-4ba1-a289-bad19cedd6ed
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
@@ -314,24 +296,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
   </tr>
 
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1afab0f1-1649-4eb7-855f-aeb3d9618b94
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        クラウドでコンテナを導入すべき 8 つの理由
-      </a>
-    </td>
-    <td><!--  概要  -->
-    Microsoft Azure Red Hat OpenShift を使用してクラウドでコンテナを導入する 8 つのメリットについてご紹介します。
-    </td>
-    <td><!--  発行日  -->
-      2021年2月11日
-    </td>
-  </tr>
-
 </table>
 
 ## AI・機械学習
@@ -367,25 +331,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
   <tr><!-- 行1（見出し）-->
     <th>資料</th><th>概要</th><th>発行日</th>
   </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://www.redhat.com/ja/resources/kubernetes-native-security-whitepaper
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        Kubernetes ネイティブセキュリティ
-      </a>
-    </td>
-    <td><!--  概要  -->
-    既存のコンテナセキュリティのアプローチを超えて、クラウドネイティブ環境を強力に保護しましょう。Kubernetes ネイティブセキュリティの詳細をご覧ください。
-    </td>
-    <td><!--  発行日  -->
-      2023年6月14日
-    </td>
-  </tr>
-
 
   <tr>
     <td><!--  資料  -->
@@ -501,25 +446,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
     <td><!--  発行日  -->
       2023年3月27日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://www.redhat.com/ja/resources/6-ways-to-IT-automation-adoption-checklist
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        組織全体で IT 自動化を促進するための 6 つの方法
-      </a>
-    </td>
-    <td><!--  概要  -->
-   自動化は IT 組織が抱える最重要課題の 1 つです。それでもなお、多くの組織がタスクベースの自動化からエンタープライズ全体の IT 自動化の導入へと進展させる作業に苦労しています。
-   人々とプロセスが統一されたプラットフォームを利用すれば、IT 自動化のすべての価値を実現できます。ここでは、Red Hat® Ansible® Automation Platform を使用してエンタープライズ全体で自動化の導入を促進する 6 つの方法を紹介します。
-    </td>
-    <td><!--  発行日  -->
-      2023年 2月 22日
     </td>
   </tr>
 
@@ -660,24 +586,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
   </tr>
 
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=94a96786-e1a1-4548-8fe7-5d1cf7c53edb
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        より優れたアプリケーションを開発してデプロイするための 6 つの方法
-      </a>
-    </td>
-    <td><!--  概要  -->
-    競争上の優位性を獲得し、効率的な運用を行うために、IT チームは斬新で革新的なアプリケーションを迅速に開発し、提供する必要があります。アプリケーションの品質、スピード、安定性を向上させるために、本書で紹介される6つの方法を検討してください。
-    </td>
-    <td><!--  発行日  -->
-      2020年 12月 21日
-    </td>
-  </tr>
-
 </table>
 
 <!-- >## 組織変革・人材育成<--->
@@ -704,42 +612,6 @@ DX・IT基盤強化・組織変革などビジネス課題におけるアプロ�
     </td>
     <td><!--  発行日  -->
       2021年7月14日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=bebbbd9f-4f85-4a78-8410-5959797a82c3
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        SAP S/4HANA 移行をスピードアップ
-      </a>
-    </td>
-    <td><!--  概要  -->
-    Red Hat® Ansible® Automation Platform は、SAP S/4HANA® への移行や IT および SAP 環境全体の自動化をお客様のペースで実行できるようサポートします。
-    </td>
-    <td><!--  発行日  -->
-      2020年10月8日
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://content.redhat.com/us/en/assets/display.html?id=3aeb6165-9c50-43ce-89de-269d716aef41
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        SAP 運用をスピードアップ
-      </a>
-    </td>
-    <td><!--  概要  -->
-    Red Hat® Ansible® Automation Platform を活用すると SAP® の運用を自動化できるため、IT スタッフは競争力を高めるための開発とイノベーションにフォーカスできます。
-    </td>
-    <td><!--  発行日  -->
-      2021年1月28日
     </td>
   </tr>
 

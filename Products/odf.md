@@ -93,7 +93,7 @@ sort: 8
 
 2022/10/4にODFはRed HatからIBM社へ製品が移管されることとなり、2023年以降はIBM社より開発・提供が行われることとなりました。
 こちらに伴い、Red HatからのODF単独での提供は終了となり、OpenShift Platform Plusの機能の一つとして提供が行われます。
-OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご紹介](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=596cba7d-7765-4ca9-bafb-bfcbc1f3d3a0)をご参照ください。
+OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご紹介](https://rheb.hatenablog.com/entry/2022/04/08/Red_Hat_OpenShift_Platform_Plus_%E3%81%AE%E3%81%94%E7%B4%B9%E4%BB%8B)をご参照ください。
 
 ### 01-04. ライフサイクル
 
@@ -285,30 +285,6 @@ OpenShift Platform Plusについては、[Red Hat OpenShift Platform Plusのご�
     </td>
     <td>
       <!--  記載確認日  -->2023/10/27
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Data Foundation Business - ODF4.12 What's New deck - JP
-    </td>
-    <td><!--  概要  -->
-      OpenShift Data Foundationのバージョン4.12における更新情報をご紹介するテクニカルプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 4.12
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="  
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c3575a2c-b115-4911-b82f-d1faec86c611
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/8/1
     </td>
   </tr>
 

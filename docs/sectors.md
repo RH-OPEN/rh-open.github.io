@@ -7,7 +7,7 @@ sort: 2
 Red Hat の導入事例資料を業種別にまとめています。
 
 <b>
-最終更新日：2024/8/13
+最終更新日：2024/11/28
 </b>
 
 ## 金融
@@ -21,24 +21,6 @@ Red Hat の導入事例資料を業種別にまとめています。
 <table>
   <tr><!-- 行1（見出し）-->
     <th>資料</th><th>概要</th><th>発行日</th>
-  </tr>
-
-  <tr>
-    <td><!--  資料  -->
-      <!--  リンク  -->  
-      <a href="
-      https://www.redhat.com/ja/resources/ntt-east-customer-case-study
-      " target="_blank" rel="noreferrer noopener">
-        <!--  タイトル  -->
-        NTT東日本、データ活用で地域社会の課題解決を推進する「映像AIサービス」を開発
-      </a>
-    </td>
-    <td><!--  概要  -->
-    東日本電信電話株式会社（NTT East）は、堅牢な情報および通信技術（ICT）の基盤により地域社会を支援します。当サービスプロバイダーは地域の企業および組織にエッジコンピューティングのデータ分析を提供するために、Regional Edge with Interconnected Wide-Area Network (REIWA) プロジェクトを開始しました。同プロジェクトの第一段階である Video AI Serviceを構築するのに、NTT EastはエンタープライズコンテナプラットフォームのRed Hat® OpenShift® を使用しました。この新サービスは、多種多様な業界におけるお客様が、売上、マーケティング、事業運営を向上し、継続中のAIイノベーションの基盤を築くのに役立っています。
-    </td>
-    <td><!--  発行日  -->
-      2023年5月10日
-    </td>
   </tr>
 
   <tr>

@@ -514,8 +514,9 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=694fa6a4-87c9-48aa-a259-c9bee3cedcd8
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        資料
+        PDF
       </a>
+      <br>
       <a href="
         https://youtu.be/uPjVL_O2X40
      " target="_blank" rel="noreferrer noopener">
@@ -558,7 +559,7 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
         https://access.redhat.com/ja/articles/7054789
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Site
+        Link
       </a>
     </td>
     <td>
@@ -567,6 +568,8 @@ RHAFに含まれる各種製品について、サイジングの参考情報を�
   </tr>
 </table>
 
+
+<!--
 ### 02-03. 個別コンポーネント
 
 RHAFに含まれる個別の製品についての技術情報を掲載いたします。
@@ -577,97 +580,89 @@ RHAFに含まれる個別の製品についての技術情報を掲載いたし�
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
       デモを使ったCamel Kユースケース紹介
     </td>
-    <td><!--  概要  -->
+    <td>
       Red Hat Application Foundationsのコンポーネントの一つであるCamel Kについて、製品の概要とユースケースをご紹介するプレゼンテーション資料です。
       動画では、実機を使用したデモもご紹介しています。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=731d47cd-0313-45da-a329-83d91fbe0031
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>,
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bff12fcf-d01c-4463-95a8-d1749d0b9458
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/4/24
+      2023/4/24
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
       Debeziumを使ったChange Data Captureのご紹介
     </td>
-    <td><!--  概要  -->
+    <td>
       Red Hat Application Foundationsに含まれるコンポーネントであるDebeziumについて、製品の概要と、Debeziumを使用したChange Data Captureについてご紹介を行うプレゼンテーション資料です。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=02097ed6-27fb-4bee-9e20-82be906c77e7
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
-      </a>,
+      </a>
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=49390cb8-62f4-4940-bd22-eadcec9b92fd
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/4/24
+      2023/4/24
     </td>
   </tr>
 
   <tr>
-    <td><!--  ドキュメント名  -->
+    <td>
       AMQ Streams 101 ショート Ver
     </td>
-    <td><!--  概要  -->
+    <td>
       Red Hat Application Foundationのコンポーネントの一つであるAMQ Streamsについて概要を紹介するプレゼンテーション資料です。
     </td>
-    <td><!--  対象バージョン  -->
+    <td>
       -
     </td>
     <td>
-      <!--  リンク先  -->
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=949dca08-5269-46b0-9b4e-3ca420aa331d
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         PDF
       </a>,
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=92115de3-7ca0-4c18-82a3-bd9703f7f48f
      " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/4/24
+      2023/4/24
     </td>
   </tr>
-
 </table>
+
+-->
 
 ## 03. 学習リソース
 

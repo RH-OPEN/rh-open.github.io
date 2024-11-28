@@ -268,7 +268,7 @@ sort: 6
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d7f2b4d2-a7be-4e2c-9ed5-3c57d482ca83
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
-        資料
+        PDF
       </a>
     </td>
     <td>
@@ -305,7 +305,7 @@ sort: 6
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=39fa33d0-50aa-4fce-8adf-3a19af7dc824
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
-        Link
+        PDF
       </a>
     </td>
     <td>
