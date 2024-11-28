@@ -48,18 +48,6 @@ sort: 3
 
   <tr>
     <td><!--  イベント名/リンク  -->
-      <a href="https://www.redhat.com/ja/red-hat-forum-apac-2021">Red Hat Forum 2021</a>
-    </td>
-    <td><!--  開催日 -->
-      2021/10/20
-    </td>
-    <td><!--  概要 -->
-      企業がこれまで以上に変革を進め、既存の組織やプロセスを見直しDXを実現する中で直面した課題をどのように解決し、競争に勝ち抜くために必要な先進事例や最新動向をお届けします。
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  イベント名/リンク  -->
       <a href="https://tracks.redhat.com/l/ansible-automates-2021-japan?sc_cid=7013a000002wENWAA2">Red Hat Ansible Automates 2021 Japan</a>
     </td>
     <td><!--  開催日 -->
