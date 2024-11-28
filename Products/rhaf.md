@@ -621,7 +621,7 @@ RHAFに含まれる個別の製品についての技術情報を掲載いたし�
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=02097ed6-27fb-4bee-9e20-82be906c77e7
      " target="_blank" rel="noreferrer noopener">
         PDF
-      </a>,
+      </a>
       <a href="
         https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=49390cb8-62f4-4940-bd22-eadcec9b92fd
      " target="_blank" rel="noreferrer noopener">
@@ -658,11 +658,10 @@ RHAFに含まれる個別の製品についての技術情報を掲載いたし�
     <td>
       2023/4/24
     </td>
--->
-
   </tr>
-
 </table>
+
+-->
 
 ## 03. 学習リソース
 
