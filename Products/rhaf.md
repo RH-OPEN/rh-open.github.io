@@ -143,14 +143,14 @@ sort: 5
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c8686fcd-0ef9-4f94-8771-18d0aee27ae0
+        https://content.redhat.com/us/en/assets/display.html?id=c8686fcd-0ef9-4f94-8771-18d0aee27ae0
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/11/28
     </td>
   </tr>
 

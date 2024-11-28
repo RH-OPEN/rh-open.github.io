@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/11/21
+最終更新日：2024/11/28
 </b>
 
 ## 01. 製品説明資料
@@ -158,7 +158,7 @@ sort: 4
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=25c86986-7533-446f-b789-94c1aa556749
+        https://content.redhat.com/us/en/assets/display.html?id=b00c30d9-ed70-4a8a-b4a5-c312f5c48217
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
@@ -412,6 +412,30 @@ sort: 4
 
   <tr>
     <td><!--  ドキュメント名  -->
+        What's New in OpenShift 4.16 - JP
+    </td>
+    <td><!--  概要  -->
+      OpenShift 4.12における新機能について紹介を行うプレゼンテーション資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      4.12
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=9b99a6aa-f28f-4adf-b338-19a0f8331ab4
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Link
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2024/11/27
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
         What's New in OpenShift 4.15 - JP
     </td>
     <td><!--  概要  -->
@@ -455,30 +479,6 @@ sort: 4
     </td>
     <td>
       <!--  記載確認日  -->2023/7/5
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        What's New in OpenShift 4.12 - JP
-    </td>
-    <td><!--  概要  -->
-      OpenShift 4.12における新機能について紹介を行うプレゼンテーション資料です。
-    </td>
-    <td><!--  対象バージョン  -->
-      4.12
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2112c713-2e05-461b-aebb-bf93736c87a5
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
     </td>
   </tr>
 
@@ -593,21 +593,21 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8bd02a46-de52-4c7c-b8ef-f0895e81bab9
+        https://content.redhat.com/us/en/assets/display.html?id=9f0d5365-7bc6-493e-840b-d87b92692ae8
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=81f4f0d2-3653-4ae0-ad37-2bfa64cfe37e
+        https://content.redhat.com/us/en/assets/display.html?id=2726eaf7-53cd-44eb-9104-18a6039b2d5a
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/11/28
     </td>
   </tr>
 
@@ -657,14 +657,14 @@ OpenShiftのサブスクリプションに含まれる機能群について機�
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e09ac1b-d44e-4ba3-b54a-741851b30a85
+        https://content.redhat.com/us/en/assets/display.html?id=3e09ac1b-d44e-4ba3-b54a-741851b30a85
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF
       </a>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4d165ab2-ee5e-4cb7-8564-66f9d6f4f27f
+        https://content.redhat.com/us/en/assets/display.html?id=4d165ab2-ee5e-4cb7-8564-66f9d6f4f27f
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         動画

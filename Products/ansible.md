@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/11/21
+最終更新日：2024/11/28
 </b>
 
 ## 01. 製品説明資料
@@ -64,7 +64,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2024/8/29
+      <!--  記載確認日  -->2024/11/28
     </td>
   </tr>
 
@@ -187,159 +187,12 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ## 02. 製品技術資料
 
 ### 02-01. アーキテクチャ
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        ABU | Red Hat Ansible Automation Platform Technical Deck ~日本語機械翻訳版~
-    </td>
-    <td><!--  概要  -->
-      Red Hat Ansible Automation Platform 2.2の製品紹介プレゼンテーション資料です。
-      Red Hat Ansible Automation のハイレベルな紹介と、その価値と利点を顧客とパートナーに提供することを目的にしています。 
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.2
-    </td>
-    <td><!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform 2.1 製品説明資料（技術編）
-    </td>
-    <td><!--  概要  -->
-      Red Hat Ansible Automation Platform 2.1の製品紹介プレゼンテーション資料です。
-      Version2.1における製品アーキテクチャの説明が記載されています。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.1
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://bit.ly/3JXmYCF
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
+[Ansible Automation Platform デッキファインダー](https://ansible.github.io/slides/README_jp.html)をご参照ください
 
 ### 02-02. 更新情報
 [Ansible Automation Platform デッキファインダー](https://ansible.github.io/slides/README_jp.html)をご参照ください
 
-### 02-03. アップグレード
-
-製品の特定バージョンに対し、アップグレードに向けたご説明資料が存在する場合に記載を行います。
-
-<table>
-  <tr><!-- 行1（見出し）-->
-    <th>タイトル</th><th>概要</th><th>対象バージョン</th><th>資料</th><th>記載確認日</th>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        AAP1.2EOL直前! AAP2.xの新機能とバージョンアップシナリオのおさらい
-    </td>
-    <td><!--  概要  -->
-    Ansible Automation Platform(AAP)1.2は2023/9にEOLを迎え、継続利用のためにはAAP2.xへのメジャーバージョンアップが必要となります。
-    本資料ではAAP2.x系における新機能やアーキテクチャの変更内容と、バージョンアップ時に取れるシナリオをご説明いたします。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 1.2
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=abea9ac2-afde-4321-9686-1316b77493c9
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cdc5e35b-f7b0-4271-891b-fbbc48c6dfae
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        動画
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Red Hat Ansible Automation Platform 2 への移行を準備するための 5 つの方法
-    </td>
-    <td><!--  概要  -->
-    Red Hat Ansible Automation Platformでは、バージョン1.xから2.xにあたりアーキテクチャや設定が一部変更となっています。
-    このチェックリストでは、2.x系へのバージョナップを実施するにあたり、事前にご準備・ご考慮が必要となる内容を明示しています。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.x
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/resources/prepare-for-migration-ansible-automation-2-checklist
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-        Ansible Automation Platform 2.1 のご紹介 Part2 - アップグレード編（その１）
-    </td>
-    <td><!--  概要  -->
-    Red Hat Ansible Automation Platformをバージョン1.x系から2.x系にバージョンアップする具体的な手順を解説した弊社ソリューションアーキテクトによるブログ記事です。
-    バージョンアップのご参考情報としてお使いください。
-    </td>
-    <td><!--  対象バージョン  -->
-      Version 2.x
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://rheb.hatenablog.com/entry/aap21-part2_1
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        Link
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2023/3/30
-    </td>
-  </tr>
-
-</table>
-
-### 02-04. 導入Tips
+### 02-03. 導入Tips
 
 製品の導入時、設計・構築の参考となる情報を掲載いたします。
 

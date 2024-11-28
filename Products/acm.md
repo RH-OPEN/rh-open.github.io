@@ -18,7 +18,7 @@ sort: 6
 ```
 
 <b>
-最終更新日：2024/11/21
+最終更新日：2024/11/28
 </b>
 
 ## 01. 製品説明資料
@@ -99,14 +99,14 @@ sort: 6
     </td>
     <td> <!--  資料  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4f8d048c-0458-4348-aca5-10a267c9e278
+        https://content.redhat.com/us/en/assets/display.html?id=41b985a3-8a5d-45c9-bca4-76b5e6805cd2
       " target="_blank" rel="noreferrer noopener">
         <!--  タイトル  -->
         PDF
       </a>
     </td>
     <td>
-      <!--  記載確認日  -->2023/3/30
+      <!--  記載確認日  -->2024/11/28
     </td>
   </tr>
 </table>
