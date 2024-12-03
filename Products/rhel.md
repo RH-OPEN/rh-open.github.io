@@ -407,11 +407,12 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
 
 ※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
 
+* 営業職・技術営業職向け
+
 <table>
   <tr><!-- 行1（見出し）-->
     <th>対象職種</th><th>コース名</th><th>概要</th>
   </tr>
-
   <tr>
     <td><!--  ドロール  -->
         営業職
@@ -433,7 +434,6 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
       <a href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45731234" target="_blank" rel="noreferrer noopener">Red Hat Portfolio: Foundational</a> の受講完了が必要です。
     </td>
   </tr>
-
   <tr>
     <td><!--  ロール  -->
        技術営業職
@@ -448,16 +448,39 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
     </td>
     <td><!--  概要  -->
       技術営業職の方向けにRed Hat Enterprise Linuxの製品知識を学習するコースです。<br>
+      複数のモジュールで構成されており、全て受講完了すると対外的に知識の習得を証明する
       <a href="https://www.redhat.com/ja/about/digital-credential-program" target="_blank" rel="noreferrer noopener">Red Hat デジタルクレデンシャル</a>
       が発行されます。<br>
       ※ 受講には、前提として営業職向けのコース"Red Hat Enterprise Linux: Seller"の受講完了が必要です。
     </td>
   </tr>
+</table>
+
+* デリバリーエンジニア向け：Red Hat 認定システム管理者のスキルパス<br>
+以下のコースは、[Red Hat 認定エンジニア(RHCE)](https://www.redhat.com/ja/services/certification/rhce)の対象となるスキルを学べるコース群です。
+これからRHELについて学習を開始される方は、まずはこれらのコースにお取り組みください。<br>
+RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com/ja/resources/enterprise-linux-skills-path-brief)のページをご確認ください。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>コース名</th><th>概要</th>
+  </tr>
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D60675691
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux Technical Overview (RH024) v8.0
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、IT プロフェッショナル向けに Linux® の基礎を説明する無料のオンデマンド型オンライン動画シリーズです。
+      内容は Red Hat® Enterprise Linux 8 に基づいています。
+    </td>
+  </tr>
 
   <tr>
-    <td rowspan="3"><!--  ドキュメント名  -->
-        デリバリー
-    </td>
     <td ><!--  ドキュメント名  -->
       <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45162820
@@ -488,6 +511,20 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
   <tr>
     <td ><!--  ドキュメント名  -->
       <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D63306228
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        RHCSA Rapid Track (RH199) v9.3
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このコースは、すでに一定のLinux管理経験をお持ちの受講者がRed Hat Enterprise Linuxの管理を学ぶための速習コースです。上述のRH124とRH134の2コースの重要な内容をピックアップして構成されています。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
         https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D44800099
        " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
@@ -496,6 +533,71 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
     </td>
     <td><!--  概要  -->
       本コースは、Red Hat Ansible Automation Platform を使用した Linux システム管理タスクの自動化を学びます。プロビジョニング、構成、アプリケーションの展開、およびオーケストレーションの自動化が必要な Linux システム管理者および開発者を対象としています。このコースは、Red Hat® Enterprise Linux® 8.4 および Red Hat Ansible Automation Platform 1.2 を基にしています。
+    </td>
+  </tr>
+
+</table>
+
+* デリバリーエンジニア向け：高度な Red Hat Enterprise Linux スキル<br>
+以下のコースは、RHELをより高度に管理するためのユースケース別のコース群です。先に前述のRed Hat 認定システム管理者のスキルパスのコースを完了されてから取り組むことを推奨いたします。
+
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>コース名</th><th>概要</th>
+  </tr>
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D60312770
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux Diagnostics and Troubleshooting (RH342) v8.4
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、システム管理者を対象としたものであり、さまざまな潜在的な問題を適切に診断および解決するために必要なツールと手法を提供します。受講者は、実践的な形式でさまざまなサブシステムの問題に取り組み、一般的な問題を診断および解決します。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D56889719
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Security: Linux in Physical, Virtual, and Cloud (RH415) v9.2
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、プライベート・データセンターおよびパブリッククラウド・プラットフォームの両方で、物理ハードウェア上、または仮想マシンまたはクラウドインスタンスとしてデプロイされた、Red Hat Enterprise Linux を実行するコンピュータシステムの安全な運用を管理する必要があるセキュリティ管理者およびシステム管理者向けです。OpenSCAP、Red Hat Insights、Red Hat Satellite、Red Hat Ansible Automation Platform を使用して、コンプライアンスを監視し、問題を事前に特定して優先順位を付け、解決する方法を習得します。
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45162821
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Security: Identity Management and Active Directory Integration (RHEL) (RH362) v 9.1
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このコースは、Red Hat Enterprise Linux にバンドルされている包括的な ID 管理コンポーネントである Identity Management (IdM) の設定と管理に必要なスキルを提供します。このコースは、お客様からの要望が最も多いこのテクノロジーに関するスキルを習得するのに役立ちます。
+    </td>
+  </tr>
+
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D46105988
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Satellite 6 Administration (RH403) v6.11
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このコースは、Red Hat® Enterprise Linux® システムの大規模な管理を成功に導くために必要な概念と方法を学習する、演習ベースのコースです。サーバーに Red Hat Satellite 6 を設定してソフトウェア・パッケージを追加する方法について学びます。受講者は Red Hat Satellite を使用して、サブスクライブされたホストとその設定のソフトウェア開発ライフサイクルを管理し、ソフトウェアおよび Ansible® 設定管理を組み込んだホストをデプロイ時にプロビジョニングする方法について学びます。
     </td>
   </tr>
 
