@@ -454,7 +454,8 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
   </tr>
 </table>
 
-* <b>デリバリーエンジニア向け：Red Hat 認定システム管理者のスキルパス</b> <br>
+* <b>デリバリーエンジニア向け：Red Hat 認定システム管理者のスキルパス</b>
+
 デリバリーエンジニアの方が、[Red Hat 認定エンジニア(RHCE)](https://www.redhat.com/ja/services/certification/rhce)の対象となるスキルを学べるコース群です。
 これからRHELについて学習を開始される方は、まずはこれらのコースにお取り組みください。<br>
 RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com/ja/resources/enterprise-linux-skills-path-brief)のページをご確認ください。
@@ -533,7 +534,8 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
   </tr>
 </table>
 
-* <b>デリバリーエンジニア向け：高度な Red Hat Enterprise Linux スキル</b> <br>
+* <b>デリバリーエンジニア向け：高度な Red Hat Enterprise Linux スキル</b>
+
 RHELをより高度に管理するためのユースケース別のコース群です。先に前述のRed Hat 認定システム管理者のスキルパスのコースを完了されてから取り組むことを推奨いたします。
 
 ※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
@@ -571,7 +573,7 @@ RHELをより高度に管理するためのユースケース別のコース群�
   <tr>
     <td ><!--  ドキュメント名  -->
       <a href="
-        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45162821
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D48543561
        " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Red Hat Security: Identity Management and Active Directory Integration (RHEL) (RH362) v 9.1
