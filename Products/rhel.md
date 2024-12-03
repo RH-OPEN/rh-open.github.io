@@ -533,6 +533,70 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
   </tr>
 </table>
 
+* <b>デリバリーエンジニア向け：高度な Red Hat Enterprise Linux スキル</b> <br>
+RHELをより高度に管理するためのユースケース別のコース群です。先に前述のRed Hat 認定システム管理者のスキルパスのコースを完了されてから取り組むことを推奨いたします。
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
+
+<table>
+  <tr><!-- 行1（見出し）-->
+    <th>コース名</th><th>概要</th>
+  </tr>
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D60312770
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Enterprise Linux Diagnostics and Troubleshooting (RH342) v8.4
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、システム管理者を対象としたものであり、さまざまな潜在的な問題を適切に診断および解決するために必要なツールと手法を提供します。受講者は、実践的な形式でさまざまなサブシステムの問題に取り組み、一般的な問題を診断および解決します。
+    </td>
+  </tr>
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D56889719
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Security: Linux in Physical, Virtual, and Cloud (RH415) v9.2
+      </a>
+    </td>
+    <td><!--  概要  -->
+      本コースは、プライベート・データセンターおよびパブリッククラウド・プラットフォームの両方で、物理ハードウェア上、または仮想マシンまたはクラウドインスタンスとしてデプロイされた、Red Hat Enterprise Linux を実行するコンピュータシステムの安全な運用を管理する必要があるセキュリティ管理者およびシステム管理者向けです。OpenSCAP、Red Hat Insights、Red Hat Satellite、Red Hat Ansible Automation Platform を使用して、コンプライアンスを監視し、問題を事前に特定して優先順位を付け、解決する方法を習得します。
+    </td>
+  </tr>
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45162821
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Security: Identity Management and Active Directory Integration (RHEL) (RH362) v 9.1
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このコースは、Red Hat Enterprise Linux にバンドルされている包括的な ID 管理コンポーネントである Identity Management (IdM) の設定と管理に必要なスキルを提供します。このコースは、お客様からの要望が最も多いこのテクノロジーに関するスキルを習得するのに役立ちます。
+    </td>
+  </tr>
+  <tr>
+    <td ><!--  ドキュメント名  -->
+      <a href="
+        https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D46105988
+       " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        Red Hat Satellite 6 Administration (RH403) v6.11
+      </a>
+    </td>
+    <td><!--  概要  -->
+      このコースは、Red Hat® Enterprise Linux® システムの大規模な管理を成功に導くために必要な概念と方法を学習する、演習ベースのコースです。サーバーに Red Hat Satellite 6 を設定してソフトウェア・パッケージを追加する方法について学びます。受講者は Red Hat Satellite を使用して、サブスクライブされたホストとその設定のソフトウェア開発ライフサイクルを管理し、ソフトウェアおよび Ansible® 設定管理を組み込んだホストをデプロイ時にプロビジョニングする方法について学びます。
+    </td>
+  </tr>
+</table>
+
+
 ### 03-02. その他学習関連情報
 
 <table>
