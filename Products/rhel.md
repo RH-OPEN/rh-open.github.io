@@ -18,7 +18,7 @@ sort: 2
 ```
 
 <b>
-最終更新日：2024/11/28
+最終更新日：2024/12/3
 </b>
 
 ## 01. 製品説明資料
@@ -405,9 +405,7 @@ sort: 2
 Red hat Partner Training Portalで提供されるラーニングコンテンツを紹介いたします。<br>
 Partner Training Portaのご利用方法については、[Red Hat Partner Training Portal利用手順](../offering/usage-ptp.html) をご参照ください。<br>
 
-※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
-
-* 営業職・技術営業職向け
+* <b>営業職・技術営業職向け</b>
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -456,10 +454,12 @@ Partner Training Portaのご利用方法については、[Red Hat Partner Train
   </tr>
 </table>
 
-* デリバリーエンジニア向け：Red Hat 認定システム管理者のスキルパス<br>
-以下のコースは、[Red Hat 認定エンジニア(RHCE)](https://www.redhat.com/ja/services/certification/rhce)の対象となるスキルを学べるコース群です。
+* <b>デリバリーエンジニア向け：Red Hat 認定システム管理者のスキルパス</b> <br>
+デリバリーエンジニアの方が、[Red Hat 認定エンジニア(RHCE)](https://www.redhat.com/ja/services/certification/rhce)の対象となるスキルを学べるコース群です。
 これからRHELについて学習を開始される方は、まずはこれらのコースにお取り組みください。<br>
 RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com/ja/resources/enterprise-linux-skills-path-brief)のページをご確認ください。
+
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -479,7 +479,6 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
       内容は Red Hat® Enterprise Linux 8 に基づいています。
     </td>
   </tr>
-
   <tr>
     <td ><!--  ドキュメント名  -->
       <a href="
@@ -493,7 +492,6 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
       本コースは、Linuxシステム管理の経験のないITプロフェッショナルを対象に設計されています。コアな管理タスクに重点的に取り組むことで、Linux管理の「サバイバルスキル」を習得できます。また、フルタイムのLinuxシステム管理者を目指す受講者を対象に、主要なコマンドラインの概念やエンタープライズレベルのツールを紹介することで、その基礎を築きます。
     </td>
   </tr>
-
   <tr>
     <td ><!--  ドキュメント名  -->
       <a href="
@@ -507,7 +505,6 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
       このコースは、Red Hat System Administration I (RH124) コースを修了した受講者を対象に設計されています。本コースでは、フルタイムの Linux 管理者になるために必要な主要なタスクに焦点を当て、Red Hat 認定システム管理者試験を通じてそれらのスキルを検証します。このコースでは、ファイルシステム、パーティショニング、論理ボリューム、SELinux、ファイアウォール、トラブルシューティングなど、エンタープライズ Linux 管理についてより深く掘り下げていきます。
     </td>
   </tr>
-
   <tr>
     <td ><!--  ドキュメント名  -->
       <a href="
@@ -521,7 +518,6 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
       このコースは、すでに一定のLinux管理経験をお持ちの受講者がRed Hat Enterprise Linuxの管理を学ぶための速習コースです。上述のRH124とRH134の2コースの重要な内容をピックアップして構成されています。
     </td>
   </tr>
-
   <tr>
     <td ><!--  ドキュメント名  -->
       <a href="
@@ -535,12 +531,12 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
       本コースは、Red Hat Ansible Automation Platform を使用した Linux システム管理タスクの自動化を学びます。プロビジョニング、構成、アプリケーションの展開、およびオーケストレーションの自動化が必要な Linux システム管理者および開発者を対象としています。このコースは、Red Hat® Enterprise Linux® 8.4 および Red Hat Ansible Automation Platform 1.2 を基にしています。
     </td>
   </tr>
-
 </table>
 
-* デリバリーエンジニア向け：高度な Red Hat Enterprise Linux スキル<br>
-以下のコースは、RHELをより高度に管理するためのユースケース別のコース群です。先に前述のRed Hat 認定システム管理者のスキルパスのコースを完了されてから取り組むことを推奨いたします。
+* <b>デリバリーエンジニア向け：高度な Red Hat Enterprise Linux スキル</b> <br>
+RHELをより高度に管理するためのユースケース別のコース群です。先に前述のRed Hat 認定システム管理者のスキルパスのコースを完了されてから取り組むことを推奨いたします。
 
+※ コース名で製品バージョンが指定されているものについては確認時点での最新コースを掲載しています。Partner Training Portalでは前後のバージョンのコースが公開されている場合がございますので必要に応じご確認下さい。
 
 <table>
   <tr><!-- 行1（見出し）-->
@@ -600,8 +596,8 @@ RHCEの詳細なスキルパスについては[こちら](https://www.redhat.com
       このコースは、Red Hat® Enterprise Linux® システムの大規模な管理を成功に導くために必要な概念と方法を学習する、演習ベースのコースです。サーバーに Red Hat Satellite 6 を設定してソフトウェア・パッケージを追加する方法について学びます。受講者は Red Hat Satellite を使用して、サブスクライブされたホストとその設定のソフトウェア開発ライフサイクルを管理し、ソフトウェアおよび Ansible® 設定管理を組み込んだホストをデプロイ時にプロビジョニングする方法について学びます。
     </td>
   </tr>
-
 </table>
+
 
 ### 03-02. その他学習関連情報
 
