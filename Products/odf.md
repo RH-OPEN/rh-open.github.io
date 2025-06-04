@@ -6,7 +6,7 @@ sort: 8
 
 <img src="https://github.com/RH-OPEN/rh-open.github.io/blob/main/Products/images/Logo-Red_Hat-OpenShift-Data_Foundation-A-Standard-RGB.png?raw=true" alt="odf_logo" title="odf">
 
-[Red Hat OpenShift Data Foundation](https://www.redhat.com/ja/technologies/cloud-computing/openshift-container-storage) (旧 Red Hat OpenShift Container Storage) は、コンテナ用ソフトウェア・デファインド・ストレージです。Red Hat OpenShift のデータおよびストレージサービス・プラットフォームとして設計された Red Hat OpenShift Data Foundation は、クラウド全体でアプリケーションを迅速かつ効率的に開発し、デプロイするのに役立ちます。
+[Red Hat OpenShift Data Foundation](https://www.redhat.com/ja/technologies/cloud-computing/openshift-data-foundation) (旧 Red Hat OpenShift Container Storage) は、コンテナ用ソフトウェア・デファインド・ストレージです。Red Hat OpenShift のデータおよびストレージサービス・プラットフォームとして設計された Red Hat OpenShift Data Foundation は、クラウド全体でアプリケーションを迅速かつ効率的に開発し、デプロイするのに役立ちます。
 
 ```note
 本ページに記載のリンクの一部は、参照に[Red Hat Content Center](https://content.redhat.com)へのログインが必要です。
@@ -18,7 +18,7 @@ sort: 8
 ```
 
 <b>
-最終更新日：2024/11/21
+最終更新日：2025/06/06
 </b>
 
 ## 01. 製品説明資料
