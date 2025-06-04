@@ -18,7 +18,7 @@ sort: 7
 ```
 
 <b>
-最終更新日：2024/11/28
+最終更新日：2026/06/06
 </b>
 
 ## 01. 製品説明資料
@@ -53,31 +53,7 @@ sort: 7
       <!--  記載確認日  -->2023/6/12
     </td>
   </tr>
-
-<!-->
-  <tr>
-    <td>
-      OpenShift Container Platform Plusを使用したコンテナの保護
-    </td>
-    <td>
-      OpenShift Container Platform Plusを使用し、コンテナアプリケーションと実行環境を保護する方法について解説を行ったテクニカルプレゼンテーション資料です。
-    </td>
-    <td>
-      -
-    </td>
-    <td>
-      <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=18c828d4-67e0-4cb2-9abd-7b9aca098ce6
-     " target="_blank" rel="noreferrer noopener">
-        PDF
-      </a>
-    </td>
-    <td>
-      2023/3/31
-    </td>
-  </tr>
--->
-
+  
 </table>
 
 ### 01-02. ソリューション・製品事例

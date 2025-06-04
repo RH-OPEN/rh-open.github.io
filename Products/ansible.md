@@ -27,7 +27,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
 ```
 
 <b>
-最終更新日：2024/11/28
+最終更新日：2025/06/04
 </b>
 
 ## 01. 製品説明資料
@@ -81,7 +81,7 @@ Ansible Automation Platformの製品関連資料は、[Ansible Automation Platfo
     <td>
       <!--  リンク先  -->
       <a href="
-        https://docs.ansible.com/automation-controller/latest/html/userguide/license-support.html
+        https://docs.ansible.com/automation-controller/4.0.0/html_ja/administration/license-support.html
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         Link

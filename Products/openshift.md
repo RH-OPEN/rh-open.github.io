@@ -18,7 +18,7 @@ sort: 4
 ```
 
 <b>
-最終更新日：2024/11/28
+最終更新日：2025/06/06
 </b>
 
 ## 01. 製品説明資料
@@ -793,28 +793,6 @@ Red Hat OpenShift Platform Plus(OPP)は、OpenShiftに加えてACM、ACS、ODF�
       <!--  記載確認日  -->2024/7/1
     </td>
   </tr>
-
-  <tr>
-    <td><!--  ドキュメント名  -->
-      ハイブリッドクラウドの開発者エクスペリエンスをモダナイズ
-    </td>
-    <td><!--  概要  -->
-      近年のソフトウェア開発者の抱える負担・課題について解説を行い、これに対応するためのソリューションとしてRed Hat Developer Hubを紹介するe-bookドキュメントです。
-    </td>
-    <td>
-      <!--  リンク先  -->
-      <a href="
-        https://www.redhat.com/ja/engage/modernize-hybrid-cloud-developer-experience-ebook
-     " target="_blank" rel="noreferrer noopener">
-        <!--  ドキュメント名  -->
-        PDF
-      </a>
-    </td>
-    <td>
-      <!--  記載確認日  -->2024/7/1
-    </td>
-  </tr>
-
 </table>
 
 ### 02-06. OpenShift Cloud Service
