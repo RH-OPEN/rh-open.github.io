@@ -43,7 +43,7 @@ sort: 7
     <td>
       <!--  リンク先  -->
       <a href="
-        https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f81e689f-7bbd-47b8-a991-11e69d21dd6f
+        https://content.redhat.com/us/en/assets/display.html?id=eba02b96-8d80-47a7-b980-b2f20407efd7
      " target="_blank" rel="noreferrer noopener">
         <!--  ドキュメント名  -->
         PDF

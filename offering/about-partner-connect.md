@@ -14,8 +14,8 @@ sort: 1
 |サービス|説明|
 |---|---|
 |[Partner Training Portal](about-ptp.html)|Red Hatの製品について自己学習頂けるe-Learninngシステムです。詳細はリンク先をご覧ください。|
-|Red Hat Content Center|製品ドキュメントやホワイトペーパーなど、パートナー様向けの製品ドキュメントの提供サイトです。|
-|Red Hat Demo Platform|パートナー様がRed Hat製品のデモを実施するためのサンドボックス環境を提供するサービスです。Red Hat製品の導入済みのサンドボックス環境をセルフサービスで発行・利用可能な他、デモのためのユースケースが提供されています。|
+|[Red Hat Content Center](https://content.redhat.com)|製品ドキュメントやホワイトペーパーなど、パートナー様向けの製品ドキュメントの提供サイトです。|
+|[Partner Demo Platform](about-rhdp.html)|パートナー様がRed Hat製品のデモを実施するためのサンドボックス環境を提供するサービスです。Red Hat製品の導入済みのサンドボックス環境をセルフサービスで発行・利用可能な他、デモのためのユースケースが提供されています。|
 
 上記の機能は、Red Hatパートナー企業様の社員であれば全て無料で利用可能です。
 
