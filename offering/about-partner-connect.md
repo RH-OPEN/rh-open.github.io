@@ -19,5 +19,5 @@ sort: 1
 
 上記の機能は、Red Hatパートナー企業様の社員であれば全て無料で利用可能です。
 
-利用開始までの流れは[Partner Connectアカウント作成手順](register-partner-connect.html)をご確認ください。
+ご利用方法については、貴社のRed Hat製品主管部、ご不明な場合は貴社担当のRed Hat営業までご確認下さい。
 また。レッドハットパートナーへの登録についての問い合わせ先は、[こちらのリンク](https://www.redhat.com/ja/partners)の最下段をご参照のうえ、お気軽にお問い合わせください。

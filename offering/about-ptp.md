@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 2
 ---
 
 # Red Hat Partner Training Portal

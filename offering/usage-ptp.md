@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 3
 ---
 
 # Red Hat Partner Training Portal利用手順
@@ -9,7 +9,6 @@ sort: 4
 ## 前提条件
 
 * Red Hat Partner Connectのアカウントを作成済みであること。
-  * 作成未了の場合、[Red Hat Partner Connect アカウント作成手順](register-partner-connect.html)をご参照の上作成を実施ください。
 
 ## 手順
 
