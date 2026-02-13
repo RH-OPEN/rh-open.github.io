@@ -20,7 +20,7 @@ sort: 1
     <!--- 内容 --->
     <td>
         <b>[まずはこちらから]</b><br>
-        Red Hatがパートナー様向けに公開しているポータルサイトであるRed Hat Partner Con nectについてのご説明です。<br>
+        Red Hatがパートナー様向けに公開しているポータルサイトであるRed Hat Partner Connectについてのご説明です。<br>
         Red Hatからのオファリングの多くがこのPartner Connect経由で行われますので、ぜひご確認 & ご活用ください。
     </td>
   </tr>
