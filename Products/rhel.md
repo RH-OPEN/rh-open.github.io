@@ -18,7 +18,7 @@ sort: 2
 ```
 
 <b>
-最終更新日：2024/12/3
+最終更新日：2026/9/14
 </b>
 
 ## 01. 製品説明資料
@@ -51,6 +51,54 @@ sort: 2
     </td>
     <td>
       <!--  記載確認日  -->2023/3/30
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      RHEL ELC/LLの紹介
+    </td>
+    <td><!--  概要  -->
+      RHELの新しいサブスクリプションである"Extended Life Cycle"と、延長ライフサイクルを提供するアドオン"Long Life Add-on"についてお客様に説明する資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=4f34d8c2-0537-4bbf-ad7c-f2af65c8aa06
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2026/9/14
+    </td>
+  </tr>
+
+  <tr>
+    <td><!--  ドキュメント名  -->
+      RHEL ELC_LL 宣伝資料
+    </td>
+    <td><!--  概要  -->
+      RHELの新規サブスクリプションであるELC（Extended Life Cycle）とLL（Long Life Add-on）について説明する、2ページのポスター形式資料です。
+    </td>
+    <td><!--  対象バージョン  -->
+      -
+    </td>
+    <td>
+      <!--  リンク先  -->
+      <a href="
+        https://content.redhat.com/us/en/assets/display.html?id=0cc85286-90c1-4440-b959-3363b197568a
+     " target="_blank" rel="noreferrer noopener">
+        <!--  ドキュメント名  -->
+        PDF
+      </a>
+    </td>
+    <td>
+      <!--  記載確認日  -->2026/9/14
     </td>
   </tr>
 
